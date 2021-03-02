@@ -1,0 +1,18 @@
+{
+    "id": "2017_29505444", 
+    "image_path": "images/val2017/2017_29505444.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a4_gender", 
+        "a59_sports", 
+        "a67_rel_competitors", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "48b96bf412e22a6b", 
+    "source_url": "https://c4.staticflickr.com/8/7262/7647559946_2e3b93c94b_o.jpg"
+}

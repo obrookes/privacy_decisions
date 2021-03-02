@@ -1,0 +1,15 @@
+{
+    "id": "2017_31239053", 
+    "image_path": "images/val2017/2017_31239053.jpg", 
+    "labels": [
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a58_hobbies", 
+        "a5_eye_color", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "118b69d3395a72d7", 
+    "source_url": "https://farm8.staticflickr.com/152/339963391_6ec0fe913f_o.jpg"
+}

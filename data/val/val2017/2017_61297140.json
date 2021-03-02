@@ -1,0 +1,18 @@
+{
+    "id": "2017_61297140", 
+    "image_path": "images/val2017/2017_61297140.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a27_marital_status", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a65_rel_social", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "5be8d03b277f4f6c", 
+    "source_url": "https://c5.staticflickr.com/8/7666/16429759123_13b3040c3e_o.jpg"
+}

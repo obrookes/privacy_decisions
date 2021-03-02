@@ -1,0 +1,11 @@
+{
+    "id": "2017_78764440", 
+    "image_path": "images/val2017/2017_78764440.jpg", 
+    "labels": [
+        "a37_receipt", 
+        "a49_phone", 
+        "a82_date_time"
+    ], 
+    "openimages_id": "3fcbb378aa2f44ce", 
+    "source_url": "https://c7.staticflickr.com/6/5147/5869030041_a05547aebb_o.jpg"
+}

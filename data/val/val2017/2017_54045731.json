@@ -1,0 +1,11 @@
+{
+    "id": "2017_54045731", 
+    "image_path": "images/val2017/2017_54045731.jpg", 
+    "labels": [
+        "a17_color", 
+        "a4_gender", 
+        "a68_rel_spectators"
+    ], 
+    "openimages_id": "3445eb4ad2665745", 
+    "source_url": "https://farm6.staticflickr.com/214/527401423_08f732ac39_o.jpg"
+}

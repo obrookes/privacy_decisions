@@ -1,0 +1,20 @@
+{
+    "id": "2017_11617312", 
+    "image_path": "images/val2017/2017_11617312.jpg", 
+    "labels": [
+        "a16_race", 
+        "a17_color", 
+        "a19_name_full", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a6_hair_color", 
+        "a70_education_history", 
+        "a8_signature", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "e707b3fd7f841ace", 
+    "source_url": "https://c7.staticflickr.com/9/8176/7986864030_3889c5bf02_o.jpg"
+}

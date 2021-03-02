@@ -1,0 +1,20 @@
+{
+    "id": "2017_84868133", 
+    "image_path": "images/val2017/2017_84868133.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a59_sports", 
+        "a64_rel_personal", 
+        "a67_rel_competitors", 
+        "a68_rel_spectators", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "e7b1a3f0a6915202", 
+    "source_url": "https://farm3.staticflickr.com/82/238884239_0f1961cc8f_o.jpg"
+}

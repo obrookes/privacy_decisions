@@ -1,0 +1,11 @@
+{
+    "id": "2017_27736120", 
+    "image_path": "images/val2017/2017_27736120.jpg", 
+    "labels": [
+        "a20_name_first", 
+        "a26_handwriting", 
+        "a75_address_current_partial"
+    ], 
+    "openimages_id": "130f531ef6b2b1af", 
+    "source_url": "https://c8.staticflickr.com/9/8375/8591328953_57183215e7_o.jpg"
+}

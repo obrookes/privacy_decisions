@@ -1,0 +1,12 @@
+{
+    "id": "2017_66714763", 
+    "image_path": "images/val2017/2017_66714763.jpg", 
+    "labels": [
+        "a37_receipt", 
+        "a73_landmark", 
+        "a75_address_current_partial", 
+        "a82_date_time"
+    ], 
+    "openimages_id": "a9eb88300e233c66", 
+    "source_url": "https://farm7.staticflickr.com/3070/2723244783_e3f48eea42_o.jpg"
+}

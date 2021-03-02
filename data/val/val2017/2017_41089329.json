@@ -1,0 +1,13 @@
+{
+    "id": "2017_41089329", 
+    "image_path": "images/val2017/2017_41089329.jpg", 
+    "labels": [
+        "a31_passport", 
+        "a38_ticket", 
+        "a73_landmark", 
+        "a75_address_current_partial", 
+        "a82_date_time"
+    ], 
+    "openimages_id": "a9d4205fcc971b92", 
+    "source_url": "https://farm3.staticflickr.com/7677/17302990910_5c4625e335_o.jpg"
+}

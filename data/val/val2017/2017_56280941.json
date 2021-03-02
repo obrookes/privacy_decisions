@@ -1,0 +1,14 @@
+{
+    "id": "2017_56280941", 
+    "image_path": "images/val2017/2017_56280941.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a4_gender", 
+        "a68_rel_spectators", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "2db1673d420beb7c", 
+    "source_url": "https://c5.staticflickr.com/6/5597/15424512935_bbff4e9cbb_o.jpg"
+}

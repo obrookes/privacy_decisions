@@ -1,0 +1,18 @@
+{
+    "id": "2017_79420150", 
+    "image_path": "images/val2017/2017_79420150.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a69_rel_views", 
+        "a6_hair_color", 
+        "a73_landmark", 
+        "a75_address_current_partial", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "1f3aa24c759cfaf5", 
+    "source_url": "https://farm6.staticflickr.com/2899/14182937309_a75e2ffefb_o.jpg"
+}

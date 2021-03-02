@@ -1,0 +1,17 @@
+{
+    "id": "2017_78407345", 
+    "image_path": "images/val2017/2017_78407345.jpg", 
+    "labels": [
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a27_marital_status", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a60_occassion_personal", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "afe3207ac954730a", 
+    "source_url": "https://c3.staticflickr.com/4/3956/15559649086_bdc51e464d_o.jpg"
+}

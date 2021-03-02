@@ -1,0 +1,10 @@
+{
+    "id": "2017_70212591", 
+    "image_path": "images/val2017/2017_70212591.jpg", 
+    "labels": [
+        "a58_hobbies", 
+        "a65_rel_social"
+    ], 
+    "openimages_id": "aaf84a39c1301976", 
+    "source_url": "https://farm7.staticflickr.com/355/19345132864_6eed49f7cd_o.jpg"
+}

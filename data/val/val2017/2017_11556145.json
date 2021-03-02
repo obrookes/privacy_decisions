@@ -1,0 +1,16 @@
+{
+    "id": "2017_11556145", 
+    "image_path": "images/val2017/2017_11556145.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a4_gender", 
+        "a61_opinion_general", 
+        "a69_rel_views", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "384a3eb9406b5058", 
+    "source_url": "https://c1.staticflickr.com/9/8437/7890535632_e7946f01fa_o.jpg"
+}

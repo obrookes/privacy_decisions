@@ -1,0 +1,19 @@
+{
+    "id": "2017_30506091", 
+    "image_path": "images/val2017/2017_30506091.jpg", 
+    "labels": [
+        "a11_tattoo", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a56_sexual_orientation", 
+        "a5_eye_color", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "b32e49889ae62ca6", 
+    "source_url": "https://farm7.staticflickr.com/1233/4609224315_34d2fbe120_o.jpg"
+}

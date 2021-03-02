@@ -1,0 +1,21 @@
+{
+    "id": "2017_76510374", 
+    "image_path": "images/val2017/2017_76510374.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a41_injury", 
+        "a46_occupation", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "6e103338bf823b2d", 
+    "source_url": "https://c6.staticflickr.com/7/6026/6002726557_0a3353ccd6_o.jpg"
+}

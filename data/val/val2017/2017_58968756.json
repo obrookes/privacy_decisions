@@ -1,0 +1,22 @@
+{
+    "id": "2017_58968756", 
+    "image_path": "images/val2017/2017_58968756.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a19_name_full", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a62_opinion_political", 
+        "a69_rel_views", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "d523312eb7cfa323", 
+    "source_url": "https://farm4.staticflickr.com/4120/4742962852_a82b66e570_o.jpg"
+}

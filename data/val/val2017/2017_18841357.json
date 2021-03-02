@@ -1,0 +1,12 @@
+{
+    "id": "2017_18841357", 
+    "image_path": "images/val2017/2017_18841357.jpg", 
+    "labels": [
+        "a19_name_full", 
+        "a49_phone", 
+        "a74_address_current_complete", 
+        "a82_date_time"
+    ], 
+    "openimages_id": "89b33fefb327d40e", 
+    "source_url": "https://c7.staticflickr.com/3/2466/3688478146_24cd8a02fe_o.jpg"
+}

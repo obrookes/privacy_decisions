@@ -1,0 +1,12 @@
+{
+    "id": "2017_67076916", 
+    "image_path": "images/val2017/2017_67076916.jpg", 
+    "labels": [
+        "a17_color", 
+        "a41_injury", 
+        "a46_occupation", 
+        "a5_eye_color"
+    ], 
+    "openimages_id": "afd78dfdc4dfa0c4", 
+    "source_url": "https://farm5.staticflickr.com/7058/6845214917_98b9cbe9ff_o.jpg"
+}

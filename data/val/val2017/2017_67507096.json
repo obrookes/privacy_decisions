@@ -1,0 +1,14 @@
+{
+    "id": "2017_67507096", 
+    "image_path": "images/val2017/2017_67507096.jpg", 
+    "labels": [
+        "a102_vehicle_ownership", 
+        "a10_face_partial", 
+        "a17_color", 
+        "a2_weight_approx", 
+        "a4_gender", 
+        "a65_rel_social"
+    ], 
+    "openimages_id": "b9f79bb35ecc64f0", 
+    "source_url": "https://farm1.staticflickr.com/5340/9420388961_197ff19951_o.jpg"
+}

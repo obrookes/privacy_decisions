@@ -1,0 +1,14 @@
+{
+    "id": "2017_94725965", 
+    "image_path": "images/val2017/2017_94725965.jpg", 
+    "labels": [
+        "a19_name_full", 
+        "a46_occupation", 
+        "a70_education_history", 
+        "a73_landmark", 
+        "a82_date_time", 
+        "a8_signature"
+    ], 
+    "openimages_id": "844bebd07a055328", 
+    "source_url": "https://c1.staticflickr.com/1/41/81700840_e46764e285_o.jpg"
+}

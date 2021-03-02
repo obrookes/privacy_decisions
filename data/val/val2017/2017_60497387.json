@@ -1,0 +1,15 @@
+{
+    "id": "2017_60497387", 
+    "image_path": "images/val2017/2017_60497387.jpg", 
+    "labels": [
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "9025042a9920ec90", 
+    "source_url": "https://farm1.staticflickr.com/5118/6952300364_18f65b83b3_o.jpg"
+}

@@ -1,0 +1,15 @@
+{
+    "id": "2017_41136216", 
+    "image_path": "images/val2017/2017_41136216.jpg", 
+    "labels": [
+        "a19_name_full", 
+        "a25_nationality", 
+        "a31_passport", 
+        "a46_occupation", 
+        "a75_address_current_partial", 
+        "a82_date_time", 
+        "a8_signature"
+    ], 
+    "openimages_id": null, 
+    "source_url": null
+}

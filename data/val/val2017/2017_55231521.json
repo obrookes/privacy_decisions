@@ -1,0 +1,15 @@
+{
+    "id": "2017_55231521", 
+    "image_path": "images/val2017/2017_55231521.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a4_gender", 
+        "a65_rel_social"
+    ], 
+    "openimages_id": "68406d5d122bca78", 
+    "source_url": "https://c1.staticflickr.com/9/8295/7960808658_799f50a687_o.jpg"
+}

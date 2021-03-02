@@ -1,0 +1,20 @@
+{
+    "id": "2017_87404701", 
+    "image_path": "images/val2017/2017_87404701.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a57_culture", 
+        "a65_rel_social", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "1cd26d5dad4fe614", 
+    "source_url": "https://farm5.staticflickr.com/5563/15027103345_c687e74eb9_o.jpg"
+}

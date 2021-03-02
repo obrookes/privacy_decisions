@@ -1,0 +1,20 @@
+{
+    "id": "2017_10509431", 
+    "image_path": "images/val2017/2017_10509431.jpg", 
+    "labels": [
+        "a16_race", 
+        "a17_color", 
+        "a19_name_full", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a48_occassion_work", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a66_rel_professional", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "63e7bfd8587f6e45", 
+    "source_url": "https://farm6.staticflickr.com/7301/8852891937_c5e46e7900_o.jpg"
+}

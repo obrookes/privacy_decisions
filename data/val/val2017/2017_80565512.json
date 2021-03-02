@@ -1,0 +1,11 @@
+{
+    "id": "2017_80565512", 
+    "image_path": "images/val2017/2017_80565512.jpg", 
+    "labels": [
+        "a1_age_approx", 
+        "a4_gender", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "5d9e2fc3d59aff1b", 
+    "source_url": "https://c4.staticflickr.com/4/3750/14082694228_c87d189e62_o.jpg"
+}

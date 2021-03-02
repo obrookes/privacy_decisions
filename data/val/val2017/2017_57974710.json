@@ -1,0 +1,18 @@
+{
+    "id": "2017_57974710", 
+    "image_path": "images/val2017/2017_57974710.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a66_rel_professional", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "7b4b21751cf0508b", 
+    "source_url": "https://c4.staticflickr.com/8/7290/11715889925_c9f6ed4153_o.jpg"
+}

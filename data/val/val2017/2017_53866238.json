@@ -1,0 +1,23 @@
+{
+    "id": "2017_53866238", 
+    "image_path": "images/val2017/2017_53866238.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a25_nationality", 
+        "a39_disability_physical", 
+        "a46_occupation", 
+        "a4_gender", 
+        "a59_sports", 
+        "a5_eye_color", 
+        "a66_rel_professional", 
+        "a67_rel_competitors", 
+        "a68_rel_spectators", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "3c391da21bc800c4", 
+    "source_url": "https://farm5.staticflickr.com/5828/20511591952_afe4f529f8_o.jpg"
+}

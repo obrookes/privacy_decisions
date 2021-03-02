@@ -1,0 +1,21 @@
+{
+    "id": "2017_36968820", 
+    "image_path": "images/val2017/2017_36968820.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a18_ethnic_clothing", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a56_sexual_orientation", 
+        "a60_occassion_personal", 
+        "a64_rel_personal", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "0b0667eb545e010a", 
+    "source_url": "https://c3.staticflickr.com/5/4039/4368959925_804b5c4057_o.jpg"
+}

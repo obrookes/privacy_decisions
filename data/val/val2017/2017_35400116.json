@@ -1,0 +1,16 @@
+{
+    "id": "2017_35400116", 
+    "image_path": "images/val2017/2017_35400116.jpg", 
+    "labels": [
+        "a16_race", 
+        "a17_color", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a65_rel_social", 
+        "a6_hair_color", 
+        "a73_landmark"
+    ], 
+    "openimages_id": "f654adfb06b0f3f6", 
+    "source_url": "https://farm7.staticflickr.com/4050/4689470294_078b0666f7_o.jpg"
+}

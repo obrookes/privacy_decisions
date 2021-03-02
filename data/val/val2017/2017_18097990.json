@@ -1,0 +1,19 @@
+{
+    "id": "2017_18097990", 
+    "image_path": "images/val2017/2017_18097990.jpg", 
+    "labels": [
+        "a19_name_full", 
+        "a1_age_approx", 
+        "a23_birth_city", 
+        "a24_birth_date", 
+        "a25_nationality", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a59_sports", 
+        "a73_landmark", 
+        "a75_address_current_partial", 
+        "a82_date_time"
+    ], 
+    "openimages_id": "b8626fa1101a10ae", 
+    "source_url": "https://c7.staticflickr.com/7/6169/6134445118_4cea287cbb_o.jpg"
+}

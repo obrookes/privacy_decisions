@@ -1,0 +1,11 @@
+{
+    "id": "2017_57928342", 
+    "image_path": "images/val2017/2017_57928342.jpg", 
+    "labels": [
+        "a24_birth_date", 
+        "a26_handwriting", 
+        "a85_username"
+    ], 
+    "openimages_id": "6bc6d549ef58ce67", 
+    "source_url": "https://farm8.staticflickr.com/7302/16502284961_3c942c0b0a_o.jpg"
+}

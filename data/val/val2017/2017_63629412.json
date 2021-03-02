@@ -1,0 +1,10 @@
+{
+    "id": "2017_63629412", 
+    "image_path": "images/val2017/2017_63629412.jpg", 
+    "labels": [
+        "a7_fingerprint", 
+        "a8_signature"
+    ], 
+    "openimages_id": "fdf1cdd8dcc41b71", 
+    "source_url": "https://farm2.staticflickr.com/3590/3769288883_84a2123c01_o.jpg"
+}

@@ -1,0 +1,16 @@
+{
+    "id": "2017_38635968", 
+    "image_path": "images/val2017/2017_38635968.jpg", 
+    "labels": [
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "22dc02eaa0eaec5a", 
+    "source_url": "https://c3.staticflickr.com/9/8773/16893843549_4fe56d9b2a_o.jpg"
+}

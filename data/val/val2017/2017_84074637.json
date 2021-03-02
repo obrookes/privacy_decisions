@@ -1,0 +1,10 @@
+{
+    "id": "2017_84074637", 
+    "image_path": "images/val2017/2017_84074637.jpg", 
+    "labels": [
+        "a2_weight_approx", 
+        "a4_gender"
+    ], 
+    "openimages_id": "6fcc453f53e24690", 
+    "source_url": "https://farm1.staticflickr.com/7319/12464340723_166c0c6830_o.jpg"
+}

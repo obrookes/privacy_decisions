@@ -1,0 +1,16 @@
+{
+    "id": "2017_58162270", 
+    "image_path": "images/val2017/2017_58162270.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a65_rel_social", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "686e92f5c5778f9b", 
+    "source_url": "https://c4.staticflickr.com/3/2291/5827541846_2e75fe13b3_o.jpg"
+}

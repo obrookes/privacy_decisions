@@ -1,0 +1,19 @@
+{
+    "id": "2017_61040405", 
+    "image_path": "images/val2017/2017_61040405.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a46_occupation", 
+        "a4_gender", 
+        "a61_opinion_general", 
+        "a69_rel_views", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "20e3bbce827c3d16", 
+    "source_url": "https://farm7.staticflickr.com/7417/15799930514_1723bbfc43_o.jpg"
+}

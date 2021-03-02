@@ -1,0 +1,14 @@
+{
+    "id": "2017_25883163", 
+    "image_path": "images/val2017/2017_25883163.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a4_gender", 
+        "a69_rel_views", 
+        "a75_address_current_partial"
+    ], 
+    "openimages_id": "4cf81875f4fd55b4", 
+    "source_url": "https://farm5.staticflickr.com/8722/16608445957_0e196d01da_o.jpg"
+}

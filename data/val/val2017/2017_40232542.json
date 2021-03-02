@@ -1,0 +1,23 @@
+{
+    "id": "2017_40232542", 
+    "image_path": "images/val2017/2017_40232542.jpg", 
+    "labels": [
+        "a103_license_plate_complete", 
+        "a10_face_partial", 
+        "a11_tattoo", 
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a57_culture", 
+        "a5_eye_color", 
+        "a68_rel_spectators", 
+        "a6_hair_color", 
+        "a73_landmark", 
+        "a74_address_current_complete", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "0915f176290523c3", 
+    "source_url": "https://farm4.staticflickr.com/3132/2658976660_a49af24d5c_o.jpg"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "2017_67633541", 
+    "image_path": "images/val2017/2017_67633541.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a46_occupation", 
+        "a4_gender", 
+        "a55_religion", 
+        "a56_sexual_orientation", 
+        "a60_occassion_personal", 
+        "a64_rel_personal", 
+        "a65_rel_social", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "40aab474afdf5c64", 
+    "source_url": "https://farm5.staticflickr.com/7609/16215423453_80dc11f395_o.jpg"
+}

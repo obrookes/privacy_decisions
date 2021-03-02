@@ -1,0 +1,17 @@
+{
+    "id": "2017_15536668", 
+    "image_path": "images/val2017/2017_15536668.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a57_culture", 
+        "a59_sports", 
+        "a68_rel_spectators", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "14014db067b368d5", 
+    "source_url": "https://farm6.staticflickr.com/179/413337135_0e8af9153e_o.jpg"
+}

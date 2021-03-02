@@ -1,0 +1,14 @@
+{
+    "id": "2017_45264575", 
+    "image_path": "images/val2017/2017_45264575.jpg", 
+    "labels": [
+        "a17_color", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a55_religion", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "55a3ccd6dc4e61e4", 
+    "source_url": "https://farm5.staticflickr.com/8303/7760066436_e7fb9f14e0_o.jpg"
+}

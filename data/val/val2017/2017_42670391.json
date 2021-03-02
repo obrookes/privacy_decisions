@@ -1,0 +1,19 @@
+{
+    "id": "2017_42670391", 
+    "image_path": "images/val2017/2017_42670391.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a57_culture", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "02cee731e5e76b92", 
+    "source_url": "https://farm3.staticflickr.com/6162/6184053064_58e66b404b_o.jpg"
+}

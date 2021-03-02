@@ -1,0 +1,17 @@
+{
+    "id": "2017_15520329", 
+    "image_path": "images/val2017/2017_15520329.jpg", 
+    "labels": [
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a59_sports", 
+        "a5_eye_color", 
+        "a67_rel_competitors", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "ef8f35928d2104f7", 
+    "source_url": "https://farm8.staticflickr.com/1367/959362179_c6c0db0a28_o.jpg"
+}

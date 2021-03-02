@@ -1,0 +1,19 @@
+{
+    "id": "2017_21409146", 
+    "image_path": "images/val2017/2017_21409146.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a21_name_last", 
+        "a48_occassion_work", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a66_rel_professional", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "d8d8b0a53dde54cb", 
+    "source_url": "https://c4.staticflickr.com/4/3858/14896339559_75c844dd01_o.jpg"
+}

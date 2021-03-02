@@ -1,0 +1,14 @@
+{
+    "id": "2017_41150608", 
+    "image_path": "images/val2017/2017_41150608.jpg", 
+    "labels": [
+        "a16_race", 
+        "a17_color", 
+        "a55_religion", 
+        "a57_culture", 
+        "a68_rel_spectators", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "0af175c7f55c1b44", 
+    "source_url": "https://farm5.staticflickr.com/7005/6635759799_0d9feb3b86_o.jpg"
+}

@@ -1,0 +1,18 @@
+{
+    "id": "2017_19740432", 
+    "image_path": "images/val2017/2017_19740432.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a61_opinion_general", 
+        "a69_rel_views", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "81c9c1ecf9391110", 
+    "source_url": "https://farm1.staticflickr.com/7630/16558601759_8eb51ef48a_o.jpg"
+}

@@ -1,0 +1,16 @@
+{
+    "id": "2017_61979782", 
+    "image_path": "images/val2017/2017_61979782.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a46_occupation", 
+        "a4_gender", 
+        "a55_religion", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "b9791e7e9404b6a5", 
+    "source_url": "https://farm6.staticflickr.com/2365/2406686488_b6571023c1_o.jpg"
+}

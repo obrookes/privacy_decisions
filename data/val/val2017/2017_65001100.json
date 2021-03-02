@@ -1,0 +1,9 @@
+{
+    "id": "2017_65001100", 
+    "image_path": "images/val2017/2017_65001100.jpg", 
+    "labels": [
+        "a0_safe"
+    ], 
+    "openimages_id": "e3770d35df13d737", 
+    "source_url": "https://farm8.staticflickr.com/3182/2971216247_4cf5157e61_o.jpg"
+}

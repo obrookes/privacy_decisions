@@ -1,0 +1,17 @@
+{
+    "id": "2017_69678182", 
+    "image_path": "images/val2017/2017_69678182.jpg", 
+    "labels": [
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a57_culture", 
+        "a5_eye_color", 
+        "a68_rel_spectators", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "057f6fb80ccaf4e4", 
+    "source_url": "https://farm5.staticflickr.com/3869/14504898216_aeed0a6dc4_o.jpg"
+}

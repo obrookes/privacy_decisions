@@ -1,0 +1,11 @@
+{
+    "id": "2017_25304826", 
+    "image_path": "images/val2017/2017_25304826.jpg", 
+    "labels": [
+        "a35_mail", 
+        "a49_phone", 
+        "a78_address_home_complete"
+    ], 
+    "openimages_id": "0a9106338de7cfaa", 
+    "source_url": "https://c3.staticflickr.com/8/7280/7446904896_a2d78e036c_o.jpg"
+}

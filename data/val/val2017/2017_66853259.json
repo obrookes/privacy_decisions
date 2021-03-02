@@ -1,0 +1,13 @@
+{
+    "id": "2017_66853259", 
+    "image_path": "images/val2017/2017_66853259.jpg", 
+    "labels": [
+        "a38_ticket", 
+        "a59_sports", 
+        "a73_landmark", 
+        "a75_address_current_partial", 
+        "a82_date_time"
+    ], 
+    "openimages_id": "f0016c5e444e2bc9", 
+    "source_url": "https://c2.staticflickr.com/1/21/32523173_feb434cf8b_o.jpg"
+}

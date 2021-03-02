@@ -1,0 +1,13 @@
+{
+    "id": "2017_32000648", 
+    "image_path": "images/val2017/2017_32000648.jpg", 
+    "labels": [
+        "a26_handwriting", 
+        "a37_receipt", 
+        "a49_phone", 
+        "a75_address_current_partial", 
+        "a82_date_time"
+    ], 
+    "openimages_id": "b8206fadffb4475f", 
+    "source_url": "https://c8.staticflickr.com/4/3591/3306851454_230811dd65_o.jpg"
+}

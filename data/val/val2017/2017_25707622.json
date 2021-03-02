@@ -1,0 +1,18 @@
+{
+    "id": "2017_25707622", 
+    "image_path": "images/val2017/2017_25707622.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a56_sexual_orientation", 
+        "a57_culture", 
+        "a68_rel_spectators", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "cd2cd9a0d602c3aa", 
+    "source_url": "https://c3.staticflickr.com/6/5232/14133870260_721aae4e2b_o.jpg"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "2017_43029410", 
+    "image_path": "images/val2017/2017_43029410.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a57_culture", 
+        "a5_eye_color", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "53a50550a34bf8e1", 
+    "source_url": "https://farm2.staticflickr.com/3900/14975484428_f27acfe48a_o.jpg"
+}

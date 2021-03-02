@@ -1,0 +1,10 @@
+{
+    "id": "2017_37912856", 
+    "image_path": "images/val2017/2017_37912856.jpg", 
+    "labels": [
+        "a73_landmark", 
+        "a79_address_home_partial"
+    ], 
+    "openimages_id": "2db956b6061e2fbf", 
+    "source_url": "https://c8.staticflickr.com/9/8301/8009660634_14d6a53b53_o.jpg"
+}

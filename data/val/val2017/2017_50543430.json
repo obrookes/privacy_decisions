@@ -1,0 +1,13 @@
+{
+    "id": "2017_50543430", 
+    "image_path": "images/val2017/2017_50543430.jpg", 
+    "labels": [
+        "a16_race", 
+        "a17_color", 
+        "a4_gender", 
+        "a73_landmark", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "f16adf69e47086e5", 
+    "source_url": "https://farm6.staticflickr.com/7359/8731812760_1d62b91a40_o.jpg"
+}

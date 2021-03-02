@@ -1,0 +1,15 @@
+{
+    "id": "2017_83030897", 
+    "image_path": "images/val2017/2017_83030897.jpg", 
+    "labels": [
+        "a102_vehicle_ownership", 
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a2_weight_approx", 
+        "a46_occupation", 
+        "a4_gender"
+    ], 
+    "openimages_id": "fb45f577b7e4d7cf", 
+    "source_url": "https://c8.staticflickr.com/1/369/18808587982_0996553e5e_o.jpg"
+}

@@ -1,0 +1,16 @@
+{
+    "id": "2017_22700951", 
+    "image_path": "images/val2017/2017_22700951.jpg", 
+    "labels": [
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "0fb806c7adc75fd0", 
+    "source_url": "https://farm1.staticflickr.com/3751/9274645668_df7e476d68_o.jpg"
+}

@@ -1,0 +1,11 @@
+{
+    "id": "2017_29119321", 
+    "image_path": "images/val2017/2017_29119321.jpg", 
+    "labels": [
+        "a4_gender", 
+        "a6_hair_color", 
+        "a73_landmark"
+    ], 
+    "openimages_id": "a68885a5769fde9e", 
+    "source_url": "https://c7.staticflickr.com/3/2100/2418987788_5d0f730d1c_o.jpg"
+}

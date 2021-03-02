@@ -1,0 +1,12 @@
+{
+    "id": "2017_84019107", 
+    "image_path": "images/val2017/2017_84019107.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx"
+    ], 
+    "openimages_id": "cd31e61863de098b", 
+    "source_url": "https://c4.staticflickr.com/4/3894/14535150348_db0115cc0c_o.jpg"
+}

@@ -1,0 +1,17 @@
+{
+    "id": "2017_61537562", 
+    "image_path": "images/val2017/2017_61537562.jpg", 
+    "labels": [
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a46_occupation", 
+        "a4_gender", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "9e0bf471667cde98", 
+    "source_url": "https://c1.staticflickr.com/5/4137/4851933477_66daa91def_o.jpg"
+}

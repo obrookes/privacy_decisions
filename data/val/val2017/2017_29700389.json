@@ -1,0 +1,18 @@
+{
+    "id": "2017_29700389", 
+    "image_path": "images/val2017/2017_29700389.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a18_ethnic_clothing", 
+        "a2_weight_approx", 
+        "a46_occupation", 
+        "a4_gender", 
+        "a57_culture", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "7251aa50cc3d812a", 
+    "source_url": "https://c3.staticflickr.com/9/8331/8148733632_20b91d6f2d_o.jpg"
+}

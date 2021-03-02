@@ -1,0 +1,15 @@
+{
+    "id": "2017_85039025", 
+    "image_path": "images/val2017/2017_85039025.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a17_color", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a57_culture", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "365d849156b0dbd4", 
+    "source_url": "https://farm5.staticflickr.com/7327/9425651097_67b4cbb6d7_o.jpg"
+}

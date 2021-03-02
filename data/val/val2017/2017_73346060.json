@@ -1,0 +1,12 @@
+{
+    "id": "2017_73346060", 
+    "image_path": "images/val2017/2017_73346060.jpg", 
+    "labels": [
+        "a19_name_full", 
+        "a46_occupation", 
+        "a49_phone", 
+        "a82_date_time"
+    ], 
+    "openimages_id": "dcb9e5f72b689437", 
+    "source_url": "https://farm8.staticflickr.com/4089/5200007184_0299299b5a_o.jpg"
+}

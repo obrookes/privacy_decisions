@@ -1,0 +1,18 @@
+{
+    "id": "2017_37766262", 
+    "image_path": "images/val2017/2017_37766262.jpg", 
+    "labels": [
+        "a102_vehicle_ownership", 
+        "a10_face_partial", 
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a4_gender", 
+        "a65_rel_social", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "8e6090393c48ecbb", 
+    "source_url": "https://c4.staticflickr.com/2/1265/530805950_a915f8c7c4_o.jpg"
+}

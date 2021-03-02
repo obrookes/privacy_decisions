@@ -1,0 +1,10 @@
+{
+    "id": "2017_55358770", 
+    "image_path": "images/val2017/2017_55358770.jpg", 
+    "labels": [
+        "a35_mail", 
+        "a64_rel_personal"
+    ], 
+    "openimages_id": "da81d1d5bb6a3a4c", 
+    "source_url": "https://c5.staticflickr.com/4/3261/2867884985_c48e157fa4_o.jpg"
+}

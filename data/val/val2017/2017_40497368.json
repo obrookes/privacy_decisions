@@ -1,0 +1,16 @@
+{
+    "id": "2017_40497368", 
+    "image_path": "images/val2017/2017_40497368.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a59_sports", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "89bf63b1f7f19ec5", 
+    "source_url": "https://farm6.staticflickr.com/1374/639257247_c98598c846_o.jpg"
+}

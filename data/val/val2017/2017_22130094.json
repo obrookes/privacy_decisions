@@ -1,0 +1,16 @@
+{
+    "id": "2017_22130094", 
+    "image_path": "images/val2017/2017_22130094.jpg", 
+    "labels": [
+        "a102_vehicle_ownership", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "a1902e84be50b87d", 
+    "source_url": "https://c6.staticflickr.com/3/2924/14461501512_7294f03999_o.jpg"
+}

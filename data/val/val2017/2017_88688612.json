@@ -1,0 +1,15 @@
+{
+    "id": "2017_88688612", 
+    "image_path": "images/val2017/2017_88688612.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a2_weight_approx", 
+        "a4_gender", 
+        "a59_sports", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "0dc5a84f9b273b5e", 
+    "source_url": "https://c7.staticflickr.com/1/94/240708725_9a2173439b_o.jpg"
+}

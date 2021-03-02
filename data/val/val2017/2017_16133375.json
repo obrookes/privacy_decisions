@@ -1,0 +1,16 @@
+{
+    "id": "2017_16133375", 
+    "image_path": "images/val2017/2017_16133375.jpg", 
+    "labels": [
+        "a103_license_plate_complete", 
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a4_gender", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "8fcac9d647e6bcb4", 
+    "source_url": "https://farm5.staticflickr.com/8723/17069434827_a6b2eb2a84_o.jpg"
+}

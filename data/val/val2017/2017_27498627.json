@@ -1,0 +1,15 @@
+{
+    "id": "2017_27498627", 
+    "image_path": "images/val2017/2017_27498627.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a4_gender", 
+        "a57_culture", 
+        "a68_rel_spectators", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "fb77cbb5ff3f39c6", 
+    "source_url": "https://farm7.staticflickr.com/124/416266453_f0316b069b_o.jpg"
+}

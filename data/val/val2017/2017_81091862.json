@@ -1,0 +1,18 @@
+{
+    "id": "2017_81091862", 
+    "image_path": "images/val2017/2017_81091862.jpg", 
+    "labels": [
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "9b9d980091dceda2", 
+    "source_url": "https://farm3.staticflickr.com/8036/7906475138_5f035b817f_o.jpg"
+}

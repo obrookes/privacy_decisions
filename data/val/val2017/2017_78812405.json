@@ -1,0 +1,20 @@
+{
+    "id": "2017_78812405", 
+    "image_path": "images/val2017/2017_78812405.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a18_ethnic_clothing", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a46_occupation", 
+        "a4_gender", 
+        "a55_religion", 
+        "a66_rel_professional", 
+        "a68_rel_spectators", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "739b7bc8b053baa7", 
+    "source_url": "https://farm8.staticflickr.com/2935/14693425966_60ce43c243_o.jpg"
+}

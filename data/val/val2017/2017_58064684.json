@@ -1,0 +1,18 @@
+{
+    "id": "2017_58064684", 
+    "image_path": "images/val2017/2017_58064684.jpg", 
+    "labels": [
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a48_occassion_work", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "ad7e219243f39ef4", 
+    "source_url": "https://farm5.staticflickr.com/6013/6191309117_b333e3c301_o.jpg"
+}

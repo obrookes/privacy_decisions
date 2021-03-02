@@ -1,0 +1,9 @@
+{
+    "id": "2017_71230880", 
+    "image_path": "images/val2017/2017_71230880.jpg", 
+    "labels": [
+        "a104_license_plate_partial"
+    ], 
+    "openimages_id": "ccf9186b81824e96", 
+    "source_url": "https://farm7.staticflickr.com/2787/4418805604_8c03b959df_o.jpg"
+}

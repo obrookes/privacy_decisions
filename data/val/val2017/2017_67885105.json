@@ -1,0 +1,16 @@
+{
+    "id": "2017_67885105", 
+    "image_path": "images/val2017/2017_67885105.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a11_tattoo", 
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a4_gender", 
+        "a59_sports", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "d289b5e34223a970", 
+    "source_url": "https://farm1.staticflickr.com/55/112833515_9dd9cf4ace_o.jpg"
+}

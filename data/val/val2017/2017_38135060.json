@@ -1,0 +1,16 @@
+{
+    "id": "2017_38135060", 
+    "image_path": "images/val2017/2017_38135060.jpg", 
+    "labels": [
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a49_phone", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a90_email", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "e8cb162913d221eb", 
+    "source_url": "https://c4.staticflickr.com/4/3033/3056657565_1ea638f29b_o.jpg"
+}

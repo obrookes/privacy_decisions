@@ -1,0 +1,12 @@
+{
+    "id": "2017_30874059", 
+    "image_path": "images/val2017/2017_30874059.jpg", 
+    "labels": [
+        "a17_color", 
+        "a4_gender", 
+        "a57_culture", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "3a30e09a0de54389", 
+    "source_url": "https://c2.staticflickr.com/3/2573/3868378353_30e484f883_o.jpg"
+}

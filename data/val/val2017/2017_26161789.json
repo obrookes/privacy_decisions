@@ -1,0 +1,13 @@
+{
+    "id": "2017_26161789", 
+    "image_path": "images/val2017/2017_26161789.jpg", 
+    "labels": [
+        "a20_name_first", 
+        "a37_receipt", 
+        "a49_phone", 
+        "a73_landmark", 
+        "a74_address_current_complete"
+    ], 
+    "openimages_id": "624e619bd52708b4", 
+    "source_url": "https://farm5.staticflickr.com/5028/5594833293_4a95720bc7_o.jpg"
+}

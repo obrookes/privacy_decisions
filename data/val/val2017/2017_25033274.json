@@ -1,0 +1,17 @@
+{
+    "id": "2017_25033274", 
+    "image_path": "images/val2017/2017_25033274.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a61_opinion_general", 
+        "a69_rel_views", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "d36ccd2b45026651", 
+    "source_url": "https://farm2.staticflickr.com/7323/10727278823_aa7099e191_o.jpg"
+}

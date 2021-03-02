@@ -1,0 +1,18 @@
+{
+    "id": "2017_20985301", 
+    "image_path": "images/val2017/2017_20985301.jpg", 
+    "labels": [
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a69_rel_views", 
+        "a6_hair_color", 
+        "a73_landmark", 
+        "a75_address_current_partial", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "b0ba78e6e4aa8474", 
+    "source_url": "https://farm5.staticflickr.com/7473/15082794203_9cfcd82e65_o.jpg"
+}

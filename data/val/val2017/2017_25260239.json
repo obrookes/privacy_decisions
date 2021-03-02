@@ -1,0 +1,20 @@
+{
+    "id": "2017_25260239", 
+    "image_path": "images/val2017/2017_25260239.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a46_occupation", 
+        "a4_gender", 
+        "a57_culture", 
+        "a59_sports", 
+        "a66_rel_professional", 
+        "a68_rel_spectators", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "ba2607d5a2945076", 
+    "source_url": "https://farm7.staticflickr.com/3029/2958296802_662c1779c4_o.jpg"
+}

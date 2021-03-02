@@ -1,0 +1,19 @@
+{
+    "id": "2017_38253933", 
+    "image_path": "images/val2017/2017_38253933.jpg", 
+    "labels": [
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a59_sports", 
+        "a5_eye_color", 
+        "a65_rel_social", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "48fce379b7f54c7c", 
+    "source_url": "https://c5.staticflickr.com/8/7306/9868303686_916b95c6bf_o.jpg"
+}

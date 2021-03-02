@@ -1,0 +1,12 @@
+{
+    "id": "2017_84445791", 
+    "image_path": "images/val2017/2017_84445791.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a17_color", 
+        "a41_injury", 
+        "a46_occupation"
+    ], 
+    "openimages_id": "b4c18662e823c01f", 
+    "source_url": "https://c8.staticflickr.com/9/8031/7901369776_4924822953_o.jpg"
+}

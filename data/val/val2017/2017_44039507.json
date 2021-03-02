@@ -1,0 +1,10 @@
+{
+    "id": "2017_44039507", 
+    "image_path": "images/val2017/2017_44039507.jpg", 
+    "labels": [
+        "a59_sports", 
+        "a79_address_home_partial"
+    ], 
+    "openimages_id": "fd75558e373d9997", 
+    "source_url": "https://farm8.staticflickr.com/2904/14767952765_74f6f8bc60_o.jpg"
+}

@@ -1,0 +1,19 @@
+{
+    "id": "2017_77608127", 
+    "image_path": "images/val2017/2017_77608127.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a18_ethnic_clothing", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a57_culture", 
+        "a5_eye_color", 
+        "a68_rel_spectators", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "9f81b255245e8e41", 
+    "source_url": "https://farm2.staticflickr.com/5119/5842680130_245a9a0891_o.jpg"
+}

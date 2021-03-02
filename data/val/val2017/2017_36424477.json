@@ -1,0 +1,18 @@
+{
+    "id": "2017_36424477", 
+    "image_path": "images/val2017/2017_36424477.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a4_gender", 
+        "a56_sexual_orientation", 
+        "a57_culture", 
+        "a68_rel_spectators", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "aafee60a40616438", 
+    "source_url": "https://c1.staticflickr.com/7/6005/6016661027_9e03f3ed98_o.jpg"
+}

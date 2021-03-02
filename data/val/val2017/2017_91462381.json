@@ -1,0 +1,11 @@
+{
+    "id": "2017_91462381", 
+    "image_path": "images/val2017/2017_91462381.jpg", 
+    "labels": [
+        "a16_race", 
+        "a17_color", 
+        "a4_gender"
+    ], 
+    "openimages_id": "69a19ead98446d68", 
+    "source_url": "https://c1.staticflickr.com/6/5515/14168477719_d44a7c4a62_o.jpg"
+}

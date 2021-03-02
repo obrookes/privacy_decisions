@@ -1,0 +1,11 @@
+{
+    "id": "2017_70544237", 
+    "image_path": "images/val2017/2017_70544237.jpg", 
+    "labels": [
+        "a46_occupation", 
+        "a4_gender", 
+        "a59_sports"
+    ], 
+    "openimages_id": "eab04238a9ba64e9", 
+    "source_url": "https://c2.staticflickr.com/2/1150/1340685230_f67e1b0bd9_o.jpg"
+}

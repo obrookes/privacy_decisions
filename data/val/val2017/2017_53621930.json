@@ -1,0 +1,11 @@
+{
+    "id": "2017_53621930", 
+    "image_path": "images/val2017/2017_53621930.jpg", 
+    "labels": [
+        "a19_name_full", 
+        "a26_handwriting", 
+        "a82_date_time"
+    ], 
+    "openimages_id": "75ad91c5b07f2ca9", 
+    "source_url": "https://c2.staticflickr.com/9/8237/8468188066_4b3664501d_o.jpg"
+}

@@ -1,0 +1,13 @@
+{
+    "id": "2017_52496418", 
+    "image_path": "images/val2017/2017_52496418.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a4_gender"
+    ], 
+    "openimages_id": "fdb6dd62521935a9", 
+    "source_url": "https://c2.staticflickr.com/4/3825/12253724633_b122c31e5d_o.jpg"
+}

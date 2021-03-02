@@ -1,0 +1,10 @@
+{
+    "id": "2017_65083787", 
+    "image_path": "images/val2017/2017_65083787.jpg", 
+    "labels": [
+        "a26_handwriting", 
+        "a82_date_time"
+    ], 
+    "openimages_id": "0f5f3a9517237162", 
+    "source_url": "https://farm3.staticflickr.com/7267/7749514142_0290593de0_o.jpg"
+}

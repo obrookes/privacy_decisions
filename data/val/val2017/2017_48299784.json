@@ -1,0 +1,17 @@
+{
+    "id": "2017_48299784", 
+    "image_path": "images/val2017/2017_48299784.jpg", 
+    "labels": [
+        "a16_race", 
+        "a17_color", 
+        "a19_name_full", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a6_hair_color", 
+        "a82_date_time", 
+        "a99_legal_involvement", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "4732757643304599", 
+    "source_url": "https://c2.staticflickr.com/6/5455/14151191943_ab8d96304d_o.jpg"
+}

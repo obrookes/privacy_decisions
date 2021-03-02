@@ -1,0 +1,12 @@
+{
+    "id": "2017_87137472", 
+    "image_path": "images/val2017/2017_87137472.jpg", 
+    "labels": [
+        "a16_race", 
+        "a17_color", 
+        "a4_gender", 
+        "a59_sports"
+    ], 
+    "openimages_id": "c49399720feb1146", 
+    "source_url": "https://farm7.staticflickr.com/161/416824968_63c9f7ba4c_o.jpg"
+}

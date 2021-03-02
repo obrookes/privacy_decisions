@@ -1,0 +1,14 @@
+{
+    "id": "2017_93052746", 
+    "image_path": "images/val2017/2017_93052746.jpg", 
+    "labels": [
+        "a19_name_full", 
+        "a30_credit_card", 
+        "a37_receipt", 
+        "a46_occupation", 
+        "a49_phone", 
+        "a82_date_time"
+    ], 
+    "openimages_id": "879c7bf1e24bb600", 
+    "source_url": "https://farm1.staticflickr.com/6060/6353737827_aae64d65c1_o.jpg"
+}

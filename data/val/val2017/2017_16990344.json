@@ -1,0 +1,12 @@
+{
+    "id": "2017_16990344", 
+    "image_path": "images/val2017/2017_16990344.jpg", 
+    "labels": [
+        "a17_color", 
+        "a37_receipt", 
+        "a73_landmark", 
+        "a82_date_time"
+    ], 
+    "openimages_id": "15da73dff22969ab", 
+    "source_url": "https://c4.staticflickr.com/8/7414/10010868264_89ca6bab3a_o.jpg"
+}

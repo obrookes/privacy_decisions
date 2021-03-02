@@ -1,0 +1,15 @@
+{
+    "id": "2017_37570072", 
+    "image_path": "images/val2017/2017_37570072.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a2_weight_approx", 
+        "a4_gender", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "b59d09d022054a69", 
+    "source_url": "https://c2.staticflickr.com/1/41/115468263_529fa33fef_o.jpg"
+}

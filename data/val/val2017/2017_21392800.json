@@ -1,0 +1,15 @@
+{
+    "id": "2017_21392800", 
+    "image_path": "images/val2017/2017_21392800.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a58_hobbies", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "9427bd5f7e7cf581", 
+    "source_url": "https://farm2.staticflickr.com/2093/1545918124_1220d9e541_o.jpg"
+}

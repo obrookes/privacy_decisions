@@ -1,0 +1,17 @@
+{
+    "id": "2017_27950034", 
+    "image_path": "images/val2017/2017_27950034.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a57_culture", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "9ed99401a30ed2a5", 
+    "source_url": "https://farm6.staticflickr.com/5513/14336155846_4935d12aec_o.jpg"
+}

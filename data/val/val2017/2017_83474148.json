@@ -1,0 +1,15 @@
+{
+    "id": "2017_83474148", 
+    "image_path": "images/val2017/2017_83474148.jpg", 
+    "labels": [
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "9915966b1b5ada24", 
+    "source_url": "https://farm5.staticflickr.com/1307/4671611545_d0f60ca551_o.jpg"
+}

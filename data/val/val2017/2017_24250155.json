@@ -1,0 +1,13 @@
+{
+    "id": "2017_24250155", 
+    "image_path": "images/val2017/2017_24250155.jpg", 
+    "labels": [
+        "a17_color", 
+        "a4_gender", 
+        "a59_sports", 
+        "a65_rel_social", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "e2c7f791ca502fcd", 
+    "source_url": "https://c6.staticflickr.com/3/2746/4352512274_d9065bccc0_o.jpg"
+}

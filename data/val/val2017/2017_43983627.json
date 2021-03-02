@@ -1,0 +1,18 @@
+{
+    "id": "2017_43983627", 
+    "image_path": "images/val2017/2017_43983627.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a18_ethnic_clothing", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a57_culture", 
+        "a68_rel_spectators", 
+        "a6_hair_color", 
+        "a73_landmark"
+    ], 
+    "openimages_id": "6500c845e36929c0", 
+    "source_url": "https://farm1.staticflickr.com/5094/5586489462_ac7d73fc61_o.jpg"
+}

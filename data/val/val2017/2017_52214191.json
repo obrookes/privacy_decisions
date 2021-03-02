@@ -1,0 +1,12 @@
+{
+    "id": "2017_52214191", 
+    "image_path": "images/val2017/2017_52214191.jpg", 
+    "labels": [
+        "a20_name_first", 
+        "a26_handwriting", 
+        "a75_address_current_partial", 
+        "a82_date_time"
+    ], 
+    "openimages_id": "5fe72f5ef21991ed", 
+    "source_url": "https://c6.staticflickr.com/6/5028/5693658385_b7bc86f776_o.jpg"
+}

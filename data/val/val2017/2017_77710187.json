@@ -1,0 +1,16 @@
+{
+    "id": "2017_77710187", 
+    "image_path": "images/val2017/2017_77710187.jpg", 
+    "labels": [
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a58_hobbies", 
+        "a5_eye_color", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "594c587d34135b8d", 
+    "source_url": "https://c6.staticflickr.com/9/8383/8554623662_ffbb5cc450_o.jpg"
+}

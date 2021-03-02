@@ -1,0 +1,17 @@
+{
+    "id": "2017_25998410", 
+    "image_path": "images/val2017/2017_25998410.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a59_sports", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "3465fdcc917eb19e", 
+    "source_url": "https://c7.staticflickr.com/7/6163/6168841227_79577a0be9_o.jpg"
+}

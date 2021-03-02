@@ -1,0 +1,19 @@
+{
+    "id": "2017_12061676", 
+    "image_path": "images/val2017/2017_12061676.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a58_hobbies", 
+        "a65_rel_social", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "855316c927ca7cb2", 
+    "source_url": "https://farm3.staticflickr.com/122/291318514_a04fe60571_o.jpg"
+}

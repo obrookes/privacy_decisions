@@ -1,0 +1,15 @@
+{
+    "id": "2017_10689647", 
+    "image_path": "images/val2017/2017_10689647.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a67_rel_competitors", 
+        "a68_rel_spectators"
+    ], 
+    "openimages_id": "394d9e38961ca5cf", 
+    "source_url": "https://c8.staticflickr.com/1/153/437674183_ce1183fc6a_o.jpg"
+}

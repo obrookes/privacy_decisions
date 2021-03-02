@@ -1,0 +1,18 @@
+{
+    "id": "2017_26691109", 
+    "image_path": "images/val2017/2017_26691109.jpg", 
+    "labels": [
+        "a16_race", 
+        "a17_color", 
+        "a18_ethnic_clothing", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a55_religion", 
+        "a5_eye_color", 
+        "a65_rel_social", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "3e4ba0054076a585", 
+    "source_url": "https://farm6.staticflickr.com/7073/7148186381_4a351e7f4b_o.jpg"
+}

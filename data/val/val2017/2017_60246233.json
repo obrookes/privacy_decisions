@@ -1,0 +1,19 @@
+{
+    "id": "2017_60246233", 
+    "image_path": "images/val2017/2017_60246233.jpg", 
+    "labels": [
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a25_nationality", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a48_occassion_work", 
+        "a4_gender", 
+        "a6_hair_color", 
+        "a82_date_time", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "28ae895ba1e1931d", 
+    "source_url": "https://c6.staticflickr.com/9/8369/8589102826_349b258403_o.jpg"
+}

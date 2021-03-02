@@ -1,0 +1,12 @@
+{
+    "id": "2017_77390991", 
+    "image_path": "images/val2017/2017_77390991.jpg", 
+    "labels": [
+        "a17_color", 
+        "a2_weight_approx", 
+        "a4_gender", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "f8c2319d837150c4", 
+    "source_url": "https://farm5.staticflickr.com/7356/8718305201_e9fd117ec9_o.jpg"
+}

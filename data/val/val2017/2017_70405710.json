@@ -1,0 +1,17 @@
+{
+    "id": "2017_70405710", 
+    "image_path": "images/val2017/2017_70405710.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a57_culture", 
+        "a58_hobbies", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "b37d01c5fafefb21", 
+    "source_url": "https://farm2.staticflickr.com/8434/7740619950_c2e66d9e54_o.jpg"
+}

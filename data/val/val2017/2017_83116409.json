@@ -1,0 +1,10 @@
+{
+    "id": "2017_83116409", 
+    "image_path": "images/val2017/2017_83116409.jpg", 
+    "labels": [
+        "a49_phone", 
+        "a73_landmark"
+    ], 
+    "openimages_id": "df082a92f75bca95", 
+    "source_url": "https://farm6.staticflickr.com/3727/9120609623_1c40773200_o.jpg"
+}

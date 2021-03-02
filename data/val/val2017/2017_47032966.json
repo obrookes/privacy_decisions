@@ -1,0 +1,20 @@
+{
+    "id": "2017_47032966", 
+    "image_path": "images/val2017/2017_47032966.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a66_rel_professional", 
+        "a6_hair_color", 
+        "a70_education_history", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "3285bc339bccda13", 
+    "source_url": "https://farm4.staticflickr.com/3765/11455097376_14bdc2eff1_o.jpg"
+}

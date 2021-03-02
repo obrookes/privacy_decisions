@@ -1,0 +1,22 @@
+{
+    "id": "2017_90523136", 
+    "image_path": "images/val2017/2017_90523136.jpg", 
+    "labels": [
+        "a16_race", 
+        "a17_color", 
+        "a18_ethnic_clothing", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a57_culture", 
+        "a58_hobbies", 
+        "a5_eye_color", 
+        "a64_rel_personal", 
+        "a68_rel_spectators", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "f5f88481d42cef44", 
+    "source_url": "https://farm5.staticflickr.com/49/159994572_450e8463d8_o.jpg"
+}

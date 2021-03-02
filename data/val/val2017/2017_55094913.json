@@ -1,0 +1,21 @@
+{
+    "id": "2017_55094913", 
+    "image_path": "images/val2017/2017_55094913.jpg", 
+    "labels": [
+        "a16_race", 
+        "a17_color", 
+        "a19_name_full", 
+        "a1_age_approx", 
+        "a24_birth_date", 
+        "a33_student_id", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a6_hair_color", 
+        "a73_landmark", 
+        "a75_address_current_partial", 
+        "a82_date_time", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "c34554d8ceead08d", 
+    "source_url": "https://c6.staticflickr.com/9/8318/7997826021_450becaa31_o.jpg"
+}

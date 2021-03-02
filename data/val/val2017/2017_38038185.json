@@ -1,0 +1,17 @@
+{
+    "id": "2017_38038185", 
+    "image_path": "images/val2017/2017_38038185.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a4_gender", 
+        "a57_culture", 
+        "a68_rel_spectators", 
+        "a6_hair_color", 
+        "a75_address_current_partial", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "104ef8f6c51c1dd6", 
+    "source_url": "https://farm7.staticflickr.com/7366/9727352457_bc983cc9c6_o.jpg"
+}

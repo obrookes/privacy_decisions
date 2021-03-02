@@ -1,0 +1,12 @@
+{
+    "id": "2017_60458502", 
+    "image_path": "images/val2017/2017_60458502.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx"
+    ], 
+    "openimages_id": "709dd16a3b8ec600", 
+    "source_url": "https://farm1.staticflickr.com/1114/1186548504_a3f791572d_o.jpg"
+}

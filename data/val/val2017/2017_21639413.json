@@ -1,0 +1,18 @@
+{
+    "id": "2017_21639413", 
+    "image_path": "images/val2017/2017_21639413.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a59_sports", 
+        "a5_eye_color", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "7a85988b2d80f7a8", 
+    "source_url": "https://c1.staticflickr.com/6/5093/5542488158_b35ae5f97a_o.jpg"
+}

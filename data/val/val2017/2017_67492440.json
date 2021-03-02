@@ -1,0 +1,16 @@
+{
+    "id": "2017_67492440", 
+    "image_path": "images/val2017/2017_67492440.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a59_sports", 
+        "a5_eye_color"
+    ], 
+    "openimages_id": "13278bd1699faa0b", 
+    "source_url": "https://c4.staticflickr.com/9/8038/7912248548_a9e209f890_o.jpg"
+}

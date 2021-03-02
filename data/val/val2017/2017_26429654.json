@@ -1,0 +1,22 @@
+{
+    "id": "2017_26429654", 
+    "image_path": "images/val2017/2017_26429654.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a18_ethnic_clothing", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a48_occassion_work", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a61_opinion_general", 
+        "a66_rel_professional", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "71a3032bc57542d9", 
+    "source_url": "https://c2.staticflickr.com/4/3729/9957775966_69a3241264_o.jpg"
+}

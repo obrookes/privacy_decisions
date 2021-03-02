@@ -1,0 +1,19 @@
+{
+    "id": "2017_82434588", 
+    "image_path": "images/val2017/2017_82434588.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a56_sexual_orientation", 
+        "a57_culture", 
+        "a68_rel_spectators", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "e450af7e734c7f88", 
+    "source_url": "https://c1.staticflickr.com/4/3882/14172483210_61e3dc3eb7_o.jpg"
+}

@@ -1,0 +1,16 @@
+{
+    "id": "2017_28358228", 
+    "image_path": "images/val2017/2017_28358228.jpg", 
+    "labels": [
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a59_sports", 
+        "a65_rel_social", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "3cb3c8100b1f53ed", 
+    "source_url": "https://c6.staticflickr.com/6/5581/14444723557_e8a534c653_o.jpg"
+}

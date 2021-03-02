@@ -1,0 +1,21 @@
+{
+    "id": "2017_39454703", 
+    "image_path": "images/val2017/2017_39454703.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a11_tattoo", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a61_opinion_general", 
+        "a64_rel_personal", 
+        "a69_rel_views", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "fda0c8cd1de5c2b4", 
+    "source_url": "https://farm5.staticflickr.com/2931/14567807273_3d39ce9ec2_o.jpg"
+}

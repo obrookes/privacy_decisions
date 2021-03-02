@@ -1,0 +1,16 @@
+{
+    "id": "2017_22387426", 
+    "image_path": "images/val2017/2017_22387426.jpg", 
+    "labels": [
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a39_disability_physical", 
+        "a46_occupation", 
+        "a4_gender", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": null, 
+    "source_url": null
+}

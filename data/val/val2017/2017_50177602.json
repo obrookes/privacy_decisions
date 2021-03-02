@@ -1,0 +1,10 @@
+{
+    "id": "2017_50177602", 
+    "image_path": "images/val2017/2017_50177602.jpg", 
+    "labels": [
+        "a60_occassion_personal", 
+        "a82_date_time"
+    ], 
+    "openimages_id": "d0305c0f78bd0919", 
+    "source_url": "https://c2.staticflickr.com/7/6212/6290134178_7dd7668b36_o.jpg"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "2017_58583031", 
+    "image_path": "images/val2017/2017_58583031.jpg", 
+    "labels": [
+        "a103_license_plate_complete", 
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a6_hair_color", 
+        "a73_landmark", 
+        "a75_address_current_partial", 
+        "a82_date_time", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "ae69e2b1b29566a6", 
+    "source_url": "https://farm7.staticflickr.com/2876/9705864033_3f0cb977a5_o.jpg"
+}

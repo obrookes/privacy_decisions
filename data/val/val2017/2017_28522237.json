@@ -1,0 +1,19 @@
+{
+    "id": "2017_28522237", 
+    "image_path": "images/val2017/2017_28522237.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a46_occupation", 
+        "a4_gender", 
+        "a59_sports", 
+        "a67_rel_competitors", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "ae338d7aae02ba9d", 
+    "source_url": "https://c6.staticflickr.com/3/2731/4422069970_3aafeff112_o.jpg"
+}

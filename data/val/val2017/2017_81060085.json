@@ -1,0 +1,21 @@
+{
+    "id": "2017_81060085", 
+    "image_path": "images/val2017/2017_81060085.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a27_marital_status", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a60_occassion_personal", 
+        "a65_rel_social", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "3e0461c11da774a0", 
+    "source_url": "https://farm1.staticflickr.com/5216/5404164670_24f16b8546_o.jpg"
+}

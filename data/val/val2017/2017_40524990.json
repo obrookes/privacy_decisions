@@ -1,0 +1,17 @@
+{
+    "id": "2017_40524990", 
+    "image_path": "images/val2017/2017_40524990.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a4_gender", 
+        "a57_culture", 
+        "a6_hair_color", 
+        "a73_landmark", 
+        "a75_address_current_partial", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "88176f62cdd238d4", 
+    "source_url": "https://farm5.staticflickr.com/5069/5689239233_a3faf4805a_o.jpg"
+}

@@ -1,0 +1,11 @@
+{
+    "id": "2017_70151620", 
+    "image_path": "images/val2017/2017_70151620.jpg", 
+    "labels": [
+        "a103_license_plate_complete", 
+        "a39_disability_physical", 
+        "a73_landmark"
+    ], 
+    "openimages_id": "85cc8c0262588b89", 
+    "source_url": "https://c2.staticflickr.com/3/2023/2059320692_e675d60e8b_o.jpg"
+}

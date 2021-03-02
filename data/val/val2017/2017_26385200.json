@@ -1,0 +1,18 @@
+{
+    "id": "2017_26385200", 
+    "image_path": "images/val2017/2017_26385200.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a61_opinion_general", 
+        "a69_rel_views", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "810c7b0269f5b139", 
+    "source_url": "https://c2.staticflickr.com/5/4113/4957274762_e791b13d38_o.jpg"
+}

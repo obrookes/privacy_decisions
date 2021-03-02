@@ -1,0 +1,17 @@
+{
+    "id": "2017_46304864", 
+    "image_path": "images/val2017/2017_46304864.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a64_rel_personal", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "4f5d385737729021", 
+    "source_url": "https://farm2.staticflickr.com/6102/7037224753_851554e660_o.jpg"
+}

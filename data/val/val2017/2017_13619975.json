@@ -1,0 +1,19 @@
+{
+    "id": "2017_13619975", 
+    "image_path": "images/val2017/2017_13619975.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a65_rel_social", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "0cf69154a21b9e7e", 
+    "source_url": "https://c7.staticflickr.com/2/1007/5188437373_94556fe6c2_o.jpg"
+}

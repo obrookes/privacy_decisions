@@ -1,0 +1,11 @@
+{
+    "id": "2017_32248165", 
+    "image_path": "images/val2017/2017_32248165.jpg", 
+    "labels": [
+        "a19_name_full", 
+        "a26_handwriting", 
+        "a4_gender"
+    ], 
+    "openimages_id": "f07020792d2c8f81", 
+    "source_url": "https://farm2.staticflickr.com/2689/4404529284_6763721c1e_o.jpg"
+}

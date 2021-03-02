@@ -1,0 +1,17 @@
+{
+    "id": "2017_86141307", 
+    "image_path": "images/val2017/2017_86141307.jpg", 
+    "labels": [
+        "a102_vehicle_ownership", 
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a46_occupation", 
+        "a4_gender", 
+        "a66_rel_professional", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "30f3fa701c608ec5", 
+    "source_url": "https://farm6.staticflickr.com/3431/3405689588_102ae204e1_o.jpg"
+}

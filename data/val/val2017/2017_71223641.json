@@ -1,0 +1,17 @@
+{
+    "id": "2017_71223641", 
+    "image_path": "images/val2017/2017_71223641.jpg", 
+    "labels": [
+        "a102_vehicle_ownership", 
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a4_gender", 
+        "a59_sports", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "bcfed0acba765c60", 
+    "source_url": "https://farm1.staticflickr.com/8446/7913360220_f785f38622_o.jpg"
+}

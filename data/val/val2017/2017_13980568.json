@@ -1,0 +1,14 @@
+{
+    "id": "2017_13980568", 
+    "image_path": "images/val2017/2017_13980568.jpg", 
+    "labels": [
+        "a17_color", 
+        "a2_weight_approx", 
+        "a4_gender", 
+        "a64_rel_personal", 
+        "a65_rel_social", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "89b81337471d345f", 
+    "source_url": "https://c8.staticflickr.com/8/7176/6872983101_3163e53dd3_o.jpg"
+}

@@ -1,0 +1,15 @@
+{
+    "id": "2017_32837335", 
+    "image_path": "images/val2017/2017_32837335.jpg", 
+    "labels": [
+        "a102_vehicle_ownership", 
+        "a16_race", 
+        "a17_color", 
+        "a2_weight_approx", 
+        "a46_occupation", 
+        "a4_gender", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "68812d951fe6d9c3", 
+    "source_url": "https://farm4.staticflickr.com/3041/2649293970_9a53316151_o.jpg"
+}

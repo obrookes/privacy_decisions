@@ -1,0 +1,19 @@
+{
+    "id": "2017_65985114", 
+    "image_path": "images/val2017/2017_65985114.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a27_marital_status", 
+        "a2_weight_approx", 
+        "a46_occupation", 
+        "a4_gender", 
+        "a59_sports", 
+        "a67_rel_competitors", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "9ebc7097d3ccfd81", 
+    "source_url": "https://farm2.staticflickr.com/3876/14457756991_5b5d1c12ee_o.jpg"
+}

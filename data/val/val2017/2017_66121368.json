@@ -1,0 +1,20 @@
+{
+    "id": "2017_66121368", 
+    "image_path": "images/val2017/2017_66121368.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a41_injury", 
+        "a46_occupation", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a66_rel_professional", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "f28171e7ecab9b36", 
+    "source_url": "https://farm7.staticflickr.com/8740/17166207815_d013054050_o.jpg"
+}

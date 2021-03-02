@@ -1,0 +1,16 @@
+{
+    "id": "2017_36403740", 
+    "image_path": "images/val2017/2017_36403740.jpg", 
+    "labels": [
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a46_occupation", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "768f21eb784c9ec8", 
+    "source_url": "https://c1.staticflickr.com/3/2766/4115381971_7ffa54e209_o.jpg"
+}

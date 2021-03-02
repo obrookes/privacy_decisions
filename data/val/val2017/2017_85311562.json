@@ -1,0 +1,19 @@
+{
+    "id": "2017_85311562", 
+    "image_path": "images/val2017/2017_85311562.jpg", 
+    "labels": [
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a26_handwriting", 
+        "a33_student_id", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a6_hair_color", 
+        "a78_address_home_complete", 
+        "a82_date_time", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": null, 
+    "source_url": null
+}

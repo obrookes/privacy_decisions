@@ -1,0 +1,14 @@
+{
+    "id": "2017_33224932", 
+    "image_path": "images/val2017/2017_33224932.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a17_color", 
+        "a46_occupation", 
+        "a4_gender", 
+        "a66_rel_professional", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "251b9b0dbcd15ed8", 
+    "source_url": "https://c1.staticflickr.com/8/7005/6437695399_0bd5e11ec2_o.jpg"
+}

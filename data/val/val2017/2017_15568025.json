@@ -1,0 +1,20 @@
+{
+    "id": "2017_15568025", 
+    "image_path": "images/val2017/2017_15568025.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a46_occupation", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a68_rel_spectators", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "36fac3ae7e88aa72", 
+    "source_url": "https://farm3.staticflickr.com/4063/4307785438_3bc747161b_o.jpg"
+}

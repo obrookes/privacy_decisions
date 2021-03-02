@@ -1,0 +1,20 @@
+{
+    "id": "2017_22730262", 
+    "image_path": "images/val2017/2017_22730262.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a68_rel_spectators", 
+        "a6_hair_color", 
+        "a70_education_history", 
+        "a82_date_time", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "8f8fa58764280eeb", 
+    "source_url": "https://c4.staticflickr.com/6/5485/9069957148_46c93df20c_o.jpg"
+}

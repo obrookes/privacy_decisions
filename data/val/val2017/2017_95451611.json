@@ -1,0 +1,9 @@
+{
+    "id": "2017_95451611", 
+    "image_path": "images/val2017/2017_95451611.jpg", 
+    "labels": [
+        "a103_license_plate_complete"
+    ], 
+    "openimages_id": "7bb00a10ed15e12b", 
+    "source_url": "https://c4.staticflickr.com/5/4015/4649989638_5d48119803_o.jpg"
+}

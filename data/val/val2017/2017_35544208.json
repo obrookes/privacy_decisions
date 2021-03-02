@@ -1,0 +1,19 @@
+{
+    "id": "2017_35544208", 
+    "image_path": "images/val2017/2017_35544208.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a48_occassion_work", 
+        "a4_gender", 
+        "a66_rel_professional", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "748a4c3e19bcd82d", 
+    "source_url": "https://c6.staticflickr.com/1/34/106953671_1920d52b99_o.jpg"
+}

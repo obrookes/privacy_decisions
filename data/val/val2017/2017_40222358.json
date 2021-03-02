@@ -1,0 +1,19 @@
+{
+    "id": "2017_40222358", 
+    "image_path": "images/val2017/2017_40222358.jpg", 
+    "labels": [
+        "a104_license_plate_partial", 
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a57_culture", 
+        "a68_rel_spectators", 
+        "a6_hair_color", 
+        "a75_address_current_partial", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "1ed25c8ef708e02a", 
+    "source_url": "https://c3.staticflickr.com/8/7334/9440542152_b995f49cfe_o.jpg"
+}

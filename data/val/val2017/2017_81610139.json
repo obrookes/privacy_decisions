@@ -1,0 +1,14 @@
+{
+    "id": "2017_81610139", 
+    "image_path": "images/val2017/2017_81610139.jpg", 
+    "labels": [
+        "a19_name_full", 
+        "a21_name_last", 
+        "a24_birth_date", 
+        "a26_handwriting", 
+        "a46_occupation", 
+        "a82_date_time"
+    ], 
+    "openimages_id": "18e7f9dd63a40d66", 
+    "source_url": "https://farm7.staticflickr.com/7480/15680687951_80b7cfb5fd_o.jpg"
+}

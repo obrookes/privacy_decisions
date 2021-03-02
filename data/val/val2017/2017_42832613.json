@@ -1,0 +1,17 @@
+{
+    "id": "2017_42832613", 
+    "image_path": "images/val2017/2017_42832613.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a60_occassion_personal", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "53dbe9858e907add", 
+    "source_url": "https://c6.staticflickr.com/4/3288/3031867895_ddeff307ec_o.jpg"
+}

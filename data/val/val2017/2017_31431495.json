@@ -1,0 +1,21 @@
+{
+    "id": "2017_31431495", 
+    "image_path": "images/val2017/2017_31431495.jpg", 
+    "labels": [
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a21_name_last", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a48_occassion_work", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a66_rel_professional", 
+        "a68_rel_spectators", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "7541ee2d7246d301", 
+    "source_url": "https://farm2.staticflickr.com/8488/8247502692_9b97da868a_o.jpg"
+}

@@ -1,0 +1,18 @@
+{
+    "id": "2017_55715042", 
+    "image_path": "images/val2017/2017_55715042.jpg", 
+    "labels": [
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a4_gender", 
+        "a55_religion", 
+        "a5_eye_color", 
+        "a65_rel_social", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "c2853edc51e703cd", 
+    "source_url": "https://c6.staticflickr.com/1/380/19384495300_f132e6ffcd_o.jpg"
+}

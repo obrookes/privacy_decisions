@@ -1,0 +1,12 @@
+{
+    "id": "2017_25038653", 
+    "image_path": "images/val2017/2017_25038653.jpg", 
+    "labels": [
+        "a19_name_full", 
+        "a49_phone", 
+        "a82_date_time", 
+        "a85_username"
+    ], 
+    "openimages_id": "c919ac529f21341d", 
+    "source_url": "https://c6.staticflickr.com/9/8130/15597623019_5e8984e51d_o.jpg"
+}

@@ -1,0 +1,14 @@
+{
+    "id": "2017_89169586", 
+    "image_path": "images/val2017/2017_89169586.jpg", 
+    "labels": [
+        "a17_color", 
+        "a46_occupation", 
+        "a4_gender", 
+        "a58_hobbies", 
+        "a65_rel_social", 
+        "a68_rel_spectators"
+    ], 
+    "openimages_id": "6257672545c6a0e5", 
+    "source_url": "https://farm6.staticflickr.com/1352/1238169043_bfe0e2467c_o.jpg"
+}

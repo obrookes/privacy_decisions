@@ -1,0 +1,17 @@
+{
+    "id": "2017_70160738", 
+    "image_path": "images/val2017/2017_70160738.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a57_culture", 
+        "a6_hair_color", 
+        "a73_landmark", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "6a26d6f3d5abaf99", 
+    "source_url": "https://c2.staticflickr.com/3/2919/14280717732_aeb79b30aa_o.jpg"
+}

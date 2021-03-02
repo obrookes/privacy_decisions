@@ -1,0 +1,19 @@
+{
+    "id": "2017_89144701", 
+    "image_path": "images/val2017/2017_89144701.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a56_sexual_orientation", 
+        "a57_culture", 
+        "a5_eye_color", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "8898e9e4eb339f48", 
+    "source_url": "https://c1.staticflickr.com/6/5035/5878945131_152f3e4dd9_o.jpg"
+}

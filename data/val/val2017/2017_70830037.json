@@ -1,0 +1,19 @@
+{
+    "id": "2017_70830037", 
+    "image_path": "images/val2017/2017_70830037.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a56_sexual_orientation", 
+        "a57_culture", 
+        "a5_eye_color", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "2817aac9f68f8a89", 
+    "source_url": "https://c2.staticflickr.com/2/1291/634618244_b1c3a85bbe_o.jpg"
+}

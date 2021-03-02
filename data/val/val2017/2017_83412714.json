@@ -1,0 +1,18 @@
+{
+    "id": "2017_83412714", 
+    "image_path": "images/val2017/2017_83412714.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a18_ethnic_clothing", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a55_religion", 
+        "a5_eye_color", 
+        "a66_rel_professional", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "d7e6876c7c322ad4", 
+    "source_url": "https://farm5.staticflickr.com/95/247788593_c22f056320_o.jpg"
+}

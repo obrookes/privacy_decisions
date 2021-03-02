@@ -1,0 +1,18 @@
+{
+    "id": "2017_10992021", 
+    "image_path": "images/val2017/2017_10992021.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a57_culture", 
+        "a5_eye_color", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "bea01f12395fa708", 
+    "source_url": "https://c1.staticflickr.com/9/8255/8666121247_54b28c9c7c_o.jpg"
+}

@@ -1,0 +1,19 @@
+{
+    "id": "2017_43542453", 
+    "image_path": "images/val2017/2017_43542453.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a57_culture", 
+        "a5_eye_color", 
+        "a68_rel_spectators", 
+        "a6_hair_color", 
+        "a82_date_time", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "8e66e14e23a06e46", 
+    "source_url": "https://farm7.staticflickr.com/5835/20540826418_d04eb0e9b6_o.jpg"
+}

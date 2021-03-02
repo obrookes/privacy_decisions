@@ -1,0 +1,18 @@
+{
+    "id": "2017_65924818", 
+    "image_path": "images/val2017/2017_65924818.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a46_occupation", 
+        "a4_gender", 
+        "a58_hobbies", 
+        "a5_eye_color", 
+        "a66_rel_professional", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "20c9d4b3dec784fc", 
+    "source_url": "https://c5.staticflickr.com/6/5267/5864747755_ec0ce65d90_o.jpg"
+}

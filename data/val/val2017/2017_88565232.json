@@ -1,0 +1,11 @@
+{
+    "id": "2017_88565232", 
+    "image_path": "images/val2017/2017_88565232.jpg", 
+    "labels": [
+        "a26_handwriting", 
+        "a35_mail", 
+        "a82_date_time"
+    ], 
+    "openimages_id": null, 
+    "source_url": null
+}

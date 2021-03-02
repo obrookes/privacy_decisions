@@ -1,0 +1,16 @@
+{
+    "id": "2017_44566124", 
+    "image_path": "images/val2017/2017_44566124.jpg", 
+    "labels": [
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a57_culture"
+    ], 
+    "openimages_id": "0c1bc0f45db440c2", 
+    "source_url": "https://farm3.staticflickr.com/7389/16463399186_172a53061d_o.jpg"
+}

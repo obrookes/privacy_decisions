@@ -1,0 +1,17 @@
+{
+    "id": "2017_60820983", 
+    "image_path": "images/val2017/2017_60820983.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a69_rel_views", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "9983f5cd103f680e", 
+    "source_url": "https://c7.staticflickr.com/8/7208/6988167590_2cdd1fe142_o.jpg"
+}

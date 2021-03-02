@@ -1,0 +1,18 @@
+{
+    "id": "2017_58184867", 
+    "image_path": "images/val2017/2017_58184867.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a57_culture", 
+        "a5_eye_color", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "1c4f31cb108ef26b", 
+    "source_url": "https://c4.staticflickr.com/1/238/516899949_b80a4d508d_o.jpg"
+}

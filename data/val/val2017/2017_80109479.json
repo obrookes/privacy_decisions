@@ -1,0 +1,21 @@
+{
+    "id": "2017_80109479", 
+    "image_path": "images/val2017/2017_80109479.jpg", 
+    "labels": [
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a41_injury", 
+        "a46_occupation", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a64_rel_personal", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "b20e14b5e2a8127f", 
+    "source_url": "https://c8.staticflickr.com/7/6066/6108063494_cb19167584_o.jpg"
+}

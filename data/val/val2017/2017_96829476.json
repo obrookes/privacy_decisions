@@ -1,0 +1,21 @@
+{
+    "id": "2017_96829476", 
+    "image_path": "images/val2017/2017_96829476.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a20_name_first", 
+        "a46_occupation", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a61_opinion_general", 
+        "a69_rel_views", 
+        "a6_hair_color", 
+        "a73_landmark", 
+        "a75_address_current_partial", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "feec07e00be5e8a8", 
+    "source_url": "https://c1.staticflickr.com/6/5339/9342440016_ba42c4244d_o.jpg"
+}

@@ -1,0 +1,16 @@
+{
+    "id": "2017_15144441", 
+    "image_path": "images/val2017/2017_15144441.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a4_gender", 
+        "a61_opinion_general", 
+        "a69_rel_views"
+    ], 
+    "openimages_id": "e1b57482ba8b5105", 
+    "source_url": "https://farm6.staticflickr.com/484/18712069663_63c30a3df8_o.jpg"
+}

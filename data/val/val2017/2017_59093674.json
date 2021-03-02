@@ -1,0 +1,22 @@
+{
+    "id": "2017_59093674", 
+    "image_path": "images/val2017/2017_59093674.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a25_nationality", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a61_opinion_general", 
+        "a69_rel_views", 
+        "a6_hair_color", 
+        "a75_address_current_partial", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "24fa19f6752aef25", 
+    "source_url": "https://farm6.staticflickr.com/7082/7215523314_7a400a5a3a_o.jpg"
+}

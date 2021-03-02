@@ -1,0 +1,20 @@
+{
+    "id": "2017_23463728", 
+    "image_path": "images/val2017/2017_23463728.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a18_ethnic_clothing", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a61_opinion_general", 
+        "a69_rel_views", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "0085f79106b3be8e", 
+    "source_url": "https://c7.staticflickr.com/4/3896/15362878371_5a1ba6c725_o.jpg"
+}

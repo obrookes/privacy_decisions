@@ -1,0 +1,17 @@
+{
+    "id": "2017_13254896", 
+    "image_path": "images/val2017/2017_13254896.jpg", 
+    "labels": [
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a65_rel_social", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "aa00eea37a5821db", 
+    "source_url": "https://c4.staticflickr.com/5/4091/5170488741_cc8bdb56dc_o.jpg"
+}

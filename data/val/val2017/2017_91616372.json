@@ -1,0 +1,20 @@
+{
+    "id": "2017_91616372", 
+    "image_path": "images/val2017/2017_91616372.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a60_occassion_personal", 
+        "a65_rel_social", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "18a40eed502d9a6f", 
+    "source_url": "https://c8.staticflickr.com/1/12/92055603_de1641bb31_o.jpg"
+}

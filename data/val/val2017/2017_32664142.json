@@ -1,0 +1,10 @@
+{
+    "id": "2017_32664142", 
+    "image_path": "images/val2017/2017_32664142.jpg", 
+    "labels": [
+        "a12_semi_nudity", 
+        "a4_gender"
+    ], 
+    "openimages_id": "2c146dcabcc1e3d8", 
+    "source_url": "https://c1.staticflickr.com/6/5595/14623743955_44b03cd574_o.jpg"
+}

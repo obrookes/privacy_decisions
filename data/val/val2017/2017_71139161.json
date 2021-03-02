@@ -1,0 +1,17 @@
+{
+    "id": "2017_71139161", 
+    "image_path": "images/val2017/2017_71139161.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a46_occupation", 
+        "a4_gender", 
+        "a65_rel_social", 
+        "a66_rel_professional", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "0c03bf77540cc33b", 
+    "source_url": "https://c4.staticflickr.com/4/3386/3206135986_5d1eec1a5d_o.jpg"
+}

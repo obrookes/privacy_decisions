@@ -1,0 +1,20 @@
+{
+    "id": "2017_75048562", 
+    "image_path": "images/val2017/2017_75048562.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a48_occassion_work", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a66_rel_professional", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "0fce51bfacf3646b", 
+    "source_url": "https://c4.staticflickr.com/4/3859/14337688296_beef14bf04_o.jpg"
+}

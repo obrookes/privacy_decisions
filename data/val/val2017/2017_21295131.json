@@ -1,0 +1,17 @@
+{
+    "id": "2017_21295131", 
+    "image_path": "images/val2017/2017_21295131.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a55_religion", 
+        "a65_rel_social", 
+        "a68_rel_spectators", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "8c81bb6877e71530", 
+    "source_url": "https://farm1.staticflickr.com/5509/11792648646_ea82e37226_o.jpg"
+}

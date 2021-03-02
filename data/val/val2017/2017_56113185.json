@@ -1,0 +1,17 @@
+{
+    "id": "2017_56113185", 
+    "image_path": "images/val2017/2017_56113185.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a4_gender", 
+        "a59_sports", 
+        "a67_rel_competitors", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "af1de6a4383cd05a", 
+    "source_url": "https://c3.staticflickr.com/3/2600/3752992449_6314e226d9_o.jpg"
+}

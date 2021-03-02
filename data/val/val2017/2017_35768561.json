@@ -1,0 +1,16 @@
+{
+    "id": "2017_35768561", 
+    "image_path": "images/val2017/2017_35768561.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a69_rel_views", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "fbb1ba9eae5a31a3", 
+    "source_url": "https://farm4.staticflickr.com/6220/6218463435_6c43fb6f81_o.jpg"
+}

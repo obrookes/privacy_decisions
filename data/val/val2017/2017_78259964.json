@@ -1,0 +1,18 @@
+{
+    "id": "2017_78259964", 
+    "image_path": "images/val2017/2017_78259964.jpg", 
+    "labels": [
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a55_religion", 
+        "a65_rel_social", 
+        "a68_rel_spectators", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "13c747db065a5b52", 
+    "source_url": "https://farm3.staticflickr.com/4028/4207511352_b67b20b1e6_o.jpg"
+}

@@ -1,0 +1,19 @@
+{
+    "id": "2017_23779354", 
+    "image_path": "images/val2017/2017_23779354.jpg", 
+    "labels": [
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a46_occupation", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a66_rel_professional", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "9c9a0361fa10e3fd", 
+    "source_url": "https://c6.staticflickr.com/8/7146/6641367111_59f0e735da_o.jpg"
+}

@@ -1,0 +1,19 @@
+{
+    "id": "2017_20220961", 
+    "image_path": "images/val2017/2017_20220961.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a46_occupation", 
+        "a4_gender", 
+        "a57_culture", 
+        "a66_rel_professional", 
+        "a68_rel_spectators", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "5e1f47264dd90452", 
+    "source_url": "https://farm3.staticflickr.com/8237/8469730028_3b5e07e1c2_o.jpg"
+}

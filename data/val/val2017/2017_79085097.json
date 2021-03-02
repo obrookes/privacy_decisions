@@ -1,0 +1,20 @@
+{
+    "id": "2017_79085097", 
+    "image_path": "images/val2017/2017_79085097.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a4_gender", 
+        "a61_opinion_general", 
+        "a64_rel_personal", 
+        "a69_rel_views", 
+        "a6_hair_color", 
+        "a73_landmark", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "661b2bdcbd581afc", 
+    "source_url": "https://c5.staticflickr.com/8/7583/15622391618_028897cf26_o.jpg"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "2017_51158907", 
+    "image_path": "images/val2017/2017_51158907.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a18_ethnic_clothing", 
+        "a4_gender", 
+        "a55_religion", 
+        "a57_culture", 
+        "a5_eye_color", 
+        "a68_rel_spectators", 
+        "a6_hair_color", 
+        "a73_landmark", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "0fdcc3f1ccae3538", 
+    "source_url": "https://c1.staticflickr.com/8/7202/6915794420_32d49a5cdc_o.jpg"
+}

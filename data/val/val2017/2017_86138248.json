@@ -1,0 +1,10 @@
+{
+    "id": "2017_86138248", 
+    "image_path": "images/val2017/2017_86138248.jpg", 
+    "labels": [
+        "a2_weight_approx", 
+        "a59_sports"
+    ], 
+    "openimages_id": "cc0fc4bb58b74ab5", 
+    "source_url": "https://farm6.staticflickr.com/3921/15049885867_e61f878b8c_o.jpg"
+}

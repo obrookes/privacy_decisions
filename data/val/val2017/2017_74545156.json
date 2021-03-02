@@ -1,0 +1,21 @@
+{
+    "id": "2017_74545156", 
+    "image_path": "images/val2017/2017_74545156.jpg", 
+    "labels": [
+        "a104_license_plate_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a18_ethnic_clothing", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a55_religion", 
+        "a57_culture", 
+        "a5_eye_color", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "5c2a0ce27cfb3684", 
+    "source_url": "https://farm5.staticflickr.com/3747/19867658821_8e9436a0ce_o.jpg"
+}

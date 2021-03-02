@@ -1,0 +1,13 @@
+{
+    "id": "2017_37229853", 
+    "image_path": "images/val2017/2017_37229853.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a4_gender", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "1b45a572ed7f188c", 
+    "source_url": "https://c5.staticflickr.com/5/4022/4429666878_6275fb3006_o.jpg"
+}

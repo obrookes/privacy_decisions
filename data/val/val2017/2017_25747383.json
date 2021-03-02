@@ -1,0 +1,17 @@
+{
+    "id": "2017_25747383", 
+    "image_path": "images/val2017/2017_25747383.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a61_opinion_general", 
+        "a69_rel_views", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "9e25d1e789f5051c", 
+    "source_url": "https://c5.staticflickr.com/2/1026/740026936_5acdad8cea_o.jpg"
+}

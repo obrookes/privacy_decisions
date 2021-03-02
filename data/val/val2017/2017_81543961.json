@@ -1,0 +1,12 @@
+{
+    "id": "2017_81543961", 
+    "image_path": "images/val2017/2017_81543961.jpg", 
+    "labels": [
+        "a19_name_full", 
+        "a26_handwriting", 
+        "a35_mail", 
+        "a82_date_time"
+    ], 
+    "openimages_id": "23482461b3cf0285", 
+    "source_url": "https://farm6.staticflickr.com/3231/2867888051_97d6041b3d_o.jpg"
+}

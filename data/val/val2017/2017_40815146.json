@@ -1,0 +1,10 @@
+{
+    "id": "2017_40815146", 
+    "image_path": "images/val2017/2017_40815146.jpg", 
+    "labels": [
+        "a46_occupation", 
+        "a4_gender"
+    ], 
+    "openimages_id": "2f54a62595de1ef2", 
+    "source_url": "https://farm3.staticflickr.com/7726/16697729023_deba092e90_o.jpg"
+}

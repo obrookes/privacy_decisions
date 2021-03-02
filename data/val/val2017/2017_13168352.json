@@ -1,0 +1,21 @@
+{
+    "id": "2017_13168352", 
+    "image_path": "images/val2017/2017_13168352.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a11_tattoo", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a57_culture", 
+        "a5_eye_color", 
+        "a65_rel_social", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "c8b0729a2bf438d3", 
+    "source_url": "https://farm4.staticflickr.com/283/20059590642_97a6d3628e_o.jpg"
+}

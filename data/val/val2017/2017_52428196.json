@@ -1,0 +1,16 @@
+{
+    "id": "2017_52428196", 
+    "image_path": "images/val2017/2017_52428196.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a4_gender", 
+        "a57_culture", 
+        "a61_opinion_general", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "8d6eefd10e67067b", 
+    "source_url": "https://c4.staticflickr.com/5/4136/4787513340_13ece74423_o.jpg"
+}

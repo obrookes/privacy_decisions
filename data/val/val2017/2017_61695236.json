@@ -1,0 +1,16 @@
+{
+    "id": "2017_61695236", 
+    "image_path": "images/val2017/2017_61695236.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a4_gender", 
+        "a65_rel_social", 
+        "a6_hair_color", 
+        "a73_landmark", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "a69a3ffa1b56c02b", 
+    "source_url": "https://c4.staticflickr.com/8/7390/16384970955_df4bf7cdc8_o.jpg"
+}

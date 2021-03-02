@@ -1,0 +1,20 @@
+{
+    "id": "2017_52280413", 
+    "image_path": "images/val2017/2017_52280413.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a18_ethnic_clothing", 
+        "a19_name_full", 
+        "a1_age_approx", 
+        "a46_occupation", 
+        "a4_gender", 
+        "a55_religion", 
+        "a66_rel_professional", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "509d1d7f6b6182c1", 
+    "source_url": "https://farm2.staticflickr.com/3927/15390714601_16d0484d46_o.jpg"
+}

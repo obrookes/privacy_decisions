@@ -1,0 +1,21 @@
+{
+    "id": "2017_37215676", 
+    "image_path": "images/val2017/2017_37215676.jpg", 
+    "labels": [
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a27_marital_status", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a60_occassion_personal", 
+        "a64_rel_personal", 
+        "a65_rel_social", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "fe1f8b0271763765", 
+    "source_url": "https://farm6.staticflickr.com/7097/7203523744_2c23d85f63_o.jpg"
+}

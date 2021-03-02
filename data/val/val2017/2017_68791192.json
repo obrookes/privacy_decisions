@@ -1,0 +1,22 @@
+{
+    "id": "2017_68791192", 
+    "image_path": "images/val2017/2017_68791192.jpg", 
+    "labels": [
+        "a16_race", 
+        "a17_color", 
+        "a19_name_full", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a46_occupation", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a62_opinion_political", 
+        "a6_hair_color", 
+        "a70_education_history", 
+        "a82_date_time", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "1363f3b3fec009d2", 
+    "source_url": "https://farm3.staticflickr.com/5285/5299390518_6baa36b389_o.jpg"
+}

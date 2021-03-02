@@ -1,0 +1,24 @@
+{
+    "id": "2017_71139376", 
+    "image_path": "images/val2017/2017_71139376.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a49_phone", 
+        "a4_gender", 
+        "a56_sexual_orientation", 
+        "a57_culture", 
+        "a5_eye_color", 
+        "a68_rel_spectators", 
+        "a6_hair_color", 
+        "a73_landmark", 
+        "a90_email", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "028d40132d54cd2b", 
+    "source_url": "https://c4.staticflickr.com/6/5076/5884015717_dd30215568_o.jpg"
+}

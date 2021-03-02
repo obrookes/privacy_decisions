@@ -1,0 +1,17 @@
+{
+    "id": "2017_64822662", 
+    "image_path": "images/val2017/2017_64822662.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a48_occassion_work", 
+        "a4_gender", 
+        "a68_rel_spectators", 
+        "a6_hair_color", 
+        "a73_landmark", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "9ed57ff5e8b0376d", 
+    "source_url": "https://c6.staticflickr.com/8/7419/10921661263_e480c379a6_o.jpg"
+}

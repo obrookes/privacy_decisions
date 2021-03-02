@@ -1,0 +1,21 @@
+{
+    "id": "2017_21410837", 
+    "image_path": "images/val2017/2017_21410837.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a20_name_first", 
+        "a26_handwriting", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a57_culture", 
+        "a5_eye_color", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "dd9c626c1e0fd6c2", 
+    "source_url": "https://farm3.staticflickr.com/2641/3689042024_10e8802ca8_o.jpg"
+}

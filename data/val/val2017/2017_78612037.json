@@ -1,0 +1,22 @@
+{
+    "id": "2017_78612037", 
+    "image_path": "images/val2017/2017_78612037.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a11_tattoo", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a27_marital_status", 
+        "a2_weight_approx", 
+        "a46_occupation", 
+        "a4_gender", 
+        "a59_sports", 
+        "a5_eye_color", 
+        "a6_hair_color", 
+        "a75_address_current_partial", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "7e1b296350af80cb", 
+    "source_url": "https://c4.staticflickr.com/6/5335/17719384928_26b051e809_o.jpg"
+}

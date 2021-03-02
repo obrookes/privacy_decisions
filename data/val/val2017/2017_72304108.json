@@ -1,0 +1,20 @@
+{
+    "id": "2017_72304108", 
+    "image_path": "images/val2017/2017_72304108.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a11_tattoo", 
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a4_gender", 
+        "a65_rel_social", 
+        "a68_rel_spectators", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "0a66f63714c59d79", 
+    "source_url": "https://c2.staticflickr.com/4/3947/15497187016_78a6a9cc53_o.jpg"
+}

@@ -1,0 +1,14 @@
+{
+    "id": "2017_51606868", 
+    "image_path": "images/val2017/2017_51606868.jpg", 
+    "labels": [
+        "a16_race", 
+        "a17_color", 
+        "a4_gender", 
+        "a57_culture", 
+        "a68_rel_spectators", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "c62c6212002ef07c", 
+    "source_url": "https://c5.staticflickr.com/4/3144/2726445010_9ea59a4abb_o.jpg"
+}

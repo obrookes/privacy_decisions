@@ -1,0 +1,11 @@
+{
+    "id": "2017_38606522", 
+    "image_path": "images/val2017/2017_38606522.jpg", 
+    "labels": [
+        "a73_landmark", 
+        "a75_address_current_partial", 
+        "a82_date_time"
+    ], 
+    "openimages_id": "cf9a51d9fc6960ba", 
+    "source_url": "https://c3.staticflickr.com/8/7627/16362483754_034cee0e83_o.jpg"
+}

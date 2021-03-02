@@ -1,0 +1,15 @@
+{
+    "id": "2017_16340159", 
+    "image_path": "images/val2017/2017_16340159.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a4_gender", 
+        "a58_hobbies", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "3686af5fd95cfe16", 
+    "source_url": "https://farm7.staticflickr.com/3912/14710440169_3db105248e_o.jpg"
+}

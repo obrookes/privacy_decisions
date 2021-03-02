@@ -1,0 +1,10 @@
+{
+    "id": "2017_67652448", 
+    "image_path": "images/val2017/2017_67652448.jpg", 
+    "labels": [
+        "a26_handwriting", 
+        "a73_landmark"
+    ], 
+    "openimages_id": "4c3d7ac068c71597", 
+    "source_url": "https://farm8.staticflickr.com/2114/2468628193_0804ec040b_o.jpg"
+}

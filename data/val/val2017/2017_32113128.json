@@ -1,0 +1,19 @@
+{
+    "id": "2017_32113128", 
+    "image_path": "images/val2017/2017_32113128.jpg", 
+    "labels": [
+        "a103_license_plate_complete", 
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a56_sexual_orientation", 
+        "a57_culture", 
+        "a6_hair_color", 
+        "a75_address_current_partial", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "2f7c8e95daa02da4", 
+    "source_url": "https://farm5.staticflickr.com/8388/8484609560_977f47c893_o.jpg"
+}

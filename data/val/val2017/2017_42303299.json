@@ -1,0 +1,21 @@
+{
+    "id": "2017_42303299", 
+    "image_path": "images/val2017/2017_42303299.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a57_culture", 
+        "a5_eye_color", 
+        "a64_rel_personal", 
+        "a68_rel_spectators", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "c52537eb1a5067a7", 
+    "source_url": "https://farm8.staticflickr.com/22/29115686_4984160e25_o.jpg"
+}

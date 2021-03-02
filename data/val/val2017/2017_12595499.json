@@ -1,0 +1,17 @@
+{
+    "id": "2017_12595499", 
+    "image_path": "images/val2017/2017_12595499.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a46_occupation", 
+        "a4_gender", 
+        "a58_hobbies", 
+        "a66_rel_professional", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "2629a7bf8c0d5814", 
+    "source_url": "https://farm5.staticflickr.com/1/889220_389d256aa9_o.jpg"
+}

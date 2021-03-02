@@ -1,0 +1,22 @@
+{
+    "id": "2017_69887262", 
+    "image_path": "images/val2017/2017_69887262.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a19_name_full", 
+        "a1_age_approx", 
+        "a24_birth_date", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a75_address_current_partial", 
+        "a82_date_time", 
+        "a85_username", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": null, 
+    "source_url": null
+}

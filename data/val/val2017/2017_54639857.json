@@ -1,0 +1,19 @@
+{
+    "id": "2017_54639857", 
+    "image_path": "images/val2017/2017_54639857.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a56_sexual_orientation", 
+        "a57_culture", 
+        "a5_eye_color", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "17c97cd14528d36c", 
+    "source_url": "https://c5.staticflickr.com/3/2035/1972208037_6526061f2d_o.jpg"
+}

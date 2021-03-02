@@ -1,0 +1,18 @@
+{
+    "id": "2017_31702867", 
+    "image_path": "images/val2017/2017_31702867.jpg", 
+    "labels": [
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a48_occassion_work", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a66_rel_professional", 
+        "a68_rel_spectators", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "eb52afac2600575a", 
+    "source_url": "https://c3.staticflickr.com/3/2029/2086396305_33494f44fe_o.jpg"
+}

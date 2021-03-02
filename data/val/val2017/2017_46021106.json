@@ -1,0 +1,13 @@
+{
+    "id": "2017_46021106", 
+    "image_path": "images/val2017/2017_46021106.jpg", 
+    "labels": [
+        "a17_color", 
+        "a37_receipt", 
+        "a73_landmark", 
+        "a74_address_current_complete", 
+        "a82_date_time"
+    ], 
+    "openimages_id": "f4f1d522853f6010", 
+    "source_url": "https://farm1.staticflickr.com/5132/5408339252_be1bf249c4_o.jpg"
+}

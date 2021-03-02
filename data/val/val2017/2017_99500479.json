@@ -1,0 +1,19 @@
+{
+    "id": "2017_99500479", 
+    "image_path": "images/val2017/2017_99500479.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a65_rel_social", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "1b6ffa9d0749d216", 
+    "source_url": "https://farm7.staticflickr.com/4063/4370669204_a25aee8d29_o.jpg"
+}

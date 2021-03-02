@@ -1,0 +1,11 @@
+{
+    "id": "2017_23188193", 
+    "image_path": "images/val2017/2017_23188193.jpg", 
+    "labels": [
+        "a19_name_full", 
+        "a30_credit_card", 
+        "a82_date_time"
+    ], 
+    "openimages_id": null, 
+    "source_url": null
+}

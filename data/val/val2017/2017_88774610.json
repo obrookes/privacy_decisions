@@ -1,0 +1,21 @@
+{
+    "id": "2017_88774610", 
+    "image_path": "images/val2017/2017_88774610.jpg", 
+    "labels": [
+        "a16_race", 
+        "a17_color", 
+        "a19_name_full", 
+        "a1_age_approx", 
+        "a26_handwriting", 
+        "a33_student_id", 
+        "a46_occupation", 
+        "a4_gender", 
+        "a73_landmark", 
+        "a78_address_home_complete", 
+        "a82_date_time", 
+        "a8_signature", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "bedd9c3f4207a053", 
+    "source_url": "https://farm4.staticflickr.com/3746/9647002151_55e1b346fd_o.jpg"
+}

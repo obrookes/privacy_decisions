@@ -1,0 +1,20 @@
+{
+    "id": "2017_23517443", 
+    "image_path": "images/val2017/2017_23517443.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a58_hobbies", 
+        "a5_eye_color", 
+        "a68_rel_spectators", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "c6e3fed948cc6e9f", 
+    "source_url": "https://c8.staticflickr.com/5/4144/4994084367_acf33b01a1_o.jpg"
+}

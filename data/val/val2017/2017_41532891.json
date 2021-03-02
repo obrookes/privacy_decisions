@@ -1,0 +1,18 @@
+{
+    "id": "2017_41532891", 
+    "image_path": "images/val2017/2017_41532891.jpg", 
+    "labels": [
+        "a102_vehicle_ownership", 
+        "a11_tattoo", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a59_sports", 
+        "a5_eye_color", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "a7cde37d0d6a4329", 
+    "source_url": "https://c2.staticflickr.com/6/5494/10069829914_938548f8a6_o.jpg"
+}

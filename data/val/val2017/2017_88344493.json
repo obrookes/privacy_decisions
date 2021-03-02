@@ -1,0 +1,11 @@
+{
+    "id": "2017_88344493", 
+    "image_path": "images/val2017/2017_88344493.jpg", 
+    "labels": [
+        "a17_color", 
+        "a70_education_history", 
+        "a82_date_time"
+    ], 
+    "openimages_id": "9f9b08524e37b923", 
+    "source_url": "https://farm4.staticflickr.com/3204/2939773283_6c510b16d5_o.jpg"
+}

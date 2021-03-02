@@ -1,0 +1,16 @@
+{
+    "id": "2017_40198133", 
+    "image_path": "images/val2017/2017_40198133.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a4_gender", 
+        "a61_opinion_general", 
+        "a69_rel_views", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "04d10794505f32f6", 
+    "source_url": "https://farm7.staticflickr.com/2887/11440402346_d460d2f4bd_o.jpg"
+}

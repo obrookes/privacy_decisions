@@ -1,0 +1,20 @@
+{
+    "id": "2017_22032529", 
+    "image_path": "images/val2017/2017_22032529.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a61_opinion_general", 
+        "a69_rel_views", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "cdfa6796c00aabd5", 
+    "source_url": "https://farm6.staticflickr.com/5549/10749445203_5b6aba5b56_o.jpg"
+}

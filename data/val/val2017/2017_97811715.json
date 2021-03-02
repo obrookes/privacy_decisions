@@ -1,0 +1,21 @@
+{
+    "id": "2017_97811715", 
+    "image_path": "images/val2017/2017_97811715.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a11_tattoo", 
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a57_culture", 
+        "a5_eye_color", 
+        "a68_rel_spectators", 
+        "a6_hair_color", 
+        "a75_address_current_partial", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "4e77f800fd9fa0db", 
+    "source_url": "https://c4.staticflickr.com/5/4095/4742284032_e47b2aecd5_o.jpg"
+}

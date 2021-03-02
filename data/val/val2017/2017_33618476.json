@@ -1,0 +1,17 @@
+{
+    "id": "2017_33618476", 
+    "image_path": "images/val2017/2017_33618476.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a61_opinion_general", 
+        "a69_rel_views", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "cb3b35a4e31411a1", 
+    "source_url": "https://farm2.staticflickr.com/4103/4840925262_50c9532141_o.jpg"
+}

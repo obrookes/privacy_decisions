@@ -1,0 +1,22 @@
+{
+    "id": "2017_63676665", 
+    "image_path": "images/val2017/2017_63676665.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a11_tattoo", 
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a57_culture", 
+        "a5_eye_color", 
+        "a68_rel_spectators", 
+        "a6_hair_color", 
+        "a73_landmark", 
+        "a75_address_current_partial", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "3e1b74f6edcdf57a", 
+    "source_url": "https://c3.staticflickr.com/7/6200/6049057761_8774f632f9_o.jpg"
+}

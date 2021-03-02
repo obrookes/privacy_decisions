@@ -1,0 +1,13 @@
+{
+    "id": "2017_96445421", 
+    "image_path": "images/val2017/2017_96445421.jpg", 
+    "labels": [
+        "a19_name_full", 
+        "a26_handwriting", 
+        "a4_gender", 
+        "a75_address_current_partial", 
+        "a82_date_time"
+    ], 
+    "openimages_id": "522c055d25dfae8f", 
+    "source_url": "https://c8.staticflickr.com/5/4133/4834632478_916a6f65ba_o.jpg"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "2017_28639751", 
+    "image_path": "images/val2017/2017_28639751.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a66_rel_professional", 
+        "a6_hair_color", 
+        "a70_education_history", 
+        "a73_landmark", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "e7ef2042ab6cd81e", 
+    "source_url": "https://c7.staticflickr.com/1/45/145829779_f1e736f807_o.jpg"
+}

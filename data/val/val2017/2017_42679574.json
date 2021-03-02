@@ -1,0 +1,18 @@
+{
+    "id": "2017_42679574", 
+    "image_path": "images/val2017/2017_42679574.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a59_sports", 
+        "a67_rel_competitors", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "49a6762150f173da", 
+    "source_url": "https://c3.staticflickr.com/1/189/506381667_dd4f216ebc_o.jpg"
+}

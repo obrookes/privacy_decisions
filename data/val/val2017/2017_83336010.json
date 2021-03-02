@@ -1,0 +1,12 @@
+{
+    "id": "2017_83336010", 
+    "image_path": "images/val2017/2017_83336010.jpg", 
+    "labels": [
+        "a21_name_last", 
+        "a26_handwriting", 
+        "a35_mail", 
+        "a75_address_current_partial"
+    ], 
+    "openimages_id": "cbf63fa904a81837", 
+    "source_url": "https://farm8.staticflickr.com/8603/15940465012_7a0ea03ae8_o.jpg"
+}

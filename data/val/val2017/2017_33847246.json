@@ -1,0 +1,18 @@
+{
+    "id": "2017_33847246", 
+    "image_path": "images/val2017/2017_33847246.jpg", 
+    "labels": [
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a46_occupation", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a66_rel_professional", 
+        "a6_hair_color", 
+        "a75_address_current_partial", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "895524aadccbd1bf", 
+    "source_url": "https://c8.staticflickr.com/9/8611/16629614076_ffdb59576b_o.jpg"
+}

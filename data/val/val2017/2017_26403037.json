@@ -1,0 +1,10 @@
+{
+    "id": "2017_26403037", 
+    "image_path": "images/val2017/2017_26403037.jpg", 
+    "labels": [
+        "a19_name_full", 
+        "a49_phone"
+    ], 
+    "openimages_id": null, 
+    "source_url": null
+}

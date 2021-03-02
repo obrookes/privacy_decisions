@@ -1,0 +1,18 @@
+{
+    "id": "2017_10090671", 
+    "image_path": "images/val2017/2017_10090671.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a11_tattoo", 
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a57_culture", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "eaade6b04d133ba8", 
+    "source_url": "https://c1.staticflickr.com/3/2911/14355829891_8679315fd4_o.jpg"
+}

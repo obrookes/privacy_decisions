@@ -1,0 +1,19 @@
+{
+    "id": "2017_87539284", 
+    "image_path": "images/val2017/2017_87539284.jpg", 
+    "labels": [
+        "a16_race", 
+        "a17_color", 
+        "a19_name_full", 
+        "a1_age_approx", 
+        "a23_birth_city", 
+        "a24_birth_date", 
+        "a29_ausweis", 
+        "a46_occupation", 
+        "a4_gender", 
+        "a8_signature", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "351bf4ace7909064", 
+    "source_url": "https://farm5.staticflickr.com/3258/3422803825_75a4c73225_o.jpg"
+}

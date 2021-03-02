@@ -1,0 +1,14 @@
+{
+    "id": "2017_87311796", 
+    "image_path": "images/val2017/2017_87311796.jpg", 
+    "labels": [
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "4da54b568404c0ff", 
+    "source_url": "https://c8.staticflickr.com/4/3091/5831792504_b5ac12a132_o.jpg"
+}

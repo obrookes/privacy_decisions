@@ -1,0 +1,11 @@
+{
+    "id": "2017_61395203", 
+    "image_path": "images/val2017/2017_61395203.jpg", 
+    "labels": [
+        "a38_ticket", 
+        "a73_landmark", 
+        "a82_date_time"
+    ], 
+    "openimages_id": "ab1d60acea3c14ab", 
+    "source_url": "https://c4.staticflickr.com/1/45/137295873_22b342534d_o.jpg"
+}

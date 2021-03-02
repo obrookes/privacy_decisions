@@ -1,0 +1,13 @@
+{
+    "id": "2017_11493985", 
+    "image_path": "images/val2017/2017_11493985.jpg", 
+    "labels": [
+        "a17_color", 
+        "a37_receipt", 
+        "a49_phone", 
+        "a75_address_current_partial", 
+        "a82_date_time"
+    ], 
+    "openimages_id": "09c4044067c5c322", 
+    "source_url": "https://farm3.staticflickr.com/5346/7414161392_bf504a7e9f_o.jpg"
+}

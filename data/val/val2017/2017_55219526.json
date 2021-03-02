@@ -1,0 +1,11 @@
+{
+    "id": "2017_55219526", 
+    "image_path": "images/val2017/2017_55219526.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a4_gender", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "cbc81f232337611d", 
+    "source_url": "https://c6.staticflickr.com/5/4035/4425839668_be539695bd_o.jpg"
+}

@@ -1,0 +1,18 @@
+{
+    "id": "2017_80770320", 
+    "image_path": "images/val2017/2017_80770320.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a4_gender", 
+        "a55_religion", 
+        "a68_rel_spectators", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "e99977180544ee2c", 
+    "source_url": "https://c5.staticflickr.com/3/2426/3661339788_9935536ce2_o.jpg"
+}

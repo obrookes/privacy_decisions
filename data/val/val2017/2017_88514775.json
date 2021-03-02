@@ -1,0 +1,20 @@
+{
+    "id": "2017_88514775", 
+    "image_path": "images/val2017/2017_88514775.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a11_tattoo", 
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a57_culture", 
+        "a5_eye_color", 
+        "a68_rel_spectators", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "670b07db2909ff73", 
+    "source_url": "https://farm4.staticflickr.com/5550/14336027216_4ebf840071_o.jpg"
+}

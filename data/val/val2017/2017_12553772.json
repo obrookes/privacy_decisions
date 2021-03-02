@@ -1,0 +1,18 @@
+{
+    "id": "2017_12553772", 
+    "image_path": "images/val2017/2017_12553772.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a61_opinion_general", 
+        "a6_hair_color", 
+        "a73_landmark", 
+        "a75_address_current_partial", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "a79d69ca926c986f", 
+    "source_url": "https://c8.staticflickr.com/9/8097/8566953348_057b4a6d0c_o.jpg"
+}

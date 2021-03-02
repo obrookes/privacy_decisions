@@ -1,0 +1,17 @@
+{
+    "id": "2017_94303155", 
+    "image_path": "images/val2017/2017_94303155.jpg", 
+    "labels": [
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a59_sports", 
+        "a67_rel_competitors", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "1dc0964f485e18a5", 
+    "source_url": "https://farm6.staticflickr.com/7111/7647002642_9f59000c6c_o.jpg"
+}

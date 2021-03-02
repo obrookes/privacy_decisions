@@ -1,0 +1,13 @@
+{
+    "id": "2017_49009028", 
+    "image_path": "images/val2017/2017_49009028.jpg", 
+    "labels": [
+        "a26_handwriting", 
+        "a31_passport", 
+        "a74_address_current_complete", 
+        "a82_date_time", 
+        "a8_signature"
+    ], 
+    "openimages_id": "a83fc959c66db90f", 
+    "source_url": "https://c8.staticflickr.com/4/3068/2442340450_1a1b48a6e8_o.jpg"
+}

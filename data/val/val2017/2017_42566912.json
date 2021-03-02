@@ -1,0 +1,18 @@
+{
+    "id": "2017_42566912", 
+    "image_path": "images/val2017/2017_42566912.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a56_sexual_orientation", 
+        "a57_culture", 
+        "a5_eye_color", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "ff3f41135ba8ca1b", 
+    "source_url": "https://c4.staticflickr.com/4/3334/5847849425_f03492b163_o.jpg"
+}

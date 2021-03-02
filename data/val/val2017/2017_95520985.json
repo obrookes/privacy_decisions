@@ -1,0 +1,17 @@
+{
+    "id": "2017_95520985", 
+    "image_path": "images/val2017/2017_95520985.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a65_rel_social", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "e524dca08360bb87", 
+    "source_url": "https://farm8.staticflickr.com/1229/5120220412_eeed87553a_o.jpg"
+}

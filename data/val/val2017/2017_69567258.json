@@ -1,0 +1,11 @@
+{
+    "id": "2017_69567258", 
+    "image_path": "images/val2017/2017_69567258.jpg", 
+    "labels": [
+        "a2_weight_approx", 
+        "a46_occupation", 
+        "a66_rel_professional"
+    ], 
+    "openimages_id": "1aa84304a6711be1", 
+    "source_url": "https://farm2.staticflickr.com/8705/17775392465_1cbeb77fde_o.jpg"
+}

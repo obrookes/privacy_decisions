@@ -1,0 +1,11 @@
+{
+    "id": "2017_76040153", 
+    "image_path": "images/val2017/2017_76040153.jpg", 
+    "labels": [
+        "a17_color", 
+        "a41_injury", 
+        "a4_gender"
+    ], 
+    "openimages_id": "77e47ee2a9405781", 
+    "source_url": "https://farm2.staticflickr.com/5132/5429797658_a0a0f4c4c3_o.jpg"
+}

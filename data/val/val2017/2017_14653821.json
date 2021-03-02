@@ -1,0 +1,15 @@
+{
+    "id": "2017_14653821", 
+    "image_path": "images/val2017/2017_14653821.jpg", 
+    "labels": [
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a6_hair_color", 
+        "a73_landmark"
+    ], 
+    "openimages_id": "bf0f52cbb6dd6ff4", 
+    "source_url": "https://farm5.staticflickr.com/3905/14326936496_f8dedac090_o.jpg"
+}

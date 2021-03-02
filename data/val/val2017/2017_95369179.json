@@ -1,0 +1,11 @@
+{
+    "id": "2017_95369179", 
+    "image_path": "images/val2017/2017_95369179.jpg", 
+    "labels": [
+        "a38_ticket", 
+        "a82_date_time", 
+        "a8_signature"
+    ], 
+    "openimages_id": "84976101c3424c8a", 
+    "source_url": "https://c3.staticflickr.com/3/2351/2038204662_9872fba5e4_o.jpg"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "2017_30397407", 
+    "image_path": "images/val2017/2017_30397407.jpg", 
+    "labels": [
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a56_sexual_orientation", 
+        "a58_hobbies", 
+        "a5_eye_color", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "c493a434c2cee014", 
+    "source_url": "https://farm5.staticflickr.com/8010/7657053146_8bec5e58b4_o.jpg"
+}

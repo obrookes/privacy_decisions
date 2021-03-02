@@ -1,0 +1,19 @@
+{
+    "id": "2017_34905759", 
+    "image_path": "images/val2017/2017_34905759.jpg", 
+    "labels": [
+        "a16_race", 
+        "a17_color", 
+        "a18_ethnic_clothing", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a55_religion", 
+        "a5_eye_color", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "6727ea45add6806b", 
+    "source_url": "https://c4.staticflickr.com/1/402/18160777669_2bd6083bcd_o.jpg"
+}

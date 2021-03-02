@@ -1,0 +1,10 @@
+{
+    "id": "2017_94137883", 
+    "image_path": "images/val2017/2017_94137883.jpg", 
+    "labels": [
+        "a103_license_plate_complete", 
+        "a75_address_current_partial"
+    ], 
+    "openimages_id": "488cce9d229c6037", 
+    "source_url": "https://farm8.staticflickr.com/6070/6051445418_7ebdc3491a_o.jpg"
+}

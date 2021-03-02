@@ -1,0 +1,19 @@
+{
+    "id": "2017_38824189", 
+    "image_path": "images/val2017/2017_38824189.jpg", 
+    "labels": [
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a49_phone", 
+        "a4_gender", 
+        "a6_hair_color", 
+        "a73_landmark", 
+        "a74_address_current_complete", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "801821fa60715303", 
+    "source_url": "https://farm4.staticflickr.com/8228/8371889795_63ef8eebfa_o.jpg"
+}

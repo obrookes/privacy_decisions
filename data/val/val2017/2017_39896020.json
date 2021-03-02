@@ -1,0 +1,13 @@
+{
+    "id": "2017_39896020", 
+    "image_path": "images/val2017/2017_39896020.jpg", 
+    "labels": [
+        "a19_name_full", 
+        "a30_credit_card", 
+        "a32_drivers_license", 
+        "a75_address_current_partial", 
+        "a8_signature"
+    ], 
+    "openimages_id": null, 
+    "source_url": null
+}

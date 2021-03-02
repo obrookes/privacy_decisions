@@ -1,0 +1,19 @@
+{
+    "id": "2017_73666694", 
+    "image_path": "images/val2017/2017_73666694.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a11_tattoo", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a56_sexual_orientation", 
+        "a57_culture", 
+        "a61_opinion_general", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "f5738f108048a152", 
+    "source_url": "https://farm3.staticflickr.com/7349/9179695823_50fa20ec30_o.jpg"
+}

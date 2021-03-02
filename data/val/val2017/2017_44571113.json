@@ -1,0 +1,9 @@
+{
+    "id": "2017_44571113", 
+    "image_path": "images/val2017/2017_44571113.jpg", 
+    "labels": [
+        "a103_license_plate_complete"
+    ], 
+    "openimages_id": "675246e07f49c135", 
+    "source_url": "https://farm6.staticflickr.com/3762/10641763935_18234d22ac_o.jpg"
+}

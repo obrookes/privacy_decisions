@@ -1,0 +1,16 @@
+{
+    "id": "2017_88020201", 
+    "image_path": "images/val2017/2017_88020201.jpg", 
+    "labels": [
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "8de7cc1e07e99aa7", 
+    "source_url": "https://farm8.staticflickr.com/3526/3180762651_fafe705c89_o.jpg"
+}

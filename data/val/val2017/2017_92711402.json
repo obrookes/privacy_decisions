@@ -1,0 +1,10 @@
+{
+    "id": "2017_92711402", 
+    "image_path": "images/val2017/2017_92711402.jpg", 
+    "labels": [
+        "a17_color", 
+        "a7_fingerprint"
+    ], 
+    "openimages_id": null, 
+    "source_url": null
+}

@@ -1,0 +1,9 @@
+{
+    "id": "2017_13699257", 
+    "image_path": "images/val2017/2017_13699257.jpg", 
+    "labels": [
+        "a104_license_plate_partial"
+    ], 
+    "openimages_id": "1b60e8bc833b4f4c", 
+    "source_url": "https://c5.staticflickr.com/9/8146/7699948720_9f95a969dc_o.jpg"
+}

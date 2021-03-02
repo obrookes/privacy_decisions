@@ -1,0 +1,14 @@
+{
+    "id": "2017_67374185", 
+    "image_path": "images/val2017/2017_67374185.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a13_full_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a65_rel_social", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": null, 
+    "source_url": null
+}

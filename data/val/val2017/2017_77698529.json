@@ -1,0 +1,19 @@
+{
+    "id": "2017_77698529", 
+    "image_path": "images/val2017/2017_77698529.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a18_ethnic_clothing", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a57_culture", 
+        "a68_rel_spectators", 
+        "a6_hair_color", 
+        "a73_landmark", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "48cdf7b754d4cb6a", 
+    "source_url": "https://c3.staticflickr.com/3/2846/9437773201_02c1951bf2_o.jpg"
+}

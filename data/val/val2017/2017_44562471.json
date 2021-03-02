@@ -1,0 +1,10 @@
+{
+    "id": "2017_44562471", 
+    "image_path": "images/val2017/2017_44562471.jpg", 
+    "labels": [
+        "a102_vehicle_ownership", 
+        "a17_color"
+    ], 
+    "openimages_id": "af5340d6e1be3646", 
+    "source_url": "https://farm7.staticflickr.com/8427/7615419886_2401280bc7_o.jpg"
+}

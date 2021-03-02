@@ -1,0 +1,17 @@
+{
+    "id": "2017_46022809", 
+    "image_path": "images/val2017/2017_46022809.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a4_gender", 
+        "a58_hobbies", 
+        "a5_eye_color", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "792938504ad3e7b2", 
+    "source_url": "https://farm3.staticflickr.com/3669/9655151000_614d1bf645_o.jpg"
+}

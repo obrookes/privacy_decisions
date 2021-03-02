@@ -1,0 +1,10 @@
+{
+    "id": "2017_18240345", 
+    "image_path": "images/val2017/2017_18240345.jpg", 
+    "labels": [
+        "a102_vehicle_ownership", 
+        "a82_date_time"
+    ], 
+    "openimages_id": "057cede4315c9832", 
+    "source_url": "https://farm3.staticflickr.com/3321/3436579817_679be8ce38_o.jpg"
+}

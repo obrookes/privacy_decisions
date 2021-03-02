@@ -1,0 +1,20 @@
+{
+    "id": "2017_53891270", 
+    "image_path": "images/val2017/2017_53891270.jpg", 
+    "labels": [
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a25_nationality", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a48_occassion_work", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a66_rel_professional", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "4985e242b1feb5a4", 
+    "source_url": "https://farm5.staticflickr.com/8248/8554548902_030e5a4186_o.jpg"
+}

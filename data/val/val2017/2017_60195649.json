@@ -1,0 +1,15 @@
+{
+    "id": "2017_60195649", 
+    "image_path": "images/val2017/2017_60195649.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a17_color", 
+        "a2_weight_approx", 
+        "a4_gender", 
+        "a65_rel_social", 
+        "a6_hair_color", 
+        "a73_landmark"
+    ], 
+    "openimages_id": "42d1220b53d96f25", 
+    "source_url": "https://farm6.staticflickr.com/1272/4691535850_8294364340_o.jpg"
+}

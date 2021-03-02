@@ -1,0 +1,20 @@
+{
+    "id": "2017_67226146", 
+    "image_path": "images/val2017/2017_67226146.jpg", 
+    "labels": [
+        "a102_vehicle_ownership", 
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a65_rel_social", 
+        "a6_hair_color", 
+        "a73_landmark", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "181663b620c5e59c", 
+    "source_url": "https://c5.staticflickr.com/3/2399/1580967232_6e9d2ae269_o.jpg"
+}

@@ -1,0 +1,17 @@
+{
+    "id": "2017_59577947", 
+    "image_path": "images/val2017/2017_59577947.jpg", 
+    "labels": [
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a56_sexual_orientation", 
+        "a64_rel_personal", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": null, 
+    "source_url": null
+}

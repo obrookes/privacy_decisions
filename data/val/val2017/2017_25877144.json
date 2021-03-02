@@ -1,0 +1,17 @@
+{
+    "id": "2017_25877144", 
+    "image_path": "images/val2017/2017_25877144.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a4_gender", 
+        "a59_sports", 
+        "a5_eye_color", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "7736774edba2d772", 
+    "source_url": "https://farm3.staticflickr.com/4147/5095394647_023da3b026_o.jpg"
+}

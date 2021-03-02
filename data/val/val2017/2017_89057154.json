@@ -1,0 +1,17 @@
+{
+    "id": "2017_89057154", 
+    "image_path": "images/val2017/2017_89057154.jpg", 
+    "labels": [
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a48_occassion_work", 
+        "a4_gender", 
+        "a66_rel_professional", 
+        "a6_hair_color", 
+        "a73_landmark", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "93204adcd8d35a40", 
+    "source_url": "https://farm1.staticflickr.com/2885/13856722243_555a6f6fbe_o.jpg"
+}

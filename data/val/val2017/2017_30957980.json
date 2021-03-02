@@ -1,0 +1,10 @@
+{
+    "id": "2017_30957980", 
+    "image_path": "images/val2017/2017_30957980.jpg", 
+    "labels": [
+        "a102_vehicle_ownership", 
+        "a73_landmark"
+    ], 
+    "openimages_id": "54b5916028a5254a", 
+    "source_url": "https://c3.staticflickr.com/3/2158/1548125162_61c73d6614_o.jpg"
+}

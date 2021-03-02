@@ -1,0 +1,18 @@
+{
+    "id": "2017_55527913", 
+    "image_path": "images/val2017/2017_55527913.jpg", 
+    "labels": [
+        "a16_race", 
+        "a17_color", 
+        "a19_name_full", 
+        "a24_birth_date", 
+        "a25_nationality", 
+        "a29_ausweis", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "e4b2e381fb56ae72", 
+    "source_url": "https://farm3.staticflickr.com/2177/2373685622_d2b3b0df40_o.jpg"
+}

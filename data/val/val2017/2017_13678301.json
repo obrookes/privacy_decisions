@@ -1,0 +1,19 @@
+{
+    "id": "2017_13678301", 
+    "image_path": "images/val2017/2017_13678301.jpg", 
+    "labels": [
+        "a16_race", 
+        "a17_color", 
+        "a19_name_full", 
+        "a1_age_approx", 
+        "a46_occupation", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a66_rel_professional", 
+        "a6_hair_color", 
+        "a75_address_current_partial", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "0e4aed459af2799d", 
+    "source_url": "https://c6.staticflickr.com/6/5504/12782568713_8a8e9e4ac4_o.jpg"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "2017_42419892", 
+    "image_path": "images/val2017/2017_42419892.jpg", 
+    "labels": [
+        "a102_vehicle_ownership", 
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a27_marital_status", 
+        "a2_weight_approx", 
+        "a4_gender", 
+        "a59_sports", 
+        "a5_eye_color", 
+        "a64_rel_personal", 
+        "a68_rel_spectators", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "97acd03f9f6de8b4", 
+    "source_url": "https://farm5.staticflickr.com/5534/18623225550_9dfb9728ea_o.jpg"
+}

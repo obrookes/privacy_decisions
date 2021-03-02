@@ -1,0 +1,16 @@
+{
+    "id": "2017_78370251", 
+    "image_path": "images/val2017/2017_78370251.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a4_gender", 
+        "a69_rel_views", 
+        "a6_hair_color", 
+        "a82_date_time", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "a7efee12dcd2a269", 
+    "source_url": "https://c2.staticflickr.com/4/3908/14814995126_88b34d8500_o.jpg"
+}

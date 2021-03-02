@@ -1,0 +1,11 @@
+{
+    "id": "2017_95213747", 
+    "image_path": "images/val2017/2017_95213747.jpg", 
+    "labels": [
+        "a49_phone", 
+        "a73_landmark", 
+        "a75_address_current_partial"
+    ], 
+    "openimages_id": "d52cc34f0281fd85", 
+    "source_url": "https://farm6.staticflickr.com/43/100706253_7247e0d5cf_o.jpg"
+}

@@ -1,0 +1,16 @@
+{
+    "id": "2017_55610311", 
+    "image_path": "images/val2017/2017_55610311.jpg", 
+    "labels": [
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "4b348190520be30e", 
+    "source_url": "https://c7.staticflickr.com/7/6156/6183726932_e15c3ec64c_o.jpg"
+}

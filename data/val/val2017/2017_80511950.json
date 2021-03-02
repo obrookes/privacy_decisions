@@ -1,0 +1,21 @@
+{
+    "id": "2017_80511950", 
+    "image_path": "images/val2017/2017_80511950.jpg", 
+    "labels": [
+        "a104_license_plate_partial", 
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a56_sexual_orientation", 
+        "a57_culture", 
+        "a5_eye_color", 
+        "a69_rel_views", 
+        "a6_hair_color", 
+        "a73_landmark", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "23d5a49fe136f835", 
+    "source_url": "https://farm6.staticflickr.com/4119/4801454803_048615d0e8_o.jpg"
+}

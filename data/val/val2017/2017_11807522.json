@@ -1,0 +1,17 @@
+{
+    "id": "2017_11807522", 
+    "image_path": "images/val2017/2017_11807522.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a11_tattoo", 
+        "a16_race", 
+        "a17_color", 
+        "a2_weight_approx", 
+        "a4_gender", 
+        "a56_sexual_orientation", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "1099a79cd302d351", 
+    "source_url": "https://farm2.staticflickr.com/7107/7479588726_5449fb46f9_o.jpg"
+}

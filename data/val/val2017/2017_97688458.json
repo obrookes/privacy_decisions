@@ -1,0 +1,18 @@
+{
+    "id": "2017_97688458", 
+    "image_path": "images/val2017/2017_97688458.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a4_gender", 
+        "a56_sexual_orientation", 
+        "a57_culture", 
+        "a68_rel_spectators", 
+        "a6_hair_color", 
+        "a73_landmark", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "3cd353dee8d7d2e6", 
+    "source_url": "https://farm7.staticflickr.com/2940/14629576179_6f33508967_o.jpg"
+}

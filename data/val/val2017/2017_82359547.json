@@ -1,0 +1,17 @@
+{
+    "id": "2017_82359547", 
+    "image_path": "images/val2017/2017_82359547.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a46_occupation", 
+        "a4_gender", 
+        "a58_hobbies", 
+        "a65_rel_social", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "5db4d91672ca5354", 
+    "source_url": "https://farm5.staticflickr.com/7159/6756890237_bff731540a_o.jpg"
+}

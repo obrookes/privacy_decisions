@@ -1,0 +1,23 @@
+{
+    "id": "2017_63085990", 
+    "image_path": "images/val2017/2017_63085990.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a18_ethnic_clothing", 
+        "a1_age_approx", 
+        "a25_nationality", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a57_culture", 
+        "a5_eye_color", 
+        "a68_rel_spectators", 
+        "a6_hair_color", 
+        "a82_date_time", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "f269b1a158b9473a", 
+    "source_url": "https://c3.staticflickr.com/1/48/139609459_7ece429d04_o.jpg"
+}

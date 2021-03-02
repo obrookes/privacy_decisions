@@ -1,0 +1,19 @@
+{
+    "id": "2017_18322270", 
+    "image_path": "images/val2017/2017_18322270.jpg", 
+    "labels": [
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a18_ethnic_clothing", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a57_culture", 
+        "a5_eye_color", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "611a3200b60374ff", 
+    "source_url": "https://c8.staticflickr.com/1/184/364327144_cffa6b6820_o.jpg"
+}

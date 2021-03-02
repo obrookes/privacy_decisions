@@ -1,0 +1,16 @@
+{
+    "id": "2017_10898250", 
+    "image_path": "images/val2017/2017_10898250.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a17_color", 
+        "a19_name_full", 
+        "a46_occupation", 
+        "a66_rel_professional", 
+        "a68_rel_spectators", 
+        "a69_rel_views", 
+        "a82_date_time"
+    ], 
+    "openimages_id": "6254becf4d74bef9", 
+    "source_url": "https://c2.staticflickr.com/3/2758/4422804504_2b29b5a87f_o.jpg"
+}

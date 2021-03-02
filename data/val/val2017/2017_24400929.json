@@ -1,0 +1,17 @@
+{
+    "id": "2017_24400929", 
+    "image_path": "images/val2017/2017_24400929.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a11_tattoo", 
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a64_rel_personal", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "8b7f7b4b83ba04ee", 
+    "source_url": "https://c7.staticflickr.com/4/3568/3529642863_15545e0594_o.jpg"
+}

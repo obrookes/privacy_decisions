@@ -1,0 +1,15 @@
+{
+    "id": "2017_30630256", 
+    "image_path": "images/val2017/2017_30630256.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a4_gender", 
+        "a58_hobbies", 
+        "a65_rel_social", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "d21569a24a259448", 
+    "source_url": "https://c1.staticflickr.com/8/7514/15770355886_a8df6934dd_o.jpg"
+}

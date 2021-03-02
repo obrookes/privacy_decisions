@@ -1,0 +1,11 @@
+{
+    "id": "2017_33142637", 
+    "image_path": "images/val2017/2017_33142637.jpg", 
+    "labels": [
+        "a17_color", 
+        "a59_sports", 
+        "a73_landmark"
+    ], 
+    "openimages_id": "4ce815a180626b58", 
+    "source_url": "https://c1.staticflickr.com/8/7545/15586342399_44e677a457_o.jpg"
+}

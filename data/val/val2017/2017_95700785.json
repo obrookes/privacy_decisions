@@ -1,0 +1,10 @@
+{
+    "id": "2017_95700785", 
+    "image_path": "images/val2017/2017_95700785.jpg", 
+    "labels": [
+        "a37_receipt", 
+        "a82_date_time"
+    ], 
+    "openimages_id": "a5bba48e9451242b", 
+    "source_url": "https://c4.staticflickr.com/5/4151/4974549044_780dcb5649_o.jpg"
+}

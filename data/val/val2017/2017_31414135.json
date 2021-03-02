@@ -1,0 +1,19 @@
+{
+    "id": "2017_31414135", 
+    "image_path": "images/val2017/2017_31414135.jpg", 
+    "labels": [
+        "a102_vehicle_ownership", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a58_hobbies", 
+        "a5_eye_color", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "84294c3feea1f394", 
+    "source_url": "https://farm5.staticflickr.com/3446/3212455390_fbc43a1d0d_o.jpg"
+}

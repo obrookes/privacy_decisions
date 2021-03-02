@@ -1,0 +1,19 @@
+{
+    "id": "2017_36141125", 
+    "image_path": "images/val2017/2017_36141125.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a61_opinion_general", 
+        "a65_rel_social", 
+        "a6_hair_color", 
+        "a82_date_time", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "a34582a1f50eff97", 
+    "source_url": "https://farm8.staticflickr.com/7026/6555136693_ee6ff5b13c_o.jpg"
+}

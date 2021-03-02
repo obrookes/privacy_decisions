@@ -1,0 +1,20 @@
+{
+    "id": "2017_79130068", 
+    "image_path": "images/val2017/2017_79130068.jpg", 
+    "labels": [
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a65_rel_social", 
+        "a6_hair_color", 
+        "a70_education_history", 
+        "a82_date_time", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "c479bc18b91e2569", 
+    "source_url": "https://c2.staticflickr.com/6/5048/5279551514_7af5f15b1c_o.jpg"
+}

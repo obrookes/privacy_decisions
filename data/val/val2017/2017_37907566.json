@@ -1,0 +1,14 @@
+{
+    "id": "2017_37907566", 
+    "image_path": "images/val2017/2017_37907566.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a17_color", 
+        "a46_occupation", 
+        "a4_gender", 
+        "a58_hobbies", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "c8613a453ef101df", 
+    "source_url": "https://c8.staticflickr.com/3/2784/4369351350_4dc6f2c701_o.jpg"
+}

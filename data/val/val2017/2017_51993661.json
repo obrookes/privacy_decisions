@@ -1,0 +1,13 @@
+{
+    "id": "2017_51993661", 
+    "image_path": "images/val2017/2017_51993661.jpg", 
+    "labels": [
+        "a19_name_full", 
+        "a26_handwriting", 
+        "a82_date_time", 
+        "a8_signature", 
+        "a99_legal_involvement"
+    ], 
+    "openimages_id": "3a2926b17549ef54", 
+    "source_url": "https://farm5.staticflickr.com/300/18363087233_58cd4181dc_o.jpg"
+}

@@ -1,0 +1,18 @@
+{
+    "id": "2017_14320004", 
+    "image_path": "images/val2017/2017_14320004.jpg", 
+    "labels": [
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "765b9d2a95278d84", 
+    "source_url": "https://farm5.staticflickr.com/5133/5559197026_3f12f49ce3_o.jpg"
+}

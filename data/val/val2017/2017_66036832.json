@@ -1,0 +1,17 @@
+{
+    "id": "2017_66036832", 
+    "image_path": "images/val2017/2017_66036832.jpg", 
+    "labels": [
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a46_occupation", 
+        "a4_gender", 
+        "a57_culture", 
+        "a5_eye_color", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "ca0b44b1af91401e", 
+    "source_url": "https://c7.staticflickr.com/4/3447/3893583807_330547658e_o.jpg"
+}

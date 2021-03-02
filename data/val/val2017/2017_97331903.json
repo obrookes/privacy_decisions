@@ -1,0 +1,12 @@
+{
+    "id": "2017_97331903", 
+    "image_path": "images/val2017/2017_97331903.jpg", 
+    "labels": [
+        "a17_color", 
+        "a25_nationality", 
+        "a31_passport", 
+        "a82_date_time"
+    ], 
+    "openimages_id": "b3cc600b75721b32", 
+    "source_url": "https://farm3.staticflickr.com/1420/4724002424_6a94e8c9be_o.jpg"
+}

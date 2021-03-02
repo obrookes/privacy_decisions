@@ -1,0 +1,12 @@
+{
+    "id": "2017_78389688", 
+    "image_path": "images/val2017/2017_78389688.jpg", 
+    "labels": [
+        "a16_race", 
+        "a17_color", 
+        "a4_gender", 
+        "a65_rel_social"
+    ], 
+    "openimages_id": "ff0f20b8d4ae0fa7", 
+    "source_url": "https://farm8.staticflickr.com/8197/8270433247_a56ce921ba_o.jpg"
+}

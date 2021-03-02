@@ -1,0 +1,19 @@
+{
+    "id": "2017_37404019", 
+    "image_path": "images/val2017/2017_37404019.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a58_hobbies", 
+        "a5_eye_color", 
+        "a61_opinion_general", 
+        "a69_rel_views", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "910bd61493a312f9", 
+    "source_url": "https://c2.staticflickr.com/4/3042/5839719516_1849746b45_o.jpg"
+}

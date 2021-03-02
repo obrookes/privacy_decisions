@@ -1,0 +1,10 @@
+{
+    "id": "2017_48456948", 
+    "image_path": "images/val2017/2017_48456948.png", 
+    "labels": [
+        "a85_username", 
+        "a97_online_conversation"
+    ], 
+    "openimages_id": null, 
+    "source_url": null
+}

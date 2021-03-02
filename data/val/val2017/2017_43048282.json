@@ -1,0 +1,20 @@
+{
+    "id": "2017_43048282", 
+    "image_path": "images/val2017/2017_43048282.jpg", 
+    "labels": [
+        "a16_race", 
+        "a17_color", 
+        "a19_name_full", 
+        "a1_age_approx", 
+        "a25_nationality", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a6_hair_color", 
+        "a74_address_current_complete", 
+        "a82_date_time", 
+        "a8_signature", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "1ef56c389d343cf2", 
+    "source_url": "https://farm3.staticflickr.com/5449/8953315299_029f310e2f_o.jpg"
+}

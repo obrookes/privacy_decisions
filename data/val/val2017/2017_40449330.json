@@ -1,0 +1,15 @@
+{
+    "id": "2017_40449330", 
+    "image_path": "images/val2017/2017_40449330.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a4_gender", 
+        "a59_sports"
+    ], 
+    "openimages_id": "fe0ef06c5141267b", 
+    "source_url": "https://c4.staticflickr.com/9/8469/8135592348_e25a138520_o.jpg"
+}

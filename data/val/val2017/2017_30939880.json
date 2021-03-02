@@ -1,0 +1,13 @@
+{
+    "id": "2017_30939880", 
+    "image_path": "images/val2017/2017_30939880.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a4_gender", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "18f20921ad7f3da7", 
+    "source_url": "https://farm8.staticflickr.com/5450/9096259060_33750ca4df_o.jpg"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "2017_19841645", 
+    "image_path": "images/val2017/2017_19841645.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a57_culture", 
+        "a5_eye_color", 
+        "a68_rel_spectators", 
+        "a6_hair_color", 
+        "a73_landmark", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "aebb1c15426236f5", 
+    "source_url": "https://farm6.staticflickr.com/2895/14024192448_3907707a89_o.jpg"
+}

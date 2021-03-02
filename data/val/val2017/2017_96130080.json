@@ -1,0 +1,12 @@
+{
+    "id": "2017_96130080", 
+    "image_path": "images/val2017/2017_96130080.jpg", 
+    "labels": [
+        "a17_color", 
+        "a46_occupation", 
+        "a4_gender", 
+        "a66_rel_professional"
+    ], 
+    "openimages_id": "43b346d35e49897d", 
+    "source_url": "https://c6.staticflickr.com/2/1154/5109838117_0b6381e952_o.jpg"
+}

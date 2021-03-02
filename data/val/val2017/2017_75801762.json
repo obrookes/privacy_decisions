@@ -1,0 +1,12 @@
+{
+    "id": "2017_75801762", 
+    "image_path": "images/val2017/2017_75801762.jpg", 
+    "labels": [
+        "a20_name_first", 
+        "a30_credit_card", 
+        "a37_receipt", 
+        "a82_date_time"
+    ], 
+    "openimages_id": "aa0de13b3a056376", 
+    "source_url": "https://farm7.staticflickr.com/8250/8473995769_a555e35826_o.jpg"
+}

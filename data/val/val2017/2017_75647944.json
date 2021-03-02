@@ -1,0 +1,13 @@
+{
+    "id": "2017_75647944", 
+    "image_path": "images/val2017/2017_75647944.jpg", 
+    "labels": [
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a4_gender", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "ef5ab78ed6c31f36", 
+    "source_url": "https://farm7.staticflickr.com/8494/8317948593_b131457d88_o.jpg"
+}

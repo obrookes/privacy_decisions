@@ -1,0 +1,16 @@
+{
+    "id": "2017_13909556", 
+    "image_path": "images/val2017/2017_13909556.jpg", 
+    "labels": [
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a56_sexual_orientation", 
+        "a6_hair_color", 
+        "a73_landmark", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "461faf46dbe29d81", 
+    "source_url": "https://farm2.staticflickr.com/7277/13957673832_57fec0c33d_o.jpg"
+}

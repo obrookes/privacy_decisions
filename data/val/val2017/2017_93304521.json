@@ -1,0 +1,19 @@
+{
+    "id": "2017_93304521", 
+    "image_path": "images/val2017/2017_93304521.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a11_tattoo", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a57_culture", 
+        "a5_eye_color", 
+        "a6_hair_color", 
+        "a82_date_time", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "e086cc99e46a1d8a", 
+    "source_url": "https://c3.staticflickr.com/5/4107/4971657916_34d67be434_o.jpg"
+}

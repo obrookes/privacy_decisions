@@ -1,0 +1,14 @@
+{
+    "id": "2017_62771331", 
+    "image_path": "images/val2017/2017_62771331.jpg", 
+    "labels": [
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "b92ff3f20c0c5b55", 
+    "source_url": "https://farm6.staticflickr.com/5527/14518612891_7dbc969e26_o.jpg"
+}

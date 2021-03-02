@@ -1,0 +1,17 @@
+{
+    "id": "2017_19726485", 
+    "image_path": "images/val2017/2017_19726485.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a17_color", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a46_occupation", 
+        "a4_gender", 
+        "a66_rel_professional", 
+        "a6_hair_color", 
+        "a73_landmark"
+    ], 
+    "openimages_id": "8b628c6a23e180bd", 
+    "source_url": "https://c6.staticflickr.com/8/7501/15301725863_b6c1c68d11_o.jpg"
+}

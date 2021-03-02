@@ -1,0 +1,21 @@
+{
+    "id": "2017_54838010", 
+    "image_path": "images/val2017/2017_54838010.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a39_disability_physical", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a59_sports", 
+        "a5_eye_color", 
+        "a6_hair_color", 
+        "a75_address_current_partial", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "20191c6092e76c5f", 
+    "source_url": "https://c8.staticflickr.com/4/3452/3751548703_b65d0fde36_o.jpg"
+}

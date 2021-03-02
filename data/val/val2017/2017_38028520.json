@@ -1,0 +1,19 @@
+{
+    "id": "2017_38028520", 
+    "image_path": "images/val2017/2017_38028520.jpg", 
+    "labels": [
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a55_religion", 
+        "a5_eye_color", 
+        "a65_rel_social", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "5be006c6ff267150", 
+    "source_url": "https://farm1.staticflickr.com/8178/8034951442_00e7f1cc1e_o.jpg"
+}

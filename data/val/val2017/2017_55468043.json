@@ -1,0 +1,18 @@
+{
+    "id": "2017_55468043", 
+    "image_path": "images/val2017/2017_55468043.png", 
+    "labels": [
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a6_hair_color", 
+        "a82_date_time", 
+        "a85_username", 
+        "a97_online_conversation", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": null, 
+    "source_url": null
+}

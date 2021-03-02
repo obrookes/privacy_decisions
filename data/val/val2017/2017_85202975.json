@@ -1,0 +1,19 @@
+{
+    "id": "2017_85202975", 
+    "image_path": "images/val2017/2017_85202975.jpg", 
+    "labels": [
+        "a16_race", 
+        "a17_color", 
+        "a19_name_full", 
+        "a1_age_approx", 
+        "a33_student_id", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a6_hair_color", 
+        "a75_address_current_partial", 
+        "a82_date_time", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "39ca59f875b78911", 
+    "source_url": "https://farm2.staticflickr.com/5202/5319313501_8d49bb1925_o.jpg"
+}

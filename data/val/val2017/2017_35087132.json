@@ -1,0 +1,18 @@
+{
+    "id": "2017_35087132", 
+    "image_path": "images/val2017/2017_35087132.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a11_tattoo", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a57_culture", 
+        "a68_rel_spectators", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "a8f63aff95395006", 
+    "source_url": "https://farm7.staticflickr.com/3028/2813022288_774b4899d5_o.jpg"
+}

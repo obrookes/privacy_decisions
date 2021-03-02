@@ -1,0 +1,18 @@
+{
+    "id": "2017_53310066", 
+    "image_path": "images/val2017/2017_53310066.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a57_culture", 
+        "a68_rel_spectators", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "95dd832110e5eb49", 
+    "source_url": "https://c2.staticflickr.com/4/3221/2600657781_6bd5c660a7_o.jpg"
+}

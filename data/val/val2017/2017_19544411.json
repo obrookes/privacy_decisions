@@ -1,0 +1,18 @@
+{
+    "id": "2017_19544411", 
+    "image_path": "images/val2017/2017_19544411.jpg", 
+    "labels": [
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a57_culture", 
+        "a5_eye_color", 
+        "a69_rel_views", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "08cf483c495f18a9", 
+    "source_url": "https://c2.staticflickr.com/8/7358/13956252788_a240ba2b9b_o.jpg"
+}

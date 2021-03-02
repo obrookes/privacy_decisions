@@ -1,0 +1,16 @@
+{
+    "id": "2017_79320735", 
+    "image_path": "images/val2017/2017_79320735.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a6_hair_color", 
+        "a73_landmark", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "9d80cdd236869afe", 
+    "source_url": "https://c7.staticflickr.com/8/7439/10637848674_5e8d1fc527_o.jpg"
+}

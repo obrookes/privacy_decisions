@@ -1,0 +1,18 @@
+{
+    "id": "2017_76171850", 
+    "image_path": "images/val2017/2017_76171850.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a4_gender", 
+        "a57_culture", 
+        "a58_hobbies", 
+        "a68_rel_spectators", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "7086705aee93aa29", 
+    "source_url": "https://c2.staticflickr.com/8/7540/15521732860_12d4bafe53_o.jpg"
+}

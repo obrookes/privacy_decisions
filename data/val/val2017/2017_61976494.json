@@ -1,0 +1,21 @@
+{
+    "id": "2017_61976494", 
+    "image_path": "images/val2017/2017_61976494.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a18_ethnic_clothing", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a57_culture", 
+        "a58_hobbies", 
+        "a5_eye_color", 
+        "a68_rel_spectators", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "ca363e5b09315dc2", 
+    "source_url": "https://farm3.staticflickr.com/7052/6902759581_3505318f49_o.jpg"
+}

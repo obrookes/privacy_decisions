@@ -1,0 +1,18 @@
+{
+    "id": "2017_31542591", 
+    "image_path": "images/val2017/2017_31542591.jpg", 
+    "labels": [
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a48_occassion_work", 
+        "a4_gender", 
+        "a58_hobbies", 
+        "a5_eye_color", 
+        "a65_rel_social", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "3070a0e48942cdcb", 
+    "source_url": "https://c4.staticflickr.com/1/77/211390833_5a984c2c6f_o.jpg"
+}

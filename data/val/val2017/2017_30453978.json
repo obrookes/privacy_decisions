@@ -1,0 +1,18 @@
+{
+    "id": "2017_30453978", 
+    "image_path": "images/val2017/2017_30453978.jpg", 
+    "labels": [
+        "a16_race", 
+        "a17_color", 
+        "a18_ethnic_clothing", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "6b79939b687a04c4", 
+    "source_url": "https://farm5.staticflickr.com/3201/3052951520_63b2d33ab5_o.jpg"
+}

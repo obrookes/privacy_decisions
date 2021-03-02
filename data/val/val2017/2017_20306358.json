@@ -1,0 +1,18 @@
+{
+    "id": "2017_20306358", 
+    "image_path": "images/val2017/2017_20306358.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a61_opinion_general", 
+        "a69_rel_views", 
+        "a6_hair_color", 
+        "a75_address_current_partial", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "ba692ac785e04a80", 
+    "source_url": "https://farm1.staticflickr.com/4068/4569939924_89b01e447d_o.jpg"
+}

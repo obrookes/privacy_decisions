@@ -1,0 +1,19 @@
+{
+    "id": "2017_33019971", 
+    "image_path": "images/val2017/2017_33019971.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a56_sexual_orientation", 
+        "a57_culture", 
+        "a5_eye_color", 
+        "a64_rel_personal", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "8706a05d8793fd1a", 
+    "source_url": "https://c3.staticflickr.com/3/2936/14745556606_39049db68f_o.jpg"
+}

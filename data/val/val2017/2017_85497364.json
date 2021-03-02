@@ -1,0 +1,18 @@
+{
+    "id": "2017_85497364", 
+    "image_path": "images/val2017/2017_85497364.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a61_opinion_general", 
+        "a69_rel_views", 
+        "a6_hair_color", 
+        "a73_landmark"
+    ], 
+    "openimages_id": "2a48cd3ab045768d", 
+    "source_url": "https://c6.staticflickr.com/1/173/405507600_9b8bae752f_o.jpg"
+}

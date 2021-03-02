@@ -1,0 +1,14 @@
+{
+    "id": "2017_88614259", 
+    "image_path": "images/val2017/2017_88614259.jpg", 
+    "labels": [
+        "a19_name_full", 
+        "a46_occupation", 
+        "a70_education_history", 
+        "a73_landmark", 
+        "a82_date_time", 
+        "a8_signature"
+    ], 
+    "openimages_id": "e46791ec80560353", 
+    "source_url": "https://farm4.staticflickr.com/5604/15206149284_cee0abd5fe_o.jpg"
+}

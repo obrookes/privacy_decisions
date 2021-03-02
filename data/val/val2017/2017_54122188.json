@@ -1,0 +1,16 @@
+{
+    "id": "2017_54122188", 
+    "image_path": "images/val2017/2017_54122188.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a4_gender", 
+        "a58_hobbies", 
+        "a65_rel_social"
+    ], 
+    "openimages_id": "ea1be12a58d33637", 
+    "source_url": "https://farm8.staticflickr.com/7220/13222896753_0f1fd22a67_o.jpg"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "2017_42471104", 
+    "image_path": "images/val2017/2017_42471104.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a39_disability_physical", 
+        "a4_gender", 
+        "a57_culture", 
+        "a5_eye_color", 
+        "a64_rel_personal", 
+        "a68_rel_spectators", 
+        "a6_hair_color", 
+        "a75_address_current_partial", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "0e10c554bfa6581d", 
+    "source_url": "https://c6.staticflickr.com/1/173/474429009_190b8210a7_o.jpg"
+}

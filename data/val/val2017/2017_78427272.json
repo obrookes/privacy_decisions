@@ -1,0 +1,17 @@
+{
+    "id": "2017_78427272", 
+    "image_path": "images/val2017/2017_78427272.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a48_occassion_work", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a66_rel_professional", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "8ea65ab54414ce50", 
+    "source_url": "https://farm1.staticflickr.com/5517/11825086516_ec3fd1d801_o.jpg"
+}

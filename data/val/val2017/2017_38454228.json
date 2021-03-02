@@ -1,0 +1,19 @@
+{
+    "id": "2017_38454228", 
+    "image_path": "images/val2017/2017_38454228.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a61_opinion_general", 
+        "a69_rel_views", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "04aa81c186966222", 
+    "source_url": "https://farm3.staticflickr.com/5515/14154318126_8e5fe4f990_o.jpg"
+}

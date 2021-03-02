@@ -1,0 +1,11 @@
+{
+    "id": "2017_31433187", 
+    "image_path": "images/val2017/2017_31433187.jpg", 
+    "labels": [
+        "a19_name_full", 
+        "a82_date_time", 
+        "a8_signature"
+    ], 
+    "openimages_id": "045e95c07ba74e4b", 
+    "source_url": "https://c4.staticflickr.com/1/137/321247610_b319462585_o.jpg"
+}

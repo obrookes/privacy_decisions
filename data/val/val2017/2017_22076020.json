@@ -1,0 +1,16 @@
+{
+    "id": "2017_22076020", 
+    "image_path": "images/val2017/2017_22076020.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a82_date_time"
+    ], 
+    "openimages_id": "1a22bef06d4beb04", 
+    "source_url": "https://farm5.staticflickr.com/3260/3186058262_ae4b26211d_o.jpg"
+}

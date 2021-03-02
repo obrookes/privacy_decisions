@@ -1,0 +1,10 @@
+{
+    "id": "2017_24749769", 
+    "image_path": "images/val2017/2017_24749769.jpg", 
+    "labels": [
+        "a17_color", 
+        "a46_occupation"
+    ], 
+    "openimages_id": "870b9d6515440958", 
+    "source_url": "https://c1.staticflickr.com/8/7567/15849432418_60e465cd57_o.jpg"
+}

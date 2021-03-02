@@ -1,0 +1,14 @@
+{
+    "id": "2017_67270864", 
+    "image_path": "images/val2017/2017_67270864.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a17_color", 
+        "a2_weight_approx", 
+        "a4_gender", 
+        "a65_rel_social", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "f3cb59724cc69e64", 
+    "source_url": "https://farm5.staticflickr.com/4068/4250753199_461dd6b43e_o.jpg"
+}

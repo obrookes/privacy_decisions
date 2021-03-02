@@ -1,0 +1,17 @@
+{
+    "id": "2017_27331832", 
+    "image_path": "images/val2017/2017_27331832.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a61_opinion_general", 
+        "a6_hair_color", 
+        "a75_address_current_partial", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "cce73d13e87da61f", 
+    "source_url": "https://c8.staticflickr.com/6/5659/20882121339_f36123a1e0_o.jpg"
+}

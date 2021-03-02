@@ -1,0 +1,10 @@
+{
+    "id": "2017_28737159", 
+    "image_path": "images/val2017/2017_28737159.jpg", 
+    "labels": [
+        "a17_color", 
+        "a4_gender"
+    ], 
+    "openimages_id": "1d36cc92a97304ae", 
+    "source_url": "https://c7.staticflickr.com/3/2930/14098666251_a6da0337f4_o.jpg"
+}

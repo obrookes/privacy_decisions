@@ -1,0 +1,12 @@
+{
+    "id": "2017_68795360", 
+    "image_path": "images/val2017/2017_68795360.jpg", 
+    "labels": [
+        "a19_name_full", 
+        "a37_receipt", 
+        "a82_date_time", 
+        "a8_signature"
+    ], 
+    "openimages_id": "0e59211d2c773d8a", 
+    "source_url": "https://c3.staticflickr.com/6/5113/6952332852_01ee1d4177_o.jpg"
+}

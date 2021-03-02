@@ -1,0 +1,14 @@
+{
+    "id": "2017_90122353", 
+    "image_path": "images/val2017/2017_90122353.jpg", 
+    "labels": [
+        "a19_name_full", 
+        "a24_birth_date", 
+        "a31_passport", 
+        "a75_address_current_partial", 
+        "a82_date_time", 
+        "a8_signature"
+    ], 
+    "openimages_id": null, 
+    "source_url": null
+}

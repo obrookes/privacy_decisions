@@ -1,0 +1,11 @@
+{
+    "id": "2017_91742305", 
+    "image_path": "images/val2017/2017_91742305.jpg", 
+    "labels": [
+        "a17_color", 
+        "a65_rel_social", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "85646f3fcd040d30", 
+    "source_url": "https://farm1.staticflickr.com/1304/558541483_cce47837cc_o.jpg"
+}

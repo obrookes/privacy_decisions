@@ -1,0 +1,19 @@
+{
+    "id": "2017_80814977", 
+    "image_path": "images/val2017/2017_80814977.jpg", 
+    "labels": [
+        "a103_license_plate_complete", 
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a61_opinion_general", 
+        "a69_rel_views", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "fcd439b605c7f894", 
+    "source_url": "https://farm5.staticflickr.com/8240/8534541067_af900b2cdf_o.jpg"
+}

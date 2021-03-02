@@ -1,0 +1,17 @@
+{
+    "id": "2017_58301918", 
+    "image_path": "images/val2017/2017_58301918.jpg", 
+    "labels": [
+        "a102_vehicle_ownership", 
+        "a103_license_plate_complete", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "fcfcf1fd04ebc239", 
+    "source_url": "https://c2.staticflickr.com/6/5493/12208020523_38f01c0f67_o.jpg"
+}

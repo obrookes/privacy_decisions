@@ -1,0 +1,19 @@
+{
+    "id": "2017_38538941", 
+    "image_path": "images/val2017/2017_38538941.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a18_ethnic_clothing", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a61_opinion_general", 
+        "a69_rel_views", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "e4f1f70879319171", 
+    "source_url": "https://farm2.staticflickr.com/5118/14314875077_b8f1ed2fdd_o.jpg"
+}

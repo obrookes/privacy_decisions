@@ -1,0 +1,17 @@
+{
+    "id": "2017_62631734", 
+    "image_path": "images/val2017/2017_62631734.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a61_opinion_general", 
+        "a69_rel_views", 
+        "a73_landmark"
+    ], 
+    "openimages_id": "c6dba9b1f8147489", 
+    "source_url": "https://c2.staticflickr.com/9/8620/15349648924_4fe8d00d58_o.jpg"
+}

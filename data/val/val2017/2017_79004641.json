@@ -1,0 +1,10 @@
+{
+    "id": "2017_79004641", 
+    "image_path": "images/val2017/2017_79004641.jpg", 
+    "labels": [
+        "a3_height_approx", 
+        "a4_gender"
+    ], 
+    "openimages_id": "2024c77040485d49", 
+    "source_url": "https://c2.staticflickr.com/8/7649/16584486033_47449e9a28_o.jpg"
+}

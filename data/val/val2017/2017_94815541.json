@@ -1,0 +1,17 @@
+{
+    "id": "2017_94815541", 
+    "image_path": "images/val2017/2017_94815541.jpg", 
+    "labels": [
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a64_rel_personal", 
+        "a65_rel_social", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "dbbad911e7432c5c", 
+    "source_url": "https://c5.staticflickr.com/6/5572/14260896773_c35fac1a5e_o.jpg"
+}

@@ -1,0 +1,11 @@
+{
+    "id": "2017_88831034", 
+    "image_path": "images/val2017/2017_88831034.jpg", 
+    "labels": [
+        "a103_license_plate_complete", 
+        "a49_phone", 
+        "a82_date_time"
+    ], 
+    "openimages_id": "e453ee648c4ad80a", 
+    "source_url": "https://c3.staticflickr.com/6/5041/5277449196_0ebe74dbb1_o.jpg"
+}

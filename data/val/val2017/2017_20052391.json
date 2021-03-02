@@ -1,0 +1,16 @@
+{
+    "id": "2017_20052391", 
+    "image_path": "images/val2017/2017_20052391.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a66_rel_professional", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "58c23bbc8975ba3a", 
+    "source_url": "https://c3.staticflickr.com/4/3007/2701095781_b2a7656d4d_o.jpg"
+}

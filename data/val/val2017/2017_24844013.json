@@ -1,0 +1,17 @@
+{
+    "id": "2017_24844013", 
+    "image_path": "images/val2017/2017_24844013.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a46_occupation", 
+        "a4_gender", 
+        "a66_rel_professional", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "70fad0ed52b6b75c", 
+    "source_url": "https://c5.staticflickr.com/6/5231/14051630167_5e20e1431c_o.jpg"
+}

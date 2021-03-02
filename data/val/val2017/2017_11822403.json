@@ -1,0 +1,17 @@
+{
+    "id": "2017_11822403", 
+    "image_path": "images/val2017/2017_11822403.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a11_tattoo", 
+        "a16_race", 
+        "a17_color", 
+        "a2_weight_approx", 
+        "a4_gender", 
+        "a58_hobbies", 
+        "a5_eye_color", 
+        "a65_rel_social"
+    ], 
+    "openimages_id": "68ba23ca273e3337", 
+    "source_url": "https://farm8.staticflickr.com/6155/6184687847_176e5cf4d0_o.jpg"
+}

@@ -1,0 +1,17 @@
+{
+    "id": "2017_65808279", 
+    "image_path": "images/val2017/2017_65808279.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a48_occassion_work", 
+        "a4_gender", 
+        "a66_rel_professional", 
+        "a68_rel_spectators", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "4c52d8a7029cbd73", 
+    "source_url": "https://farm4.staticflickr.com/3492/3760080042_d292fb63e8_o.jpg"
+}

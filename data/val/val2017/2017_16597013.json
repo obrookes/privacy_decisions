@@ -1,0 +1,15 @@
+{
+    "id": "2017_16597013", 
+    "image_path": "images/val2017/2017_16597013.jpg", 
+    "labels": [
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "1acd924788b15db3", 
+    "source_url": "https://farm4.staticflickr.com/7075/7406049324_bb5fcf0e32_o.jpg"
+}

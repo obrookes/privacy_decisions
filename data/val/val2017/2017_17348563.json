@@ -1,0 +1,20 @@
+{
+    "id": "2017_17348563", 
+    "image_path": "images/val2017/2017_17348563.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a57_culture", 
+        "a5_eye_color", 
+        "a68_rel_spectators", 
+        "a6_hair_color", 
+        "a73_landmark", 
+        "a82_date_time", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "a6baf8b304a9469e", 
+    "source_url": "https://c7.staticflickr.com/8/7023/6615135915_f5c26fb0bf_o.jpg"
+}

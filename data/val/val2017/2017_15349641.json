@@ -1,0 +1,19 @@
+{
+    "id": "2017_15349641", 
+    "image_path": "images/val2017/2017_15349641.jpg", 
+    "labels": [
+        "a16_race", 
+        "a17_color", 
+        "a18_ethnic_clothing", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a58_hobbies", 
+        "a5_eye_color", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "248f2b2c0875beab", 
+    "source_url": "https://c4.staticflickr.com/9/8041/8063252753_ddc00dd987_o.jpg"
+}

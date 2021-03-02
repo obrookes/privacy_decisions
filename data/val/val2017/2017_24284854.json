@@ -1,0 +1,21 @@
+{
+    "id": "2017_24284854", 
+    "image_path": "images/val2017/2017_24284854.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a11_tattoo", 
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a57_culture", 
+        "a5_eye_color", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "6a6f4798f35fec54", 
+    "source_url": "https://farm5.staticflickr.com/2279/2035273053_6f72608e2d_o.jpg"
+}

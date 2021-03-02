@@ -1,0 +1,14 @@
+{
+    "id": "2017_35919243", 
+    "image_path": "images/val2017/2017_35919243.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a4_gender", 
+        "a6_hair_color", 
+        "a73_landmark"
+    ], 
+    "openimages_id": "a71f30cc014c0172", 
+    "source_url": "https://farm3.staticflickr.com/26/57371964_f83704d165_o.jpg"
+}

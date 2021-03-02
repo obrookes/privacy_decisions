@@ -1,0 +1,19 @@
+{
+    "id": "2017_35961972", 
+    "image_path": "images/val2017/2017_35961972.jpg", 
+    "labels": [
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a49_phone", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a6_hair_color", 
+        "a75_address_current_partial", 
+        "a82_date_time", 
+        "a85_username", 
+        "a97_online_conversation"
+    ], 
+    "openimages_id": null, 
+    "source_url": null
+}

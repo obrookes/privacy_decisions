@@ -1,0 +1,16 @@
+{
+    "id": "2017_59907239", 
+    "image_path": "images/val2017/2017_59907239.jpg", 
+    "labels": [
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a4_gender", 
+        "a59_sports", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "8562db514c1d53ce", 
+    "source_url": "https://c7.staticflickr.com/9/8707/16766248430_233af9df26_o.jpg"
+}

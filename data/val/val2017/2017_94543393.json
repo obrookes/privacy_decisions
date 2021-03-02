@@ -1,0 +1,16 @@
+{
+    "id": "2017_94543393", 
+    "image_path": "images/val2017/2017_94543393.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a55_religion", 
+        "a68_rel_spectators", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "c65b0367535c22bd", 
+    "source_url": "https://c6.staticflickr.com/4/3026/3537846429_72024fdd66_o.jpg"
+}

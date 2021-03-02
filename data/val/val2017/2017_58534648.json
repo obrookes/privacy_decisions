@@ -1,0 +1,18 @@
+{
+    "id": "2017_58534648", 
+    "image_path": "images/val2017/2017_58534648.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a56_sexual_orientation", 
+        "a57_culture", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "663d3d6422909462", 
+    "source_url": "https://farm3.staticflickr.com/1272/634618716_9fd40450f2_o.jpg"
+}

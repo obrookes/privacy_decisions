@@ -1,0 +1,13 @@
+{
+    "id": "2017_39735859", 
+    "image_path": "images/val2017/2017_39735859.jpg", 
+    "labels": [
+        "a20_name_first", 
+        "a55_religion", 
+        "a75_address_current_partial", 
+        "a82_date_time", 
+        "a8_signature"
+    ], 
+    "openimages_id": "e1b132ce4dae1393", 
+    "source_url": "https://farm4.staticflickr.com/23/26744484_dfba4d683d_o.jpg"
+}

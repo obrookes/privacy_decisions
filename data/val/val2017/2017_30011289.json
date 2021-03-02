@@ -1,0 +1,13 @@
+{
+    "id": "2017_30011289", 
+    "image_path": "images/val2017/2017_30011289.jpg", 
+    "labels": [
+        "a20_name_first", 
+        "a26_handwriting", 
+        "a35_mail", 
+        "a82_date_time", 
+        "a8_signature"
+    ], 
+    "openimages_id": "0f368b91acb4aab4", 
+    "source_url": "https://farm5.staticflickr.com/3763/12041880323_17b5340c30_o.jpg"
+}

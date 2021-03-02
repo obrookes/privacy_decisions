@@ -1,0 +1,17 @@
+{
+    "id": "2017_78470584", 
+    "image_path": "images/val2017/2017_78470584.jpg", 
+    "labels": [
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a57_culture", 
+        "a5_eye_color", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "11ae59f3c5c5b555", 
+    "source_url": "https://farm6.staticflickr.com/3913/14379539293_68e3c85a6c_o.jpg"
+}

@@ -1,0 +1,17 @@
+{
+    "id": "2017_43057529", 
+    "image_path": "images/val2017/2017_43057529.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a46_occupation", 
+        "a4_gender", 
+        "a59_sports", 
+        "a67_rel_competitors"
+    ], 
+    "openimages_id": "f1ccc9ce40c32a62", 
+    "source_url": "https://farm3.staticflickr.com/5536/14469264952_f8d8588669_o.jpg"
+}

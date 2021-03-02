@@ -1,0 +1,19 @@
+{
+    "id": "2017_35315989", 
+    "image_path": "images/val2017/2017_35315989.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a46_occupation", 
+        "a4_gender", 
+        "a62_opinion_political", 
+        "a69_rel_views", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "5a625d671ab5bef6", 
+    "source_url": "https://farm7.staticflickr.com/3686/10582824444_230b369770_o.jpg"
+}

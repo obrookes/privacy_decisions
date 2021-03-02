@@ -1,0 +1,20 @@
+{
+    "id": "2017_34232140", 
+    "image_path": "images/val2017/2017_34232140.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a4_gender", 
+        "a56_sexual_orientation", 
+        "a64_rel_personal", 
+        "a65_rel_social", 
+        "a6_hair_color", 
+        "a73_landmark", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "4967d136d3c35998", 
+    "source_url": "https://c1.staticflickr.com/1/24/40312319_1d1702da06_o.jpg"
+}

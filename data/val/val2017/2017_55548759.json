@@ -1,0 +1,21 @@
+{
+    "id": "2017_55548759", 
+    "image_path": "images/val2017/2017_55548759.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a57_culture", 
+        "a59_sports", 
+        "a5_eye_color", 
+        "a68_rel_spectators", 
+        "a6_hair_color", 
+        "a73_landmark", 
+        "a75_address_current_partial", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "f309473007659e33", 
+    "source_url": "https://farm4.staticflickr.com/5480/9210101104_5467c3dbff_o.jpg"
+}

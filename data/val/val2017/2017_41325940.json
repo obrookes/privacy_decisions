@@ -1,0 +1,18 @@
+{
+    "id": "2017_41325940", 
+    "image_path": "images/val2017/2017_41325940.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a18_ethnic_clothing", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a4_gender", 
+        "a57_culture", 
+        "a68_rel_spectators", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "3fd45c89112a0a20", 
+    "source_url": "https://farm1.staticflickr.com/7071/7368903596_8956f5bcd6_o.jpg"
+}

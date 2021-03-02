@@ -1,0 +1,14 @@
+{
+    "id": "2017_41170400", 
+    "image_path": "images/val2017/2017_41170400.jpg", 
+    "labels": [
+        "a18_ethnic_clothing", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a46_occupation", 
+        "a4_gender", 
+        "a55_religion"
+    ], 
+    "openimages_id": "fbbc4862e5c88c07", 
+    "source_url": "https://farm8.staticflickr.com/3644/3468434521_df20fb9e29_o.jpg"
+}

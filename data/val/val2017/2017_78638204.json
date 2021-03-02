@@ -1,0 +1,17 @@
+{
+    "id": "2017_78638204", 
+    "image_path": "images/val2017/2017_78638204.jpg", 
+    "labels": [
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a66_rel_professional", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "7c8c68cb3bb9d71a", 
+    "source_url": "https://c3.staticflickr.com/3/2715/4501646589_6b95232c98_o.jpg"
+}

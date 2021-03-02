@@ -1,0 +1,19 @@
+{
+    "id": "2017_61843013", 
+    "image_path": "images/val2017/2017_61843013.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a46_occupation", 
+        "a4_gender", 
+        "a57_culture", 
+        "a5_eye_color", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "35209a02be9dcdb3", 
+    "source_url": "https://farm4.staticflickr.com/1343/1007550437_1f5401a845_o.jpg"
+}

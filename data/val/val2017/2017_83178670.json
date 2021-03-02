@@ -1,0 +1,20 @@
+{
+    "id": "2017_83178670", 
+    "image_path": "images/val2017/2017_83178670.jpg", 
+    "labels": [
+        "a103_license_plate_complete", 
+        "a104_license_plate_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a46_occupation", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "232451eebc3bca3e", 
+    "source_url": "https://c7.staticflickr.com/6/5500/10930484545_f7497aff9b_o.jpg"
+}

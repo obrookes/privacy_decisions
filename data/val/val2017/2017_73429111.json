@@ -1,0 +1,18 @@
+{
+    "id": "2017_73429111", 
+    "image_path": "images/val2017/2017_73429111.jpg", 
+    "labels": [
+        "a16_race", 
+        "a17_color", 
+        "a18_ethnic_clothing", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "a4c5d7d57b0269eb", 
+    "source_url": "https://c4.staticflickr.com/4/3551/3435215146_7ff886bd82_o.jpg"
+}

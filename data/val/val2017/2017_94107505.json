@@ -1,0 +1,17 @@
+{
+    "id": "2017_94107505", 
+    "image_path": "images/val2017/2017_94107505.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a4_gender", 
+        "a61_opinion_general", 
+        "a69_rel_views", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "42251c119a3e660f", 
+    "source_url": "https://c8.staticflickr.com/4/3917/14574309485_2c50bdc82c_o.jpg"
+}

@@ -1,0 +1,17 @@
+{
+    "id": "2017_75847873", 
+    "image_path": "images/val2017/2017_75847873.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a46_occupation", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a66_rel_professional", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "86310e1c85629ad5", 
+    "source_url": "https://farm6.staticflickr.com/6196/6149305686_20c29a1149_o.jpg"
+}

@@ -1,0 +1,19 @@
+{
+    "id": "2017_32502590", 
+    "image_path": "images/val2017/2017_32502590.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a46_occupation", 
+        "a4_gender", 
+        "a55_religion", 
+        "a60_occassion_personal", 
+        "a64_rel_personal", 
+        "a66_rel_professional", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "03e10233e0c59476", 
+    "source_url": "https://farm7.staticflickr.com/53/125857559_68463002c5_o.jpg"
+}

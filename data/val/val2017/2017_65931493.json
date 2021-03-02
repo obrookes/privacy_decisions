@@ -1,0 +1,15 @@
+{
+    "id": "2017_65931493", 
+    "image_path": "images/val2017/2017_65931493.jpg", 
+    "labels": [
+        "a19_name_full", 
+        "a21_name_last", 
+        "a26_handwriting", 
+        "a37_receipt", 
+        "a4_gender", 
+        "a75_address_current_partial", 
+        "a82_date_time"
+    ], 
+    "openimages_id": "22d15846b132f823", 
+    "source_url": "https://farm4.staticflickr.com/5289/5298692917_04fab72b67_o.jpg"
+}

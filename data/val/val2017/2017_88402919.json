@@ -1,0 +1,11 @@
+{
+    "id": "2017_88402919", 
+    "image_path": "images/val2017/2017_88402919.jpg", 
+    "labels": [
+        "a17_color", 
+        "a59_sports", 
+        "a82_date_time"
+    ], 
+    "openimages_id": "6f957f0440a8e585", 
+    "source_url": "https://farm6.staticflickr.com/7091/6970559620_e65d3fc93c_o.jpg"
+}

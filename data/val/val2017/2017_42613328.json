@@ -1,0 +1,16 @@
+{
+    "id": "2017_42613328", 
+    "image_path": "images/val2017/2017_42613328.jpg", 
+    "labels": [
+        "a20_name_first", 
+        "a26_handwriting", 
+        "a35_mail", 
+        "a37_receipt", 
+        "a73_landmark", 
+        "a74_address_current_complete", 
+        "a82_date_time", 
+        "a8_signature"
+    ], 
+    "openimages_id": "66f0c77df160fcc6", 
+    "source_url": "https://farm7.staticflickr.com/4/7204454_ac53793ac5_o.jpg"
+}

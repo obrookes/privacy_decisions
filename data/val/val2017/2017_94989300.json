@@ -1,0 +1,20 @@
+{
+    "id": "2017_94989300", 
+    "image_path": "images/val2017/2017_94989300.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a11_tattoo", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a56_sexual_orientation", 
+        "a57_culture", 
+        "a68_rel_spectators", 
+        "a6_hair_color", 
+        "a73_landmark", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "342169b7795d24f3", 
+    "source_url": "https://farm4.staticflickr.com/6008/5898425404_353838cf31_o.jpg"
+}

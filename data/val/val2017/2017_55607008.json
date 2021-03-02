@@ -1,0 +1,19 @@
+{
+    "id": "2017_55607008", 
+    "image_path": "images/val2017/2017_55607008.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a56_sexual_orientation", 
+        "a61_opinion_general", 
+        "a69_rel_views", 
+        "a6_hair_color", 
+        "a75_address_current_partial", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "823f9cc5a58d6c55", 
+    "source_url": "https://farm6.staticflickr.com/4106/5214332884_41bfb627d0_o.jpg"
+}

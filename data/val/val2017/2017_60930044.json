@@ -1,0 +1,17 @@
+{
+    "id": "2017_60930044", 
+    "image_path": "images/val2017/2017_60930044.jpg", 
+    "labels": [
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "cdc5344fd27cc89b", 
+    "source_url": "https://c4.staticflickr.com/6/5131/5456771082_8aa8b1dd7b_o.jpg"
+}

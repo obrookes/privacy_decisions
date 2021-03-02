@@ -1,0 +1,21 @@
+{
+    "id": "2017_56555776", 
+    "image_path": "images/val2017/2017_56555776.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a46_occupation", 
+        "a4_gender", 
+        "a55_religion", 
+        "a65_rel_social", 
+        "a66_rel_professional", 
+        "a6_hair_color", 
+        "a75_address_current_partial", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "73553fe0503bc4a5", 
+    "source_url": "https://farm6.staticflickr.com/8811/17115516881_45fe9eab21_o.jpg"
+}

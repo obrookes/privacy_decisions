@@ -1,0 +1,20 @@
+{
+    "id": "2017_51867700", 
+    "image_path": "images/val2017/2017_51867700.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a4_gender", 
+        "a57_culture", 
+        "a5_eye_color", 
+        "a65_rel_social", 
+        "a68_rel_spectators", 
+        "a6_hair_color", 
+        "a73_landmark", 
+        "a75_address_current_partial", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "1432c196e3a47da6", 
+    "source_url": "https://farm7.staticflickr.com/8297/7796971828_8ed2acacb0_o.jpg"
+}

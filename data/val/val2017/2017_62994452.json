@@ -1,0 +1,16 @@
+{
+    "id": "2017_62994452", 
+    "image_path": "images/val2017/2017_62994452.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a56_sexual_orientation", 
+        "a64_rel_personal", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "ad50cf55b5974459", 
+    "source_url": "https://c2.staticflickr.com/3/2136/2452102203_b2f748d605_o.jpg"
+}

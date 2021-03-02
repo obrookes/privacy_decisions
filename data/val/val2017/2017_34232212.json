@@ -1,0 +1,16 @@
+{
+    "id": "2017_34232212", 
+    "image_path": "images/val2017/2017_34232212.jpg", 
+    "labels": [
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "9d34bd2ab277c883", 
+    "source_url": "https://farm4.staticflickr.com/25/35319945_c759f3f292_o.jpg"
+}

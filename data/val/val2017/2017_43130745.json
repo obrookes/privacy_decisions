@@ -1,0 +1,13 @@
+{
+    "id": "2017_43130745", 
+    "image_path": "images/val2017/2017_43130745.jpg", 
+    "labels": [
+        "a19_name_full", 
+        "a26_handwriting", 
+        "a35_mail", 
+        "a74_address_current_complete", 
+        "a78_address_home_complete"
+    ], 
+    "openimages_id": null, 
+    "source_url": null
+}

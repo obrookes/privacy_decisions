@@ -1,0 +1,18 @@
+{
+    "id": "2017_29250359", 
+    "image_path": "images/val2017/2017_29250359.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a57_culture", 
+        "a5_eye_color", 
+        "a65_rel_social", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "e0a976ffa52976e8", 
+    "source_url": "https://c1.staticflickr.com/4/3889/15345312862_05d819f062_o.jpg"
+}

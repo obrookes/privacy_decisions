@@ -1,0 +1,13 @@
+{
+    "id": "2017_88545172", 
+    "image_path": "images/val2017/2017_88545172.jpg", 
+    "labels": [
+        "a19_name_full", 
+        "a37_receipt", 
+        "a73_landmark", 
+        "a75_address_current_partial", 
+        "a82_date_time"
+    ], 
+    "openimages_id": "4eb6b45894e20917", 
+    "source_url": "https://farm8.staticflickr.com/559/20293515956_60bd93ecc8_o.jpg"
+}

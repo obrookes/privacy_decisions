@@ -1,0 +1,18 @@
+{
+    "id": "2017_61493811", 
+    "image_path": "images/val2017/2017_61493811.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a11_tattoo", 
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a57_culture", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "2db5d536ddc4ec61", 
+    "source_url": "https://farm2.staticflickr.com/8028/7294255670_aeedfbfd2d_o.jpg"
+}

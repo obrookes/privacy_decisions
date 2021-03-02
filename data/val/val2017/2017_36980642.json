@@ -1,0 +1,20 @@
+{
+    "id": "2017_36980642", 
+    "image_path": "images/val2017/2017_36980642.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a57_culture", 
+        "a5_eye_color", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "f55c25a52fa44a55", 
+    "source_url": "https://farm6.staticflickr.com/114/250920603_76a2a151bb_o.jpg"
+}

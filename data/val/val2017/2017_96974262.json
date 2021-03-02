@@ -1,0 +1,18 @@
+{
+    "id": "2017_96974262", 
+    "image_path": "images/val2017/2017_96974262.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a57_culture", 
+        "a59_sports", 
+        "a64_rel_personal", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "dd8f694d256725a8", 
+    "source_url": "https://c1.staticflickr.com/1/155/380917689_f06f55a4fe_o.jpg"
+}

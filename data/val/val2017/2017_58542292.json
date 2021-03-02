@@ -1,0 +1,11 @@
+{
+    "id": "2017_58542292", 
+    "image_path": "images/val2017/2017_58542292.jpg", 
+    "labels": [
+        "a19_name_full", 
+        "a26_handwriting", 
+        "a70_education_history"
+    ], 
+    "openimages_id": "c01975fb85e29bf9", 
+    "source_url": "https://c2.staticflickr.com/4/3628/3604854521_950a0cefdc_o.jpg"
+}

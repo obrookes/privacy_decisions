@@ -1,0 +1,20 @@
+{
+    "id": "2017_38913146", 
+    "image_path": "images/val2017/2017_38913146.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a27_marital_status", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a60_occassion_personal", 
+        "a64_rel_personal", 
+        "a65_rel_social", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "d4125e5385c5c8a2", 
+    "source_url": "https://farm3.staticflickr.com/154/343184211_b745cdb170_o.jpg"
+}

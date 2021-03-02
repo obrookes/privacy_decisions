@@ -1,0 +1,17 @@
+{
+    "id": "2017_20819516", 
+    "image_path": "images/val2017/2017_20819516.jpg", 
+    "labels": [
+        "a102_vehicle_ownership", 
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a4_gender", 
+        "a65_rel_social", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "1174401f517557de", 
+    "source_url": "https://c7.staticflickr.com/7/6087/6066976458_75d3979756_o.jpg"
+}

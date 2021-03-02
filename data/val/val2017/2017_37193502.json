@@ -1,0 +1,15 @@
+{
+    "id": "2017_37193502", 
+    "image_path": "images/val2017/2017_37193502.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a17_color", 
+        "a4_gender", 
+        "a61_opinion_general", 
+        "a64_rel_personal", 
+        "a69_rel_views", 
+        "a75_address_current_partial"
+    ], 
+    "openimages_id": "333f6f03072a233e", 
+    "source_url": "https://c7.staticflickr.com/8/7477/15831623638_1df186b665_o.jpg"
+}

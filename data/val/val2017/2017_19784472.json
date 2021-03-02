@@ -1,0 +1,12 @@
+{
+    "id": "2017_19784472", 
+    "image_path": "images/val2017/2017_19784472.jpg", 
+    "labels": [
+        "a20_name_first", 
+        "a37_receipt", 
+        "a46_occupation", 
+        "a82_date_time"
+    ], 
+    "openimages_id": "97a350538bdf1bda", 
+    "source_url": "https://c3.staticflickr.com/1/4/8107187_c75d109ef2_o.jpg"
+}

@@ -1,0 +1,11 @@
+{
+    "id": "2017_52931567", 
+    "image_path": "images/val2017/2017_52931567.jpg", 
+    "labels": [
+        "a19_name_full", 
+        "a43_medicine", 
+        "a74_address_current_complete"
+    ], 
+    "openimages_id": null, 
+    "source_url": null
+}

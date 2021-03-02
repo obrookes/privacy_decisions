@@ -1,0 +1,17 @@
+{
+    "id": "2017_40411022", 
+    "image_path": "images/val2017/2017_40411022.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a62_opinion_political", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "2c38a511dd0eddfc", 
+    "source_url": "https://c5.staticflickr.com/3/2254/3541614115_4d01a4c6b6_o.jpg"
+}

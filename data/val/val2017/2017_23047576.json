@@ -1,0 +1,12 @@
+{
+    "id": "2017_23047576", 
+    "image_path": "images/val2017/2017_23047576.jpg", 
+    "labels": [
+        "a19_name_full", 
+        "a46_occupation", 
+        "a49_phone", 
+        "a90_email"
+    ], 
+    "openimages_id": null, 
+    "source_url": null
+}

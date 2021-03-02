@@ -1,0 +1,14 @@
+{
+    "id": "2017_96759430", 
+    "image_path": "images/val2017/2017_96759430.jpg", 
+    "labels": [
+        "a16_race", 
+        "a17_color", 
+        "a4_gender", 
+        "a6_hair_color", 
+        "a85_username", 
+        "a97_online_conversation"
+    ], 
+    "openimages_id": null, 
+    "source_url": null
+}

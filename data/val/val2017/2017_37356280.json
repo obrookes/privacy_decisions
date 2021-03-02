@@ -1,0 +1,14 @@
+{
+    "id": "2017_37356280", 
+    "image_path": "images/val2017/2017_37356280.jpg", 
+    "labels": [
+        "a12_semi_nudity", 
+        "a17_color", 
+        "a4_gender", 
+        "a58_hobbies", 
+        "a65_rel_social", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "096ac6c2a1b32412", 
+    "source_url": "https://farm3.staticflickr.com/3528/13030698295_6780780cd4_o.jpg"
+}

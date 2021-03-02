@@ -1,0 +1,17 @@
+{
+    "id": "2017_21886308", 
+    "image_path": "images/val2017/2017_21886308.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a4_gender", 
+        "a57_culture", 
+        "a68_rel_spectators", 
+        "a6_hair_color", 
+        "a73_landmark", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "396510587e53a9e9", 
+    "source_url": "https://c2.staticflickr.com/4/3862/14347354409_fe290b23ba_o.jpg"
+}

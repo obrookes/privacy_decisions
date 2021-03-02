@@ -1,0 +1,18 @@
+{
+    "id": "2017_85279335", 
+    "image_path": "images/val2017/2017_85279335.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a46_occupation", 
+        "a4_gender", 
+        "a66_rel_professional", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "d4d0b6670c812fb6", 
+    "source_url": "https://farm7.staticflickr.com/2914/14409144439_b0dd056fca_o.jpg"
+}

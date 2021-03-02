@@ -1,0 +1,17 @@
+{
+    "id": "2017_88317819", 
+    "image_path": "images/val2017/2017_88317819.jpg", 
+    "labels": [
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a48_occassion_work", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a6_hair_color", 
+        "a82_date_time", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "b1e76b16f6310173", 
+    "source_url": "https://farm4.staticflickr.com/4046/4578799530_a4bc5ebf6b_o.jpg"
+}

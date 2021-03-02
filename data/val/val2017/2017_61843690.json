@@ -1,0 +1,10 @@
+{
+    "id": "2017_61843690", 
+    "image_path": "images/val2017/2017_61843690.jpg", 
+    "labels": [
+        "a57_culture", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "d74f4cec2bde8f99", 
+    "source_url": "https://c2.staticflickr.com/1/11/13941836_dae20c44c1_o.jpg"
+}

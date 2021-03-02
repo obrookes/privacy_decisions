@@ -1,0 +1,16 @@
+{
+    "id": "2017_17180191", 
+    "image_path": "images/val2017/2017_17180191.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a48_occassion_work", 
+        "a4_gender", 
+        "a66_rel_professional", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "a31f0540a7b1000c", 
+    "source_url": "https://c5.staticflickr.com/4/3518/3984603884_c188e778dc_o.jpg"
+}

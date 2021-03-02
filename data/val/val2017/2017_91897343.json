@@ -1,0 +1,18 @@
+{
+    "id": "2017_91897343", 
+    "image_path": "images/val2017/2017_91897343.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a27_marital_status", 
+        "a2_weight_approx", 
+        "a48_occassion_work", 
+        "a4_gender", 
+        "a6_hair_color", 
+        "a75_address_current_partial"
+    ], 
+    "openimages_id": "add027c1fc48e317", 
+    "source_url": "https://farm8.staticflickr.com/3699/12934602314_7d6111bf0d_o.jpg"
+}

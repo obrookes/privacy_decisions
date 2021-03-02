@@ -1,0 +1,19 @@
+{
+    "id": "2017_13480836", 
+    "image_path": "images/val2017/2017_13480836.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a56_sexual_orientation", 
+        "a5_eye_color", 
+        "a61_opinion_general", 
+        "a69_rel_views", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "8e3362f310af3c06", 
+    "source_url": "https://farm7.staticflickr.com/152/416045254_f534555283_o.jpg"
+}

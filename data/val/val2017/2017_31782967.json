@@ -1,0 +1,14 @@
+{
+    "id": "2017_31782967", 
+    "image_path": "images/val2017/2017_31782967.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a65_rel_social"
+    ], 
+    "openimages_id": "98dc981c61f426c6", 
+    "source_url": "https://farm7.staticflickr.com/7400/10487477494_b88485e5ab_o.jpg"
+}

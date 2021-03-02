@@ -1,0 +1,12 @@
+{
+    "id": "2017_47801161", 
+    "image_path": "images/val2017/2017_47801161.jpg", 
+    "labels": [
+        "a21_name_last", 
+        "a46_occupation", 
+        "a73_landmark", 
+        "a82_date_time"
+    ], 
+    "openimages_id": "14b26f50d4abcb0a", 
+    "source_url": "https://c3.staticflickr.com/4/3498/3842950892_bfe0f18cd5_o.jpg"
+}

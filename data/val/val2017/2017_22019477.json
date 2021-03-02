@@ -1,0 +1,19 @@
+{
+    "id": "2017_22019477", 
+    "image_path": "images/val2017/2017_22019477.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a57_culture", 
+        "a5_eye_color", 
+        "a65_rel_social", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "ad518bb1544cf6d2", 
+    "source_url": "https://farm3.staticflickr.com/3852/14588410935_926b568415_o.jpg"
+}

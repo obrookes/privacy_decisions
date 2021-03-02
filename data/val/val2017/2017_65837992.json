@@ -1,0 +1,13 @@
+{
+    "id": "2017_65837992", 
+    "image_path": "images/val2017/2017_65837992.jpg", 
+    "labels": [
+        "a26_handwriting", 
+        "a43_medicine", 
+        "a46_occupation", 
+        "a82_date_time", 
+        "a8_signature"
+    ], 
+    "openimages_id": "c3bf64788375161a", 
+    "source_url": "https://c3.staticflickr.com/3/2460/3839162243_fe55a150cd_o.jpg"
+}

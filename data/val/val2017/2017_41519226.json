@@ -1,0 +1,16 @@
+{
+    "id": "2017_41519226", 
+    "image_path": "images/val2017/2017_41519226.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a17_color", 
+        "a2_weight_approx", 
+        "a46_occupation", 
+        "a4_gender", 
+        "a65_rel_social", 
+        "a6_hair_color", 
+        "a73_landmark"
+    ], 
+    "openimages_id": "805be2380d7d41e8", 
+    "source_url": "https://c1.staticflickr.com/6/5566/14835257462_b68731dbf2_o.jpg"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "2017_67969644", 
+    "image_path": "images/val2017/2017_67969644.jpg", 
+    "labels": [
+        "a19_name_full", 
+        "a1_age_approx", 
+        "a23_birth_city", 
+        "a24_birth_date", 
+        "a25_nationality", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a59_sports", 
+        "a73_landmark", 
+        "a75_address_current_partial", 
+        "a82_date_time"
+    ], 
+    "openimages_id": "b59128e63853dfc0", 
+    "source_url": "https://farm1.staticflickr.com/6209/6133887401_b3a4f9f417_o.jpg"
+}

@@ -1,0 +1,18 @@
+{
+    "id": "2017_36828093", 
+    "image_path": "images/val2017/2017_36828093.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a46_occupation", 
+        "a4_gender", 
+        "a59_sports", 
+        "a67_rel_competitors", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "7a9b92df6038cdd6", 
+    "source_url": "https://farm7.staticflickr.com/7439/8868618645_ea2fbb67e4_o.jpg"
+}

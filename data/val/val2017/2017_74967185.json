@@ -1,0 +1,20 @@
+{
+    "id": "2017_74967185", 
+    "image_path": "images/val2017/2017_74967185.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a56_sexual_orientation", 
+        "a57_culture", 
+        "a68_rel_spectators", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "6f8fe97cf8e21b44", 
+    "source_url": "https://farm5.staticflickr.com/2397/2020656982_6eb502743c_o.jpg"
+}

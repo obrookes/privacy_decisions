@@ -1,0 +1,12 @@
+{
+    "id": "2017_23192040", 
+    "image_path": "images/val2017/2017_23192040.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a17_color", 
+        "a46_occupation", 
+        "a58_hobbies"
+    ], 
+    "openimages_id": "582a0305ecf2203a", 
+    "source_url": "https://c3.staticflickr.com/4/3352/3346991678_915b513730_o.jpg"
+}

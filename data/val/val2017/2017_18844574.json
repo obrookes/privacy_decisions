@@ -1,0 +1,21 @@
+{
+    "id": "2017_18844574", 
+    "image_path": "images/val2017/2017_18844574.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a41_injury", 
+        "a46_occupation", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a66_rel_professional", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "2710a0da0f34cab7", 
+    "source_url": "https://farm8.staticflickr.com/1065/841154620_2f5df29cf3_o.jpg"
+}

@@ -1,0 +1,18 @@
+{
+    "id": "2017_33477479", 
+    "image_path": "images/val2017/2017_33477479.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a57_culture", 
+        "a5_eye_color", 
+        "a6_hair_color", 
+        "a75_address_current_partial", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "d8286690fc381647", 
+    "source_url": "https://farm8.staticflickr.com/3238/3078254376_b04d4920bf_o.jpg"
+}

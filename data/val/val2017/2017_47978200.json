@@ -1,0 +1,10 @@
+{
+    "id": "2017_47978200", 
+    "image_path": "images/val2017/2017_47978200.jpg", 
+    "labels": [
+        "a19_name_full", 
+        "a78_address_home_complete"
+    ], 
+    "openimages_id": "6c6a6ccf6d24ac5b", 
+    "source_url": "https://c4.staticflickr.com/1/4/5302279_3fc9324b3f_o.jpg"
+}

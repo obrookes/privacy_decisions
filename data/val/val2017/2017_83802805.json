@@ -1,0 +1,21 @@
+{
+    "id": "2017_83802805", 
+    "image_path": "images/val2017/2017_83802805.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a57_culture", 
+        "a5_eye_color", 
+        "a65_rel_social", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "7d10c49616d79072", 
+    "source_url": "https://farm3.staticflickr.com/7756/17688851500_60776e63cc_o.jpg"
+}

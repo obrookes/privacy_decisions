@@ -1,0 +1,21 @@
+{
+    "id": "2017_44475302", 
+    "image_path": "images/val2017/2017_44475302.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a19_name_full", 
+        "a1_age_approx", 
+        "a27_marital_status", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a60_occassion_personal", 
+        "a65_rel_social", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "7ebf76b560eed552", 
+    "source_url": "https://farm3.staticflickr.com/8518/8435290769_84c69dbd26_o.jpg"
+}

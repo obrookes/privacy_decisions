@@ -1,0 +1,18 @@
+{
+    "id": "2017_27038443", 
+    "image_path": "images/val2017/2017_27038443.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a11_tattoo", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a59_sports", 
+        "a5_eye_color", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "979eef11819ac4ea", 
+    "source_url": "https://c3.staticflickr.com/4/3464/3376299400_05858f0d19_o.jpg"
+}

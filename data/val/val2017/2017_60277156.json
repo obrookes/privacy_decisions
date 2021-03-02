@@ -1,0 +1,11 @@
+{
+    "id": "2017_60277156", 
+    "image_path": "images/val2017/2017_60277156.jpg", 
+    "labels": [
+        "a73_landmark", 
+        "a75_address_current_partial", 
+        "a82_date_time"
+    ], 
+    "openimages_id": "d6c754cb19632ae5", 
+    "source_url": "https://farm6.staticflickr.com/3240/3029838599_e2113a1eb3_o.jpg"
+}

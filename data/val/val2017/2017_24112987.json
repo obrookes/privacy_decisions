@@ -1,0 +1,10 @@
+{
+    "id": "2017_24112987", 
+    "image_path": "images/val2017/2017_24112987.jpg", 
+    "labels": [
+        "a85_username", 
+        "a97_online_conversation"
+    ], 
+    "openimages_id": "778a6f1a0040cfb7", 
+    "source_url": "https://farm8.staticflickr.com/3163/2649397844_4a29d9b933_o.jpg"
+}

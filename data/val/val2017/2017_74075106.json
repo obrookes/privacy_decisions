@@ -1,0 +1,14 @@
+{
+    "id": "2017_74075106", 
+    "image_path": "images/val2017/2017_74075106.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a4_gender", 
+        "a66_rel_professional", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "bd370c9e8b902e8d", 
+    "source_url": "https://c6.staticflickr.com/6/5458/8797138040_34c25ae770_o.jpg"
+}

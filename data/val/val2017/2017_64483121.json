@@ -1,0 +1,13 @@
+{
+    "id": "2017_64483121", 
+    "image_path": "images/val2017/2017_64483121.jpg", 
+    "labels": [
+        "a19_name_full", 
+        "a46_occupation", 
+        "a75_address_current_partial", 
+        "a82_date_time", 
+        "a8_signature"
+    ], 
+    "openimages_id": "9ee36d01116607d3", 
+    "source_url": "https://farm4.staticflickr.com/8241/8641741073_e8ac550819_o.jpg"
+}

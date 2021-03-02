@@ -1,0 +1,10 @@
+{
+    "id": "2017_85064758", 
+    "image_path": "images/val2017/2017_85064758.jpg", 
+    "labels": [
+        "a103_license_plate_complete", 
+        "a75_address_current_partial"
+    ], 
+    "openimages_id": "5f90d2f3f76729fe", 
+    "source_url": "https://c7.staticflickr.com/3/2147/2322984784_1ccd7345f2_o.jpg"
+}

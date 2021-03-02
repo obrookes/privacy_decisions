@@ -1,0 +1,18 @@
+{
+    "id": "2017_48953623", 
+    "image_path": "images/val2017/2017_48953623.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a69_rel_views", 
+        "a6_hair_color", 
+        "a73_landmark", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "7e29067f8f7dda0b", 
+    "source_url": "https://c4.staticflickr.com/8/7375/9552085084_38819da90d_o.jpg"
+}

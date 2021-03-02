@@ -1,0 +1,10 @@
+{
+    "id": "2017_51381286", 
+    "image_path": "images/val2017/2017_51381286.jpg", 
+    "labels": [
+        "a17_color", 
+        "a65_rel_social"
+    ], 
+    "openimages_id": "76264f5fb089a9b9", 
+    "source_url": "https://c2.staticflickr.com/9/8486/8241007168_e5b33ce6c8_o.jpg"
+}

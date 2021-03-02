@@ -1,0 +1,17 @@
+{
+    "id": "2017_42426866", 
+    "image_path": "images/val2017/2017_42426866.jpg", 
+    "labels": [
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a32_drivers_license", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a6_hair_color", 
+        "a79_address_home_partial", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": null, 
+    "source_url": null
+}

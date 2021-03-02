@@ -1,0 +1,10 @@
+{
+    "id": "2017_47913609", 
+    "image_path": "images/val2017/2017_47913609.jpg", 
+    "labels": [
+        "a73_landmark", 
+        "a75_address_current_partial"
+    ], 
+    "openimages_id": "f54486f3e84e40ac", 
+    "source_url": "https://c5.staticflickr.com/3/2063/2390687910_d12cafe591_o.jpg"
+}

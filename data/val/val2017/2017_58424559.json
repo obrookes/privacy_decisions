@@ -1,0 +1,16 @@
+{
+    "id": "2017_58424559", 
+    "image_path": "images/val2017/2017_58424559.jpg", 
+    "labels": [
+        "a13_full_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": null, 
+    "source_url": null
+}

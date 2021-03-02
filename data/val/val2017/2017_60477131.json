@@ -1,0 +1,11 @@
+{
+    "id": "2017_60477131", 
+    "image_path": "images/val2017/2017_60477131.jpg", 
+    "labels": [
+        "a103_license_plate_complete", 
+        "a17_color", 
+        "a4_gender"
+    ], 
+    "openimages_id": "b995cd0bdeee5a53", 
+    "source_url": "https://farm4.staticflickr.com/6211/6264458999_caa30444d4_o.jpg"
+}

@@ -1,0 +1,12 @@
+{
+    "id": "2017_67712409", 
+    "image_path": "images/val2017/2017_67712409.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a17_color", 
+        "a4_gender", 
+        "a73_landmark"
+    ], 
+    "openimages_id": "60f1a4e1d4983872", 
+    "source_url": "https://farm3.staticflickr.com/2301/2170860339_4b5698ae39_o.jpg"
+}

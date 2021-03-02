@@ -1,0 +1,21 @@
+{
+    "id": "2017_63599730", 
+    "image_path": "images/val2017/2017_63599730.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a57_culture", 
+        "a64_rel_personal", 
+        "a68_rel_spectators", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "ff377b4550f0d672", 
+    "source_url": "https://farm3.staticflickr.com/8849/18161867968_7e9722f939_o.jpg"
+}

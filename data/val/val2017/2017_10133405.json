@@ -1,0 +1,15 @@
+{
+    "id": "2017_10133405", 
+    "image_path": "images/val2017/2017_10133405.jpg", 
+    "labels": [
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a68_rel_spectators", 
+        "a6_hair_color", 
+        "a75_address_current_partial"
+    ], 
+    "openimages_id": "e8c7653775bd2c6a", 
+    "source_url": "https://c3.staticflickr.com/3/2939/14382042517_b48d23f0da_o.jpg"
+}

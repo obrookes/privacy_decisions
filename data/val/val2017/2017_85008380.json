@@ -1,0 +1,20 @@
+{
+    "id": "2017_85008380", 
+    "image_path": "images/val2017/2017_85008380.jpg", 
+    "labels": [
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a27_marital_status", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a60_occassion_personal", 
+        "a61_opinion_general", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "73b8378ce9c9716d", 
+    "source_url": "https://c6.staticflickr.com/4/3336/3563670009_b3a3b1b746_o.jpg"
+}

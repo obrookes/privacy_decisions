@@ -1,0 +1,20 @@
+{
+    "id": "2017_89383065", 
+    "image_path": "images/val2017/2017_89383065.jpg", 
+    "labels": [
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a23_birth_city", 
+        "a24_birth_date", 
+        "a25_nationality", 
+        "a31_passport", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a6_hair_color", 
+        "a82_date_time", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": null, 
+    "source_url": null
+}

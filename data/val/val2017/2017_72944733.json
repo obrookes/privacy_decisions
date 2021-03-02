@@ -1,0 +1,14 @@
+{
+    "id": "2017_72944733", 
+    "image_path": "images/val2017/2017_72944733.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender"
+    ], 
+    "openimages_id": "60248e095d3e4007", 
+    "source_url": "https://farm8.staticflickr.com/4033/4469754840_3f92c27a5d_o.jpg"
+}

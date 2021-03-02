@@ -1,0 +1,13 @@
+{
+    "id": "2017_84591715", 
+    "image_path": "images/val2017/2017_84591715.jpg", 
+    "labels": [
+        "a20_name_first", 
+        "a26_handwriting", 
+        "a59_sports", 
+        "a75_address_current_partial", 
+        "a82_date_time"
+    ], 
+    "openimages_id": "cb6deb04b24c7f45", 
+    "source_url": "https://farm6.staticflickr.com/4039/4490744830_8f4c442a3d_o.jpg"
+}

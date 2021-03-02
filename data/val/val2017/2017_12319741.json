@@ -1,0 +1,12 @@
+{
+    "id": "2017_12319741", 
+    "image_path": "images/val2017/2017_12319741.jpg", 
+    "labels": [
+        "a38_ticket", 
+        "a73_landmark", 
+        "a82_date_time", 
+        "a8_signature"
+    ], 
+    "openimages_id": "d5cea33e5ee9b4fd", 
+    "source_url": "https://c6.staticflickr.com/6/5503/14340167010_da25acfc5d_o.jpg"
+}

@@ -1,0 +1,12 @@
+{
+    "id": "2017_89668260", 
+    "image_path": "images/val2017/2017_89668260.jpg", 
+    "labels": [
+        "a19_name_full", 
+        "a46_occupation", 
+        "a73_landmark", 
+        "a75_address_current_partial"
+    ], 
+    "openimages_id": "474817b969c5a740", 
+    "source_url": "https://farm1.staticflickr.com/4017/5143810926_1687c8ea0d_o.jpg"
+}

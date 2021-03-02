@@ -1,0 +1,10 @@
+{
+    "id": "2017_97595806", 
+    "image_path": "images/val2017/2017_97595806.jpg", 
+    "labels": [
+        "a20_name_first", 
+        "a82_date_time"
+    ], 
+    "openimages_id": "5504c0d735a10ba3", 
+    "source_url": "https://farm4.staticflickr.com/7/10487337_ecbc70708b_o.jpg"
+}

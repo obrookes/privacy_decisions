@@ -1,0 +1,14 @@
+{
+    "id": "2017_88351685", 
+    "image_path": "images/val2017/2017_88351685.jpg", 
+    "labels": [
+        "a19_name_full", 
+        "a1_age_approx", 
+        "a26_handwriting", 
+        "a46_occupation", 
+        "a75_address_current_partial", 
+        "a8_signature"
+    ], 
+    "openimages_id": "a1fb8da68fec6cc8", 
+    "source_url": "https://c1.staticflickr.com/6/5212/5410869754_0ab4854df7_o.jpg"
+}

@@ -1,0 +1,14 @@
+{
+    "id": "2017_94218214", 
+    "image_path": "images/val2017/2017_94218214.jpg", 
+    "labels": [
+        "a19_name_full", 
+        "a25_nationality", 
+        "a46_occupation", 
+        "a70_education_history", 
+        "a82_date_time", 
+        "a8_signature"
+    ], 
+    "openimages_id": "cc10f21b8a12d3a6", 
+    "source_url": "https://farm7.staticflickr.com/6135/5955673392_c1e48fc331_o.jpg"
+}

@@ -1,0 +1,12 @@
+{
+    "id": "2017_40521904", 
+    "image_path": "images/val2017/2017_40521904.jpg", 
+    "labels": [
+        "a19_name_full", 
+        "a46_occupation", 
+        "a75_address_current_partial", 
+        "a82_date_time"
+    ], 
+    "openimages_id": "cb0029846c6b3cb8", 
+    "source_url": "https://c1.staticflickr.com/9/8046/8388187768_c35b6fa682_o.jpg"
+}

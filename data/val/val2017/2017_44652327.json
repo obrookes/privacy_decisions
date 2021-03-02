@@ -1,0 +1,16 @@
+{
+    "id": "2017_44652327", 
+    "image_path": "images/val2017/2017_44652327.jpg", 
+    "labels": [
+        "a103_license_plate_complete", 
+        "a10_face_partial", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "40881f2e6a1d2f7e", 
+    "source_url": "https://c7.staticflickr.com/4/3640/5752444181_e9a60f3f7c_o.jpg"
+}

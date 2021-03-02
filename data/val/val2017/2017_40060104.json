@@ -1,0 +1,13 @@
+{
+    "id": "2017_40060104", 
+    "image_path": "images/val2017/2017_40060104.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a5_eye_color", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "597e0836cef2d17d", 
+    "source_url": "https://c6.staticflickr.com/3/2847/9691225695_b8f86fdf51_o.jpg"
+}

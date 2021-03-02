@@ -1,0 +1,18 @@
+{
+    "id": "2017_76964342", 
+    "image_path": "images/val2017/2017_76964342.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a39_disability_physical", 
+        "a4_gender", 
+        "a65_rel_social", 
+        "a6_hair_color", 
+        "a73_landmark"
+    ], 
+    "openimages_id": "7ade556897867cd1", 
+    "source_url": "https://farm2.staticflickr.com/5194/14067341310_c5c0b37edc_o.jpg"
+}

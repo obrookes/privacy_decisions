@@ -1,0 +1,19 @@
+{
+    "id": "2017_59492260", 
+    "image_path": "images/val2017/2017_59492260.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a57_culture", 
+        "a5_eye_color", 
+        "a68_rel_spectators", 
+        "a6_hair_color", 
+        "a82_date_time", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "8674bad74b62b799", 
+    "source_url": "https://c2.staticflickr.com/7/6062/6119770294_53114d548f_o.jpg"
+}

@@ -1,0 +1,13 @@
+{
+    "id": "2017_33108837", 
+    "image_path": "images/val2017/2017_33108837.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a46_occupation", 
+        "a58_hobbies"
+    ], 
+    "openimages_id": "65df769be9ab3c25", 
+    "source_url": "https://farm6.staticflickr.com/4067/4512264439_f7805d43fc_o.jpg"
+}

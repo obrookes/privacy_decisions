@@ -1,0 +1,12 @@
+{
+    "id": "2017_64523764", 
+    "image_path": "images/val2017/2017_64523764.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a2_weight_approx", 
+        "a4_gender", 
+        "a65_rel_social"
+    ], 
+    "openimages_id": "588883bc49ae93f4", 
+    "source_url": "https://farm5.staticflickr.com/4064/4586167497_71b15c7c56_o.jpg"
+}

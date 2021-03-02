@@ -1,0 +1,15 @@
+{
+    "id": "2017_48811644", 
+    "image_path": "images/val2017/2017_48811644.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a41_injury", 
+        "a4_gender", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "1d6664a3e7cc08d0", 
+    "source_url": "https://farm1.staticflickr.com/2667/4199692242_3be06d940d_o.jpg"
+}

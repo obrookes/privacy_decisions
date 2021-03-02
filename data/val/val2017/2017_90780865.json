@@ -1,0 +1,11 @@
+{
+    "id": "2017_90780865", 
+    "image_path": "images/val2017/2017_90780865.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color"
+    ], 
+    "openimages_id": "c8807c8d6bb17a57", 
+    "source_url": "https://farm8.staticflickr.com/3044/3051808082_f62cac0640_o.jpg"
+}

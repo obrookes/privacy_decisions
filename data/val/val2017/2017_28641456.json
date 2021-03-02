@@ -1,0 +1,19 @@
+{
+    "id": "2017_28641456", 
+    "image_path": "images/val2017/2017_28641456.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a61_opinion_general", 
+        "a69_rel_views", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "e18e7adafa3e0749", 
+    "source_url": "https://c2.staticflickr.com/7/6165/6201347460_79ee44a742_o.jpg"
+}

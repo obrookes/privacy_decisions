@@ -1,0 +1,23 @@
+{
+    "id": "2017_26151975", 
+    "image_path": "images/val2017/2017_26151975.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a41_injury", 
+        "a46_occupation", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a64_rel_personal", 
+        "a66_rel_professional", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "47925ef1fab2a442", 
+    "source_url": "https://farm3.staticflickr.com/163/419689009_32d04a8893_o.jpg"
+}

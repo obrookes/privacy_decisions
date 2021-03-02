@@ -1,0 +1,11 @@
+{
+    "id": "2017_10099229", 
+    "image_path": "images/val2017/2017_10099229.jpg", 
+    "labels": [
+        "a38_ticket", 
+        "a73_landmark", 
+        "a82_date_time"
+    ], 
+    "openimages_id": "0915cb62fcd4ed2f", 
+    "source_url": "https://c8.staticflickr.com/1/159/343589066_5c2174eeae_o.jpg"
+}

@@ -1,0 +1,13 @@
+{
+    "id": "2017_90021635", 
+    "image_path": "images/val2017/2017_90021635.jpg", 
+    "labels": [
+        "a102_vehicle_ownership", 
+        "a2_weight_approx", 
+        "a46_occupation", 
+        "a59_sports", 
+        "a67_rel_competitors"
+    ], 
+    "openimages_id": "9b8722167e884298", 
+    "source_url": "https://c1.staticflickr.com/6/5573/15124713617_d6bce714ff_o.jpg"
+}

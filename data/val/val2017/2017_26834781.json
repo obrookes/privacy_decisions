@@ -1,0 +1,20 @@
+{
+    "id": "2017_26834781", 
+    "image_path": "images/val2017/2017_26834781.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a18_ethnic_clothing", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a48_occassion_work", 
+        "a4_gender", 
+        "a65_rel_social", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "2b094f4e9a98a0f2", 
+    "source_url": "https://farm3.staticflickr.com/8322/7999301164_2a157c717b_o.jpg"
+}

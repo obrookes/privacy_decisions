@@ -1,0 +1,12 @@
+{
+    "id": "2017_46772130", 
+    "image_path": "images/val2017/2017_46772130.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a5_eye_color"
+    ], 
+    "openimages_id": "fe9c5c55bbb42d22", 
+    "source_url": "https://farm3.staticflickr.com/3896/14818374075_98ef06ac35_o.jpg"
+}

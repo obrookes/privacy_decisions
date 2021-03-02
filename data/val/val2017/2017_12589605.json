@@ -1,0 +1,14 @@
+{
+    "id": "2017_12589605", 
+    "image_path": "images/val2017/2017_12589605.jpg", 
+    "labels": [
+        "a16_race", 
+        "a17_color", 
+        "a18_ethnic_clothing", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "b364ca2b0b1925c7", 
+    "source_url": "https://farm8.staticflickr.com/5583/14833913654_8ee34bc40f_o.jpg"
+}

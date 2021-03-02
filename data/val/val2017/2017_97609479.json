@@ -1,0 +1,13 @@
+{
+    "id": "2017_97609479", 
+    "image_path": "images/val2017/2017_97609479.jpg", 
+    "labels": [
+        "a19_name_full", 
+        "a20_name_first", 
+        "a26_handwriting", 
+        "a35_mail", 
+        "a75_address_current_partial"
+    ], 
+    "openimages_id": "552a8a5ea6f23805", 
+    "source_url": "https://farm6.staticflickr.com/2920/13972505480_4fe73fa4b8_o.jpg"
+}

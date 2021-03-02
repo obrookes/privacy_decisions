@@ -1,0 +1,14 @@
+{
+    "id": "2017_32058638", 
+    "image_path": "images/val2017/2017_32058638.jpg", 
+    "labels": [
+        "a16_race", 
+        "a17_color", 
+        "a4_gender", 
+        "a69_rel_views", 
+        "a6_hair_color", 
+        "a73_landmark"
+    ], 
+    "openimages_id": "aba5376cdeafad7e", 
+    "source_url": "https://c7.staticflickr.com/8/7019/6777414135_ccc3730d2f_o.jpg"
+}

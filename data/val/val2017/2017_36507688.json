@@ -1,0 +1,15 @@
+{
+    "id": "2017_36507688", 
+    "image_path": "images/val2017/2017_36507688.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a61_opinion_general", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "e158fbb5ec9c28f2", 
+    "source_url": "https://farm3.staticflickr.com/3391/3314737024_37f8821d6e_o.jpg"
+}

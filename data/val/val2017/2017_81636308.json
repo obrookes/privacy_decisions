@@ -1,0 +1,19 @@
+{
+    "id": "2017_81636308", 
+    "image_path": "images/val2017/2017_81636308.jpg", 
+    "labels": [
+        "a104_license_plate_partial", 
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a46_occupation", 
+        "a4_gender", 
+        "a57_culture", 
+        "a66_rel_professional", 
+        "a68_rel_spectators", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "df4dbcba3b7799ef", 
+    "source_url": "https://c8.staticflickr.com/8/7035/6446198823_54f56b359a_o.jpg"
+}

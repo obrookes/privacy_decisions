@@ -1,0 +1,20 @@
+{
+    "id": "2017_70116223", 
+    "image_path": "images/val2017/2017_70116223.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a61_opinion_general", 
+        "a69_rel_views", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "2b46491ceab94525", 
+    "source_url": "https://farm6.staticflickr.com/47/174624596_b9f2e1304b_o.jpg"
+}

@@ -1,0 +1,17 @@
+{
+    "id": "2017_65943077", 
+    "image_path": "images/val2017/2017_65943077.jpg", 
+    "labels": [
+        "a102_vehicle_ownership", 
+        "a104_license_plate_partial", 
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a4_gender", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "70e3a205cf115ba2", 
+    "source_url": "https://farm3.staticflickr.com/6086/6100118311_74fba72afa_o.jpg"
+}

@@ -1,0 +1,17 @@
+{
+    "id": "2017_67634271", 
+    "image_path": "images/val2017/2017_67634271.jpg", 
+    "labels": [
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a61_opinion_general", 
+        "a69_rel_views", 
+        "a6_hair_color", 
+        "a82_date_time"
+    ], 
+    "openimages_id": "72aa3a5b861e1096", 
+    "source_url": "https://farm7.staticflickr.com/7291/8755455626_ba1a8f5192_o.jpg"
+}

@@ -1,0 +1,15 @@
+{
+    "id": "2017_74824289", 
+    "image_path": "images/val2017/2017_74824289.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a48_occassion_work", 
+        "a4_gender", 
+        "a58_hobbies", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "b8be525c51ee449b", 
+    "source_url": "https://c4.staticflickr.com/8/7036/13855021614_307f129b86_o.jpg"
+}

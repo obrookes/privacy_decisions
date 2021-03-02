@@ -1,0 +1,18 @@
+{
+    "id": "2017_59951582", 
+    "image_path": "images/val2017/2017_59951582.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a46_occupation", 
+        "a4_gender", 
+        "a61_opinion_general", 
+        "a66_rel_professional", 
+        "a69_rel_views", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "e90ac740e317e242", 
+    "source_url": "https://farm3.staticflickr.com/64/230342675_bc0ca61959_o.jpg"
+}

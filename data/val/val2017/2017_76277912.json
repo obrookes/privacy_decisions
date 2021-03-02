@@ -1,0 +1,11 @@
+{
+    "id": "2017_76277912", 
+    "image_path": "images/val2017/2017_76277912.jpg", 
+    "labels": [
+        "a26_handwriting", 
+        "a82_date_time", 
+        "a8_signature"
+    ], 
+    "openimages_id": "16d6c9bcc9f76f24", 
+    "source_url": "https://farm5.staticflickr.com/6203/6141350136_0e2e7d558d_o.jpg"
+}

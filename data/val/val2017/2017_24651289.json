@@ -1,0 +1,20 @@
+{
+    "id": "2017_24651289", 
+    "image_path": "images/val2017/2017_24651289.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a11_tattoo", 
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a56_sexual_orientation", 
+        "a57_culture", 
+        "a5_eye_color", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "c01bfd539249a345", 
+    "source_url": "https://farm6.staticflickr.com/3886/14615290840_9ed4546c47_o.jpg"
+}

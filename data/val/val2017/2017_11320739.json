@@ -1,0 +1,18 @@
+{
+    "id": "2017_11320739", 
+    "image_path": "images/val2017/2017_11320739.jpg", 
+    "labels": [
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "d6eed44dfbd57a4e", 
+    "source_url": "https://c7.staticflickr.com/7/6067/6025615096_b30edb846d_o.jpg"
+}

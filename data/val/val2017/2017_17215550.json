@@ -1,0 +1,10 @@
+{
+    "id": "2017_17215550", 
+    "image_path": "images/val2017/2017_17215550.jpg", 
+    "labels": [
+        "a85_username", 
+        "a97_online_conversation"
+    ], 
+    "openimages_id": "2e85c72229d50ed8", 
+    "source_url": "https://c1.staticflickr.com/8/7152/6756404473_e35079b20d_o.jpg"
+}

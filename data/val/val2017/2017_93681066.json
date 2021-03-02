@@ -1,0 +1,24 @@
+{
+    "id": "2017_93681066", 
+    "image_path": "images/val2017/2017_93681066.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a11_tattoo", 
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a57_culture", 
+        "a58_hobbies", 
+        "a5_eye_color", 
+        "a68_rel_spectators", 
+        "a6_hair_color", 
+        "a8_signature", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "6a7f697387b4a4f3", 
+    "source_url": "https://farm4.staticflickr.com/2607/3790352161_244bf76fa6_o.jpg"
+}

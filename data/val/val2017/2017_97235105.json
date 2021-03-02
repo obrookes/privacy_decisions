@@ -1,0 +1,14 @@
+{
+    "id": "2017_97235105", 
+    "image_path": "images/val2017/2017_97235105.jpg", 
+    "labels": [
+        "a19_name_full", 
+        "a46_occupation", 
+        "a73_landmark", 
+        "a75_address_current_partial", 
+        "a82_date_time", 
+        "a85_username"
+    ], 
+    "openimages_id": "777c61e893837f6c", 
+    "source_url": "https://c5.staticflickr.com/4/3047/2913364975_bb585f441e_o.jpg"
+}

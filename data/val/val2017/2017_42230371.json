@@ -1,0 +1,19 @@
+{
+    "id": "2017_42230371", 
+    "image_path": "images/val2017/2017_42230371.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a57_culture", 
+        "a5_eye_color", 
+        "a65_rel_social", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "becf338f217f8faa", 
+    "source_url": "https://c3.staticflickr.com/5/4137/4765269417_99324acb4e_o.jpg"
+}

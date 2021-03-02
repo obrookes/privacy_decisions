@@ -1,0 +1,21 @@
+{
+    "id": "2017_27258910", 
+    "image_path": "images/val2017/2017_27258910.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a48_occassion_work", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a66_rel_professional", 
+        "a6_hair_color", 
+        "a82_date_time", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "292bbfd3b90398cc", 
+    "source_url": "https://c5.staticflickr.com/8/7174/6441392901_ac80f0d34b_o.jpg"
+}

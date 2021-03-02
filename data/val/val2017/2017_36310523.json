@@ -1,0 +1,21 @@
+{
+    "id": "2017_36310523", 
+    "image_path": "images/val2017/2017_36310523.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a57_culture", 
+        "a5_eye_color", 
+        "a68_rel_spectators", 
+        "a6_hair_color", 
+        "a73_landmark", 
+        "a75_address_current_partial", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "3f64c25ec77549e3", 
+    "source_url": "https://farm4.staticflickr.com/7337/9437345885_955333c0a2_o.jpg"
+}

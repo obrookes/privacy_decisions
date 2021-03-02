@@ -1,0 +1,13 @@
+{
+    "id": "2017_17055755", 
+    "image_path": "images/val2017/2017_17055755.jpg", 
+    "labels": [
+        "a19_name_full", 
+        "a26_handwriting", 
+        "a43_medicine", 
+        "a82_date_time", 
+        "a8_signature"
+    ], 
+    "openimages_id": null, 
+    "source_url": null
+}

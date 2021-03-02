@@ -1,0 +1,10 @@
+{
+    "id": "2017_64652071", 
+    "image_path": "images/val2017/2017_64652071.jpg", 
+    "labels": [
+        "a19_name_full", 
+        "a85_username"
+    ], 
+    "openimages_id": "9cead10f81d7e98c", 
+    "source_url": "https://c5.staticflickr.com/6/5336/8888903915_654e40ac2c_o.jpg"
+}

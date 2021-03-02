@@ -1,0 +1,10 @@
+{
+    "id": "2017_82055553", 
+    "image_path": "images/val2017/2017_82055553.jpg", 
+    "labels": [
+        "a90_email", 
+        "a92_email_content"
+    ], 
+    "openimages_id": null, 
+    "source_url": null
+}

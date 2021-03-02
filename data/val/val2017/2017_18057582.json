@@ -1,0 +1,18 @@
+{
+    "id": "2017_18057582", 
+    "image_path": "images/val2017/2017_18057582.jpg", 
+    "labels": [
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a56_sexual_orientation", 
+        "a57_culture", 
+        "a5_eye_color", 
+        "a68_rel_spectators", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "53d466c580cdb3ea", 
+    "source_url": "https://c3.staticflickr.com/2/1393/1021548043_0383b5a5ed_o.jpg"
+}

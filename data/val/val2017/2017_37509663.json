@@ -1,0 +1,13 @@
+{
+    "id": "2017_37509663", 
+    "image_path": "images/val2017/2017_37509663.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "e03d1577e444c889", 
+    "source_url": "https://c2.staticflickr.com/4/3283/2383654206_58600c5853_o.jpg"
+}

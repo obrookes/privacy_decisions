@@ -1,0 +1,19 @@
+{
+    "id": "2017_29425982", 
+    "image_path": "images/val2017/2017_29425982.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a46_occupation", 
+        "a48_occassion_work", 
+        "a4_gender", 
+        "a66_rel_professional", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "749fa333fd191c82", 
+    "source_url": "https://farm3.staticflickr.com/3400/3653881686_40c448d079_o.jpg"
+}

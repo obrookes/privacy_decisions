@@ -1,0 +1,10 @@
+{
+    "id": "2017_79465977", 
+    "image_path": "images/val2017/2017_79465977.jpg", 
+    "labels": [
+        "a19_name_full", 
+        "a26_handwriting"
+    ], 
+    "openimages_id": "c278a40fd69dee88", 
+    "source_url": "https://c1.staticflickr.com/1/32/100525600_19876a9657_o.jpg"
+}

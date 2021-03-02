@@ -1,0 +1,17 @@
+{
+    "id": "2017_72601400", 
+    "image_path": "images/val2017/2017_72601400.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "be9e818d897b9f89", 
+    "source_url": "https://c2.staticflickr.com/4/3642/3558043695_69cf4923fa_o.jpg"
+}

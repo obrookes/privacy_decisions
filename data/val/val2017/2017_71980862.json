@@ -1,0 +1,15 @@
+{
+    "id": "2017_71980862", 
+    "image_path": "images/val2017/2017_71980862.jpg", 
+    "labels": [
+        "a103_license_plate_complete", 
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "2f977ed124cb7baf", 
+    "source_url": "https://c8.staticflickr.com/3/2901/14831867963_e991368937_o.jpg"
+}

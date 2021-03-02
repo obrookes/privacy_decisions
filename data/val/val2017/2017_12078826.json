@@ -1,0 +1,18 @@
+{
+    "id": "2017_12078826", 
+    "image_path": "images/val2017/2017_12078826.jpg", 
+    "labels": [
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a41_injury", 
+        "a4_gender", 
+        "a64_rel_personal", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "703604146da32915", 
+    "source_url": "https://farm6.staticflickr.com/3843/14473094529_b3daf00ea2_o.jpg"
+}

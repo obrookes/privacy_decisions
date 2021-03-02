@@ -1,0 +1,14 @@
+{
+    "id": "2017_92890400", 
+    "image_path": "images/val2017/2017_92890400.jpg", 
+    "labels": [
+        "a19_name_full", 
+        "a25_nationality", 
+        "a27_marital_status", 
+        "a31_passport", 
+        "a82_date_time", 
+        "a8_signature"
+    ], 
+    "openimages_id": null, 
+    "source_url": null
+}

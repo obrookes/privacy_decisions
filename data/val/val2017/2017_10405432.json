@@ -1,0 +1,16 @@
+{
+    "id": "2017_10405432", 
+    "image_path": "images/val2017/2017_10405432.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a48_occassion_work", 
+        "a4_gender", 
+        "a66_rel_professional", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "c1860b515656d197", 
+    "source_url": "https://farm8.staticflickr.com/2918/13940291742_e673a47f10_o.jpg"
+}

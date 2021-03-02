@@ -1,0 +1,21 @@
+{
+    "id": "2017_58091627", 
+    "image_path": "images/val2017/2017_58091627.jpg", 
+    "labels": [
+        "a16_race", 
+        "a17_color", 
+        "a19_name_full", 
+        "a1_age_approx", 
+        "a24_birth_date", 
+        "a25_nationality", 
+        "a31_passport", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a6_hair_color", 
+        "a82_date_time", 
+        "a8_signature", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "e22a8e93d98a39ec", 
+    "source_url": "https://c5.staticflickr.com/4/3618/3382469459_6e9245fc43_o.jpg"
+}

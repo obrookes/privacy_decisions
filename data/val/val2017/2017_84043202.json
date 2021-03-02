@@ -1,0 +1,17 @@
+{
+    "id": "2017_84043202", 
+    "image_path": "images/val2017/2017_84043202.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a57_culture", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "394aa059bf560d1d", 
+    "source_url": "https://c6.staticflickr.com/4/3798/12928718223_90bc9b0ec0_o.jpg"
+}

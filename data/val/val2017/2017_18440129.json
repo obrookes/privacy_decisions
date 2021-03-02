@@ -1,0 +1,20 @@
+{
+    "id": "2017_18440129", 
+    "image_path": "images/val2017/2017_18440129.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a56_sexual_orientation", 
+        "a57_culture", 
+        "a61_opinion_general", 
+        "a68_rel_spectators", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "95ae3ff8626e7b95", 
+    "source_url": "https://farm6.staticflickr.com/1349/541835706_64b07a0162_o.jpg"
+}

@@ -1,0 +1,12 @@
+{
+    "id": "2017_10723356", 
+    "image_path": "images/val2017/2017_10723356.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a17_color", 
+        "a4_gender", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "b6063163738b9d8c", 
+    "source_url": "https://c5.staticflickr.com/6/5243/5209090634_f89af9c5f3_o.jpg"
+}

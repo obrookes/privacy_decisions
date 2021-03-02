@@ -1,0 +1,12 @@
+{
+    "id": "2017_26313334", 
+    "image_path": "images/val2017/2017_26313334.jpg", 
+    "labels": [
+        "a19_name_full", 
+        "a26_handwriting", 
+        "a75_address_current_partial", 
+        "a82_date_time"
+    ], 
+    "openimages_id": "4e0337e65d74e154", 
+    "source_url": "https://farm5.staticflickr.com/2844/13378657714_51a6a60d43_o.jpg"
+}

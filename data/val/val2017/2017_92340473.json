@@ -1,0 +1,16 @@
+{
+    "id": "2017_92340473", 
+    "image_path": "images/val2017/2017_92340473.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a18_ethnic_clothing", 
+        "a4_gender", 
+        "a57_culture", 
+        "a68_rel_spectators", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "f6787edadb657def", 
+    "source_url": "https://c8.staticflickr.com/8/7385/12901269425_92cdd8951d_o.jpg"
+}

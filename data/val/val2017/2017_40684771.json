@@ -1,0 +1,14 @@
+{
+    "id": "2017_40684771", 
+    "image_path": "images/val2017/2017_40684771.jpg", 
+    "labels": [
+        "a19_name_full", 
+        "a46_occupation", 
+        "a73_landmark", 
+        "a75_address_current_partial", 
+        "a82_date_time", 
+        "a85_username"
+    ], 
+    "openimages_id": "3855d3447f3703d0", 
+    "source_url": "https://farm1.staticflickr.com/7114/8152309207_274e9a716f_o.jpg"
+}

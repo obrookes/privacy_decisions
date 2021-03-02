@@ -1,0 +1,18 @@
+{
+    "id": "2017_97439396", 
+    "image_path": "images/val2017/2017_97439396.jpg", 
+    "labels": [
+        "a102_vehicle_ownership", 
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a4_gender", 
+        "a66_rel_professional", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "468ec37406362e02", 
+    "source_url": "https://farm3.staticflickr.com/227/476559459_1febd72202_o.jpg"
+}

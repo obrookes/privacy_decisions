@@ -1,0 +1,11 @@
+{
+    "id": "2017_52654543", 
+    "image_path": "images/val2017/2017_52654543.jpg", 
+    "labels": [
+        "a20_name_first", 
+        "a24_birth_date", 
+        "a82_date_time"
+    ], 
+    "openimages_id": "e5b3feddb1700eb0", 
+    "source_url": "https://farm1.staticflickr.com/5625/21436365015_1f6e4403b6_o.jpg"
+}

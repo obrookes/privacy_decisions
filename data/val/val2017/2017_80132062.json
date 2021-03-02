@@ -1,0 +1,16 @@
+{
+    "id": "2017_80132062", 
+    "image_path": "images/val2017/2017_80132062.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a65_rel_social", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "e094d92f2a968238", 
+    "source_url": "https://c1.staticflickr.com/6/5536/10872434435_84fb21a2ec_o.jpg"
+}

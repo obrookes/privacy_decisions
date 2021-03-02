@@ -1,0 +1,21 @@
+{
+    "id": "2017_90225980", 
+    "image_path": "images/val2017/2017_90225980.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a46_occupation", 
+        "a4_gender", 
+        "a57_culture", 
+        "a59_sports", 
+        "a66_rel_professional", 
+        "a68_rel_spectators", 
+        "a6_hair_color", 
+        "a75_address_current_partial"
+    ], 
+    "openimages_id": "4a873c1f9695f97d", 
+    "source_url": "https://c6.staticflickr.com/4/3110/2402072706_c25d086108_o.jpg"
+}

@@ -1,0 +1,17 @@
+{
+    "id": "2017_12962038", 
+    "image_path": "images/val2017/2017_12962038.jpg", 
+    "labels": [
+        "a102_vehicle_ownership", 
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a4_gender", 
+        "a6_hair_color", 
+        "a73_landmark"
+    ], 
+    "openimages_id": "7225ad409a1fd8a0", 
+    "source_url": "https://farm1.staticflickr.com/3916/14956107599_5b353bfe48_o.jpg"
+}

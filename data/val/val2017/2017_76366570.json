@@ -1,0 +1,18 @@
+{
+    "id": "2017_76366570", 
+    "image_path": "images/val2017/2017_76366570.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a18_ethnic_clothing", 
+        "a1_age_approx", 
+        "a27_marital_status", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a65_rel_social", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "abf9342fb88f912f", 
+    "source_url": "https://c8.staticflickr.com/4/3455/3738703721_ea0312ee25_o.jpg"
+}

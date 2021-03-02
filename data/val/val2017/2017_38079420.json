@@ -1,0 +1,19 @@
+{
+    "id": "2017_38079420", 
+    "image_path": "images/val2017/2017_38079420.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a61_opinion_general", 
+        "a69_rel_views", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "875166205a3eae24", 
+    "source_url": "https://farm5.staticflickr.com/6168/6200864427_92d85bfb0c_o.jpg"
+}

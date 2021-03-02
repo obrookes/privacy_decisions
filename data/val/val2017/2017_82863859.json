@@ -1,0 +1,19 @@
+{
+    "id": "2017_82863859", 
+    "image_path": "images/val2017/2017_82863859.jpg", 
+    "labels": [
+        "a16_race", 
+        "a17_color", 
+        "a19_name_full", 
+        "a25_nationality", 
+        "a29_ausweis", 
+        "a46_occupation", 
+        "a48_occassion_work", 
+        "a4_gender", 
+        "a82_date_time", 
+        "a8_signature", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "692301ef366e531b", 
+    "source_url": "https://c4.staticflickr.com/8/7290/9614861721_c56d464960_o.jpg"
+}

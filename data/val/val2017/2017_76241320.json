@@ -1,0 +1,18 @@
+{
+    "id": "2017_76241320", 
+    "image_path": "images/val2017/2017_76241320.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a46_occupation", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a66_rel_professional", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "4a4f0d59e65612df", 
+    "source_url": "https://c8.staticflickr.com/4/3576/3413288634_4f6d4f00be_o.jpg"
+}

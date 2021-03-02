@@ -1,0 +1,14 @@
+{
+    "id": "2017_77309773", 
+    "image_path": "images/val2017/2017_77309773.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a17_color", 
+        "a4_gender", 
+        "a6_hair_color", 
+        "a73_landmark", 
+        "a75_address_current_partial"
+    ], 
+    "openimages_id": "aa4c78792a5544cb", 
+    "source_url": "https://c4.staticflickr.com/7/6005/6012953534_9b634873b0_o.jpg"
+}

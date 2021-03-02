@@ -1,0 +1,11 @@
+{
+    "id": "2017_34061961", 
+    "image_path": "images/val2017/2017_34061961.jpg", 
+    "labels": [
+        "a49_phone", 
+        "a73_landmark", 
+        "a75_address_current_partial"
+    ], 
+    "openimages_id": "3670f7fc5cf2d4fb", 
+    "source_url": "https://c4.staticflickr.com/9/8245/8453010874_f66b4186dd_o.jpg"
+}

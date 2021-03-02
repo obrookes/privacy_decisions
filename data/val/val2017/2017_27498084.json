@@ -1,0 +1,16 @@
+{
+    "id": "2017_27498084", 
+    "image_path": "images/val2017/2017_27498084.jpg", 
+    "labels": [
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a59_sports", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "aff65f97fd844123", 
+    "source_url": "https://farm4.staticflickr.com/6013/5976842206_ef722102c8_o.jpg"
+}

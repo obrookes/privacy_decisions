@@ -1,0 +1,22 @@
+{
+    "id": "2017_45364669", 
+    "image_path": "images/val2017/2017_45364669.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a11_tattoo", 
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a56_sexual_orientation", 
+        "a57_culture", 
+        "a5_eye_color", 
+        "a68_rel_spectators", 
+        "a6_hair_color", 
+        "a73_landmark", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "fed30017791420c5", 
+    "source_url": "https://farm6.staticflickr.com/2914/14352579388_823d04d680_o.jpg"
+}

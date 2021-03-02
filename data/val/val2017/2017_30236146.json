@@ -1,0 +1,18 @@
+{
+    "id": "2017_30236146", 
+    "image_path": "images/val2017/2017_30236146.jpg", 
+    "labels": [
+        "a103_license_plate_complete", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a6_hair_color", 
+        "a75_address_current_partial", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "1d13e0c893cd8b9e", 
+    "source_url": "https://c7.staticflickr.com/4/3795/9129430738_d4a5f5eebe_o.jpg"
+}

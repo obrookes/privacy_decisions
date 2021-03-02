@@ -1,0 +1,20 @@
+{
+    "id": "2017_36833853", 
+    "image_path": "images/val2017/2017_36833853.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a6_hair_color", 
+        "a70_education_history", 
+        "a75_address_current_partial", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "ad10ad52a2f9a3d9", 
+    "source_url": "https://c2.staticflickr.com/4/3768/8758289143_6ce744f573_o.jpg"
+}

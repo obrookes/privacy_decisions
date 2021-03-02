@@ -1,0 +1,19 @@
+{
+    "id": "2017_80398921", 
+    "image_path": "images/val2017/2017_80398921.jpg", 
+    "labels": [
+        "a102_vehicle_ownership", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a4_gender", 
+        "a59_sports", 
+        "a5_eye_color", 
+        "a67_rel_competitors", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "353f321495ee309a", 
+    "source_url": "https://c3.staticflickr.com/9/8559/8753633855_9b1d5d5502_o.jpg"
+}

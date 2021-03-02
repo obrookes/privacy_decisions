@@ -1,0 +1,21 @@
+{
+    "id": "2017_16038627", 
+    "image_path": "images/val2017/2017_16038627.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a41_injury", 
+        "a46_occupation", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "6a75a74057a124ca", 
+    "source_url": "https://c3.staticflickr.com/8/7234/7249875390_a9961c65c4_o.jpg"
+}

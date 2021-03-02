@@ -1,0 +1,16 @@
+{
+    "id": "2017_98338074", 
+    "image_path": "images/val2017/2017_98338074.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a4_gender", 
+        "a55_religion", 
+        "a68_rel_spectators", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "0bf88646374f4044", 
+    "source_url": "https://farm5.staticflickr.com/2870/11117853253_f4a06f9b80_o.jpg"
+}

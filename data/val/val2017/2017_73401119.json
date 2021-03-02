@@ -1,0 +1,16 @@
+{
+    "id": "2017_73401119", 
+    "image_path": "images/val2017/2017_73401119.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a59_sports", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "a2e648f9381b1b52", 
+    "source_url": "https://farm3.staticflickr.com/8169/8004427462_42471091bc_o.jpg"
+}

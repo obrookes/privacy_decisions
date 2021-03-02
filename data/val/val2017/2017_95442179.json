@@ -1,0 +1,10 @@
+{
+    "id": "2017_95442179", 
+    "image_path": "images/val2017/2017_95442179.jpg", 
+    "labels": [
+        "a49_phone", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "2cbea687c93b40bc", 
+    "source_url": "https://c5.staticflickr.com/1/52/137615487_47b9628433_o.jpg"
+}

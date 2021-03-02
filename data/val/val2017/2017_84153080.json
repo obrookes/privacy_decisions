@@ -1,0 +1,13 @@
+{
+    "id": "2017_84153080", 
+    "image_path": "images/val2017/2017_84153080.jpg", 
+    "labels": [
+        "a19_name_full", 
+        "a26_handwriting", 
+        "a35_mail", 
+        "a75_address_current_partial", 
+        "a78_address_home_complete"
+    ], 
+    "openimages_id": "4b96bfc876978551", 
+    "source_url": "https://farm2.staticflickr.com/3350/4624779191_8a07964858_o.jpg"
+}

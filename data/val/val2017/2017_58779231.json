@@ -1,0 +1,17 @@
+{
+    "id": "2017_58779231", 
+    "image_path": "images/val2017/2017_58779231.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a46_occupation", 
+        "a4_gender", 
+        "a55_religion", 
+        "a66_rel_professional", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "76dd37085f3fc0eb", 
+    "source_url": "https://c4.staticflickr.com/3/2891/10892460204_1d0d5c431b_o.jpg"
+}

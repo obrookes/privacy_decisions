@@ -1,0 +1,16 @@
+{
+    "id": "2017_98273852", 
+    "image_path": "images/val2017/2017_98273852.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a2_weight_approx", 
+        "a48_occassion_work", 
+        "a4_gender", 
+        "a66_rel_professional", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "c98c605dbbba3e7d", 
+    "source_url": "https://c6.staticflickr.com/3/2164/2271869974_759e6003f5_o.jpg"
+}

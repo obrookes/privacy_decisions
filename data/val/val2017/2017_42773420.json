@@ -1,0 +1,17 @@
+{
+    "id": "2017_42773420", 
+    "image_path": "images/val2017/2017_42773420.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a57_culture", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "c3fc77cabb311298", 
+    "source_url": "https://c1.staticflickr.com/3/2937/14290062678_69c3915744_o.jpg"
+}

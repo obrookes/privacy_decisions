@@ -1,0 +1,21 @@
+{
+    "id": "2017_75675213", 
+    "image_path": "images/val2017/2017_75675213.jpg", 
+    "labels": [
+        "a16_race", 
+        "a17_color", 
+        "a18_ethnic_clothing", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a55_religion", 
+        "a5_eye_color", 
+        "a65_rel_social", 
+        "a66_rel_professional", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "54a8f80ba631314e", 
+    "source_url": "https://c7.staticflickr.com/5/4092/5032656390_24eeff93e6_o.jpg"
+}

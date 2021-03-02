@@ -1,0 +1,11 @@
+{
+    "id": "2017_47117897", 
+    "image_path": "images/val2017/2017_47117897.jpg", 
+    "labels": [
+        "a20_name_first", 
+        "a26_handwriting", 
+        "a35_mail"
+    ], 
+    "openimages_id": "2fed6e8f29116e36", 
+    "source_url": "https://farm7.staticflickr.com/5567/14907378366_0a3a473c93_o.jpg"
+}

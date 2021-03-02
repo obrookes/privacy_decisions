@@ -1,0 +1,18 @@
+{
+    "id": "2017_32965990", 
+    "image_path": "images/val2017/2017_32965990.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a11_tattoo", 
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a57_culture", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "1b9f0229c272aef3", 
+    "source_url": "https://farm4.staticflickr.com/8182/8020409749_8ed026e343_o.jpg"
+}

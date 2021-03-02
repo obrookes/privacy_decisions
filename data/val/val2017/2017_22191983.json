@@ -1,0 +1,13 @@
+{
+    "id": "2017_22191983", 
+    "image_path": "images/val2017/2017_22191983.jpg", 
+    "labels": [
+        "a17_color", 
+        "a37_receipt", 
+        "a49_phone", 
+        "a74_address_current_complete", 
+        "a82_date_time"
+    ], 
+    "openimages_id": "b470c3f381dc25ec", 
+    "source_url": "https://c5.staticflickr.com/7/6163/6207512478_fa7edc0272_o.jpg"
+}

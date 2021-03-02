@@ -1,0 +1,17 @@
+{
+    "id": "2017_34165145", 
+    "image_path": "images/val2017/2017_34165145.jpg", 
+    "labels": [
+        "a19_name_full", 
+        "a1_age_approx", 
+        "a26_handwriting", 
+        "a27_marital_status", 
+        "a35_mail", 
+        "a4_gender", 
+        "a56_sexual_orientation", 
+        "a73_landmark", 
+        "a8_signature"
+    ], 
+    "openimages_id": "7c33b7c56b2af1a4", 
+    "source_url": "https://farm5.staticflickr.com/2517/4056050557_e184405bd0_o.jpg"
+}

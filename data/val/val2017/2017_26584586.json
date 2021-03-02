@@ -1,0 +1,19 @@
+{
+    "id": "2017_26584586", 
+    "image_path": "images/val2017/2017_26584586.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a57_culture", 
+        "a68_rel_spectators", 
+        "a6_hair_color", 
+        "a73_landmark", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "26e7f1ce590dac7a", 
+    "source_url": "https://c3.staticflickr.com/6/5498/9119890603_9a0541472f_o.jpg"
+}

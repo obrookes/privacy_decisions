@@ -1,0 +1,14 @@
+{
+    "id": "2017_97276447", 
+    "image_path": "images/val2017/2017_97276447.jpg", 
+    "labels": [
+        "a19_name_full", 
+        "a46_occupation", 
+        "a48_occassion_work", 
+        "a66_rel_professional", 
+        "a70_education_history", 
+        "a75_address_current_partial"
+    ], 
+    "openimages_id": "1f31dfe9461a7e00", 
+    "source_url": "https://farm1.staticflickr.com/2943/15375793612_24d448b6ed_o.jpg"
+}

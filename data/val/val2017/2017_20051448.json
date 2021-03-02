@@ -1,0 +1,17 @@
+{
+    "id": "2017_20051448", 
+    "image_path": "images/val2017/2017_20051448.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a12_semi_nudity", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a56_sexual_orientation", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "f7ea2f73172c0452", 
+    "source_url": "https://farm3.staticflickr.com/114/290517058_81aac70383_o.jpg"
+}

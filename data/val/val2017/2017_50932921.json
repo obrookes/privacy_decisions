@@ -1,0 +1,20 @@
+{
+    "id": "2017_50932921", 
+    "image_path": "images/val2017/2017_50932921.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a46_occupation", 
+        "a48_occassion_work", 
+        "a4_gender", 
+        "a66_rel_professional", 
+        "a68_rel_spectators", 
+        "a6_hair_color", 
+        "a75_address_current_partial"
+    ], 
+    "openimages_id": "b0844d771e4ea1ce", 
+    "source_url": "https://c7.staticflickr.com/6/5539/14652739132_992cdd6951_o.jpg"
+}

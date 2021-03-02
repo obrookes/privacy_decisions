@@ -1,0 +1,15 @@
+{
+    "id": "2017_64253672", 
+    "image_path": "images/val2017/2017_64253672.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a4_gender", 
+        "a59_sports", 
+        "a65_rel_social"
+    ], 
+    "openimages_id": "77be7c03c29e8986", 
+    "source_url": "https://farm7.staticflickr.com/5504/14306493470_ed30ea79cb_o.jpg"
+}

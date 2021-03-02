@@ -1,0 +1,19 @@
+{
+    "id": "2017_86948555", 
+    "image_path": "images/val2017/2017_86948555.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a46_occupation", 
+        "a4_gender", 
+        "a57_culture", 
+        "a66_rel_professional", 
+        "a68_rel_spectators", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "b561a67d21453018", 
+    "source_url": "https://c1.staticflickr.com/4/3782/9246936890_690bc9e10d_o.jpg"
+}

@@ -1,0 +1,12 @@
+{
+    "id": "2017_70488075", 
+    "image_path": "images/val2017/2017_70488075.jpg", 
+    "labels": [
+        "a30_credit_card", 
+        "a37_receipt", 
+        "a75_address_current_partial", 
+        "a82_date_time"
+    ], 
+    "openimages_id": "c7cc4f3412f72cc8", 
+    "source_url": "https://c1.staticflickr.com/9/8284/7699590120_9369c2dbd2_o.jpg"
+}

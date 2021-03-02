@@ -1,0 +1,12 @@
+{
+    "id": "2017_41667887", 
+    "image_path": "images/val2017/2017_41667887.jpg", 
+    "labels": [
+        "a103_license_plate_complete", 
+        "a21_name_last", 
+        "a75_address_current_partial", 
+        "a82_date_time"
+    ], 
+    "openimages_id": "fd3cacbb16d22193", 
+    "source_url": "https://farm4.staticflickr.com/3041/2295017447_6755fb49ff_o.jpg"
+}

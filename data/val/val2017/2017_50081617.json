@@ -1,0 +1,19 @@
+{
+    "id": "2017_50081617", 
+    "image_path": "images/val2017/2017_50081617.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a46_occupation", 
+        "a4_gender", 
+        "a59_sports", 
+        "a67_rel_competitors", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "f821a2455c2fe561", 
+    "source_url": "https://farm2.staticflickr.com/5583/14822709330_942a16309b_o.jpg"
+}

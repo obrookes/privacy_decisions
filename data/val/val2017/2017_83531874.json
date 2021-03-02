@@ -1,0 +1,11 @@
+{
+    "id": "2017_83531874", 
+    "image_path": "images/val2017/2017_83531874.png", 
+    "labels": [
+        "a19_name_full", 
+        "a75_address_current_partial", 
+        "a97_online_conversation"
+    ], 
+    "openimages_id": null, 
+    "source_url": null
+}

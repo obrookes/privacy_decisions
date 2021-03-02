@@ -1,0 +1,21 @@
+{
+    "id": "2017_97555199", 
+    "image_path": "images/val2017/2017_97555199.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a57_culture", 
+        "a5_eye_color", 
+        "a64_rel_personal", 
+        "a68_rel_spectators", 
+        "a6_hair_color", 
+        "a73_landmark", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "261187aabf3668d1", 
+    "source_url": "https://farm2.staticflickr.com/5574/14118258317_9e74698412_o.jpg"
+}

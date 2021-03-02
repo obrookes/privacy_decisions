@@ -1,0 +1,20 @@
+{
+    "id": "2017_27849306", 
+    "image_path": "images/val2017/2017_27849306.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a61_opinion_general", 
+        "a64_rel_personal", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "19c5f3061d502ee6", 
+    "source_url": "https://farm7.staticflickr.com/3259/2742571668_bc6e73fffe_o.jpg"
+}

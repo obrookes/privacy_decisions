@@ -1,0 +1,11 @@
+{
+    "id": "2017_89605434", 
+    "image_path": "images/val2017/2017_89605434.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a17_color", 
+        "a57_culture"
+    ], 
+    "openimages_id": "acaa4568f7184f83", 
+    "source_url": "https://farm4.staticflickr.com/2800/4335495177_254630e4b9_o.jpg"
+}

@@ -1,0 +1,18 @@
+{
+    "id": "2017_51015545", 
+    "image_path": "images/val2017/2017_51015545.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a58_hobbies", 
+        "a5_eye_color", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "2aed5de1a515243e", 
+    "source_url": "https://c7.staticflickr.com/1/56/149863596_2c59e21080_o.jpg"
+}

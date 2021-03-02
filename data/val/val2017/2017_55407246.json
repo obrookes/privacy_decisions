@@ -1,0 +1,21 @@
+{
+    "id": "2017_55407246", 
+    "image_path": "images/val2017/2017_55407246.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a56_sexual_orientation", 
+        "a57_culture", 
+        "a5_eye_color", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "47a0eed6242cf603", 
+    "source_url": "https://farm4.staticflickr.com/665/20665654579_9eb90a8233_o.jpg"
+}

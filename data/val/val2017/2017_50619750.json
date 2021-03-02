@@ -1,0 +1,17 @@
+{
+    "id": "2017_50619750", 
+    "image_path": "images/val2017/2017_50619750.jpg", 
+    "labels": [
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a57_culture", 
+        "a5_eye_color", 
+        "a68_rel_spectators", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "f699f7a305a3fbac", 
+    "source_url": "https://c5.staticflickr.com/1/635/20262002193_eaa9ef1db4_o.jpg"
+}

@@ -1,0 +1,13 @@
+{
+    "id": "2017_17927784", 
+    "image_path": "images/val2017/2017_17927784.jpg", 
+    "labels": [
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a6_hair_color", 
+        "a73_landmark"
+    ], 
+    "openimages_id": "3eb4dc497462979e", 
+    "source_url": "https://c7.staticflickr.com/7/6215/6246437530_bd7fcc804f_o.jpg"
+}

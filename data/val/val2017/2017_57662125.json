@@ -1,0 +1,18 @@
+{
+    "id": "2017_57662125", 
+    "image_path": "images/val2017/2017_57662125.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a41_injury", 
+        "a46_occupation", 
+        "a66_rel_professional"
+    ], 
+    "openimages_id": "6b1c53d041168f22", 
+    "source_url": "https://farm3.staticflickr.com/1116/1091710797_0aebfa5c29_o.jpg"
+}

@@ -1,0 +1,18 @@
+{
+    "id": "2017_81325360", 
+    "image_path": "images/val2017/2017_81325360.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a4_gender", 
+        "a55_religion", 
+        "a56_sexual_orientation", 
+        "a60_occassion_personal", 
+        "a64_rel_personal", 
+        "a65_rel_social", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "b26f541e88c70601", 
+    "source_url": "https://farm2.staticflickr.com/2339/1863361265_0d150f5e9f_o.jpg"
+}

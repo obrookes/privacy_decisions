@@ -1,0 +1,19 @@
+{
+    "id": "2017_64227381", 
+    "image_path": "images/val2017/2017_64227381.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a46_occupation", 
+        "a4_gender", 
+        "a57_culture", 
+        "a58_hobbies", 
+        "a5_eye_color", 
+        "a68_rel_spectators", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "3559b24086e11b63", 
+    "source_url": "https://farm4.staticflickr.com/4027/5144430475_1a7118cd32_o.jpg"
+}

@@ -1,0 +1,13 @@
+{
+    "id": "2017_22472717", 
+    "image_path": "images/val2017/2017_22472717.jpg", 
+    "labels": [
+        "a0_safe", 
+        "a17_color", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "199f111ef7b9da68", 
+    "source_url": "https://c1.staticflickr.com/8/7313/8735188714_2946311d6b_o.jpg"
+}

@@ -1,0 +1,11 @@
+{
+    "id": "2017_13354234", 
+    "image_path": "images/val2017/2017_13354234.jpg", 
+    "labels": [
+        "a17_color", 
+        "a6_hair_color", 
+        "a73_landmark"
+    ], 
+    "openimages_id": "f84ae56f9a74345c", 
+    "source_url": "https://c5.staticflickr.com/9/8210/8174861699_53458c3a88_o.jpg"
+}

@@ -1,0 +1,12 @@
+{
+    "id": "2017_83060145", 
+    "image_path": "images/val2017/2017_83060145.jpg", 
+    "labels": [
+        "a17_color", 
+        "a4_gender", 
+        "a6_hair_color", 
+        "a73_landmark"
+    ], 
+    "openimages_id": "49a65684939dde13", 
+    "source_url": "https://farm4.staticflickr.com/2941/15164053140_2e1de4220f_o.jpg"
+}

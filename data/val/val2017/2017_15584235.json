@@ -1,0 +1,11 @@
+{
+    "id": "2017_15584235", 
+    "image_path": "images/val2017/2017_15584235.jpg", 
+    "labels": [
+        "a17_color", 
+        "a4_gender", 
+        "a65_rel_social"
+    ], 
+    "openimages_id": "47d24e0207ff18f2", 
+    "source_url": "https://farm3.staticflickr.com/8003/7664432584_5dbf92a1ea_o.jpg"
+}

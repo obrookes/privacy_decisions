@@ -1,0 +1,14 @@
+{
+    "id": "2017_12652876", 
+    "image_path": "images/val2017/2017_12652876.jpg", 
+    "labels": [
+        "a19_name_full", 
+        "a26_handwriting", 
+        "a70_education_history", 
+        "a73_landmark", 
+        "a82_date_time", 
+        "a8_signature"
+    ], 
+    "openimages_id": "471dbee6122d2bef", 
+    "source_url": "https://c8.staticflickr.com/8/7165/6619863635_73f5306269_o.jpg"
+}

@@ -1,0 +1,18 @@
+{
+    "id": "2017_60256469", 
+    "image_path": "images/val2017/2017_60256469.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a4_gender", 
+        "a55_religion", 
+        "a65_rel_social", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "b37379b83a7f36af", 
+    "source_url": "https://c8.staticflickr.com/8/7573/16269942251_ee066856ab_o.jpg"
+}

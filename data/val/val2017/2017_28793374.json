@@ -1,0 +1,15 @@
+{
+    "id": "2017_28793374", 
+    "image_path": "images/val2017/2017_28793374.jpg", 
+    "labels": [
+        "a19_name_full", 
+        "a46_occupation", 
+        "a70_education_history", 
+        "a73_landmark", 
+        "a75_address_current_partial", 
+        "a82_date_time", 
+        "a8_signature"
+    ], 
+    "openimages_id": "45841ebe264f037c", 
+    "source_url": "https://c5.staticflickr.com/6/5614/15206148484_d63e33a27c_o.jpg"
+}

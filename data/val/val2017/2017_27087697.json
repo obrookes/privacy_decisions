@@ -1,0 +1,18 @@
+{
+    "id": "2017_27087697", 
+    "image_path": "images/val2017/2017_27087697.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a21_name_last", 
+        "a26_handwriting", 
+        "a35_mail", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "fc2665d898b41eae", 
+    "source_url": "https://c7.staticflickr.com/4/3003/2282597827_1c494a6cf5_o.jpg"
+}

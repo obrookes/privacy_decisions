@@ -1,0 +1,18 @@
+{
+    "id": "2017_70462828", 
+    "image_path": "images/val2017/2017_70462828.jpg", 
+    "labels": [
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a57_culture", 
+        "a5_eye_color", 
+        "a6_hair_color", 
+        "a73_landmark", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "e6e6d10b1bc500c8", 
+    "source_url": "https://c1.staticflickr.com/5/4084/4971100985_66d6eea15b_o.jpg"
+}

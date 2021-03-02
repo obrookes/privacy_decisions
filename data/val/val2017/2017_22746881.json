@@ -1,0 +1,16 @@
+{
+    "id": "2017_22746881", 
+    "image_path": "images/val2017/2017_22746881.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a4_gender", 
+        "a61_opinion_general", 
+        "a6_hair_color", 
+        "a73_landmark", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "e79c0462afa4326a", 
+    "source_url": "https://c3.staticflickr.com/3/2934/14305331679_cd71c06f1a_o.jpg"
+}

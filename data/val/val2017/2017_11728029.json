@@ -1,0 +1,16 @@
+{
+    "id": "2017_11728029", 
+    "image_path": "images/val2017/2017_11728029.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a4_gender", 
+        "a6_hair_color", 
+        "a73_landmark"
+    ], 
+    "openimages_id": "5cddecd2a6d3ccfb", 
+    "source_url": "https://c4.staticflickr.com/3/2761/4312647162_f3f791e88e_o.jpg"
+}

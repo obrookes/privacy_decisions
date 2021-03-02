@@ -1,0 +1,18 @@
+{
+    "id": "2017_23443299", 
+    "image_path": "images/val2017/2017_23443299.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a4_gender", 
+        "a61_opinion_general", 
+        "a69_rel_views", 
+        "a6_hair_color", 
+        "a73_landmark", 
+        "a75_address_current_partial", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "27f3cb923e00bb3f", 
+    "source_url": "https://c8.staticflickr.com/1/89/244239937_a516d72942_o.jpg"
+}

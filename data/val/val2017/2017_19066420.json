@@ -1,0 +1,10 @@
+{
+    "id": "2017_19066420", 
+    "image_path": "images/val2017/2017_19066420.jpg", 
+    "labels": [
+        "a104_license_plate_partial", 
+        "a73_landmark"
+    ], 
+    "openimages_id": "991182a033911597", 
+    "source_url": "https://farm8.staticflickr.com/8725/16481602753_1e4530bb4b_o.jpg"
+}

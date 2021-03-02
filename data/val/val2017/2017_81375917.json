@@ -1,0 +1,18 @@
+{
+    "id": "2017_81375917", 
+    "image_path": "images/val2017/2017_81375917.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a18_ethnic_clothing", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a55_religion", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "44cbe75f3d8372b5", 
+    "source_url": "https://farm6.staticflickr.com/5104/5632352845_81248d4fb6_o.jpg"
+}

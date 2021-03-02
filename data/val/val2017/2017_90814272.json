@@ -1,0 +1,23 @@
+{
+    "id": "2017_90814272", 
+    "image_path": "images/val2017/2017_90814272.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a18_ethnic_clothing", 
+        "a1_age_approx", 
+        "a27_marital_status", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a55_religion", 
+        "a5_eye_color", 
+        "a60_occassion_personal", 
+        "a64_rel_personal", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "67e2c7cccecb462d", 
+    "source_url": "https://c6.staticflickr.com/8/7327/9515549514_fb72d40093_o.jpg"
+}

@@ -1,0 +1,19 @@
+{
+    "id": "2017_84706793", 
+    "image_path": "images/val2017/2017_84706793.jpg", 
+    "labels": [
+        "a16_race", 
+        "a17_color", 
+        "a19_name_full", 
+        "a46_occupation", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a6_hair_color", 
+        "a73_landmark", 
+        "a75_address_current_partial", 
+        "a82_date_time", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "51ef3f31fd96d7f3", 
+    "source_url": "https://farm4.staticflickr.com/7319/9370617696_5258abd93d_o.jpg"
+}

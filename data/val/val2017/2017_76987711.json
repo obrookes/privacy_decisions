@@ -1,0 +1,12 @@
+{
+    "id": "2017_76987711", 
+    "image_path": "images/val2017/2017_76987711.jpg", 
+    "labels": [
+        "a102_vehicle_ownership", 
+        "a10_face_partial", 
+        "a17_color", 
+        "a4_gender"
+    ], 
+    "openimages_id": "9a3f74c928d19309", 
+    "source_url": "https://c2.staticflickr.com/6/5463/17684358960_77fa0d8d9d_o.jpg"
+}

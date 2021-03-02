@@ -1,0 +1,18 @@
+{
+    "id": "2017_21696592", 
+    "image_path": "images/val2017/2017_21696592.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a4_gender", 
+        "a57_culture", 
+        "a65_rel_social", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "10f0988af7cc00cd", 
+    "source_url": "https://c6.staticflickr.com/3/2838/13661917593_99f0e530ea_o.jpg"
+}

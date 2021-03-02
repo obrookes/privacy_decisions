@@ -1,0 +1,21 @@
+{
+    "id": "2017_57485161", 
+    "image_path": "images/val2017/2017_57485161.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a19_name_full", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a62_opinion_political", 
+        "a6_hair_color", 
+        "a73_landmark", 
+        "a75_address_current_partial", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "fd9a685fc2079bbf", 
+    "source_url": "https://c8.staticflickr.com/9/8077/8369338258_d49662603d_o.jpg"
+}

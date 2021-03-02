@@ -1,0 +1,21 @@
+{
+    "id": "2017_44305109", 
+    "image_path": "images/val2017/2017_44305109.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a11_tattoo", 
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a56_sexual_orientation", 
+        "a57_culture", 
+        "a64_rel_personal", 
+        "a68_rel_spectators", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "968a002d19a38498", 
+    "source_url": "https://c1.staticflickr.com/1/466/20051442210_4b03e15b51_o.jpg"
+}

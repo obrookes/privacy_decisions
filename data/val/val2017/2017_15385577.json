@@ -1,0 +1,21 @@
+{
+    "id": "2017_15385577", 
+    "image_path": "images/val2017/2017_15385577.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a46_occupation", 
+        "a48_occassion_work", 
+        "a4_gender", 
+        "a57_culture", 
+        "a65_rel_social", 
+        "a66_rel_professional", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "944e0b1e03d54020", 
+    "source_url": "https://farm1.staticflickr.com/2078/2224481922_4579ff2618_o.jpg"
+}

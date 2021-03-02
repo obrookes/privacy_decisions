@@ -1,0 +1,21 @@
+{
+    "id": "2017_92005213", 
+    "image_path": "images/val2017/2017_92005213.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a11_tattoo", 
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a57_culture", 
+        "a5_eye_color", 
+        "a68_rel_spectators", 
+        "a6_hair_color", 
+        "a73_landmark", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "67dcf4eecde6b7d9", 
+    "source_url": "https://c2.staticflickr.com/6/5468/9193264496_ab92734f2d_o.jpg"
+}

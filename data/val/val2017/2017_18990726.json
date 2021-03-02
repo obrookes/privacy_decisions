@@ -1,0 +1,16 @@
+{
+    "id": "2017_18990726", 
+    "image_path": "images/val2017/2017_18990726.jpg", 
+    "labels": [
+        "a104_license_plate_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "1b9fd36144202414", 
+    "source_url": "https://farm5.staticflickr.com/495/19474411904_e29d9d7f63_o.jpg"
+}

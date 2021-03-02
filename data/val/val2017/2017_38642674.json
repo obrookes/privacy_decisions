@@ -1,0 +1,19 @@
+{
+    "id": "2017_38642674", 
+    "image_path": "images/val2017/2017_38642674.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a65_rel_social", 
+        "a6_hair_color", 
+        "a70_education_history", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "bc420c635b84ddcb", 
+    "source_url": "https://c4.staticflickr.com/6/5579/14020702528_57faceefc5_o.jpg"
+}

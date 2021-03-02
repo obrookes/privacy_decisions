@@ -1,0 +1,21 @@
+{
+    "id": "2017_35039591", 
+    "image_path": "images/val2017/2017_35039591.jpg", 
+    "labels": [
+        "a102_vehicle_ownership", 
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a46_occupation", 
+        "a4_gender", 
+        "a59_sports", 
+        "a64_rel_personal", 
+        "a67_rel_competitors", 
+        "a68_rel_spectators", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "522f2fced74a84f2", 
+    "source_url": "https://farm3.staticflickr.com/454/19226779528_32220815a4_o.jpg"
+}

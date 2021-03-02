@@ -1,0 +1,21 @@
+{
+    "id": "2017_94321523", 
+    "image_path": "images/val2017/2017_94321523.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a19_name_full", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a57_culture", 
+        "a68_rel_spectators", 
+        "a6_hair_color", 
+        "a75_address_current_partial", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "68a2101fb8590864", 
+    "source_url": "https://farm5.staticflickr.com/5591/14581523346_00a18694b5_o.jpg"
+}

@@ -1,0 +1,18 @@
+{
+    "id": "2017_52417906", 
+    "image_path": "images/val2017/2017_52417906.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a4_gender", 
+        "a61_opinion_general", 
+        "a69_rel_views", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "bef124a643176e5b", 
+    "source_url": "https://c4.staticflickr.com/3/2910/14196115770_fc474abc1e_o.jpg"
+}

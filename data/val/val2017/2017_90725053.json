@@ -1,0 +1,11 @@
+{
+    "id": "2017_90725053", 
+    "image_path": "images/val2017/2017_90725053.jpg", 
+    "labels": [
+        "a59_sports", 
+        "a67_rel_competitors", 
+        "a68_rel_spectators"
+    ], 
+    "openimages_id": "18da7336131ec8b9", 
+    "source_url": "https://c2.staticflickr.com/9/8701/16801690129_169a5414a5_o.jpg"
+}

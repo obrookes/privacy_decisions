@@ -1,0 +1,12 @@
+{
+    "id": "2017_23104400", 
+    "image_path": "images/val2017/2017_23104400.jpg", 
+    "labels": [
+        "a19_name_full", 
+        "a26_handwriting", 
+        "a35_mail", 
+        "a82_date_time"
+    ], 
+    "openimages_id": "71ca2b0e0b173008", 
+    "source_url": "https://c1.staticflickr.com/9/8303/8010874748_ddde58dd14_o.jpg"
+}

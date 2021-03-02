@@ -1,0 +1,18 @@
+{
+    "id": "2017_28059306", 
+    "image_path": "images/val2017/2017_28059306.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a4_gender", 
+        "a55_religion", 
+        "a66_rel_professional", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "d9c8052cb8a44372", 
+    "source_url": "https://farm3.staticflickr.com/2326/1969667321_a57c756e96_o.jpg"
+}

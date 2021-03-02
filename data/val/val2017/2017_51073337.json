@@ -1,0 +1,20 @@
+{
+    "id": "2017_51073337", 
+    "image_path": "images/val2017/2017_51073337.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a49_phone", 
+        "a4_gender", 
+        "a55_religion", 
+        "a6_hair_color", 
+        "a73_landmark", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "c25b6e14af16b903", 
+    "source_url": "https://farm4.staticflickr.com/8538/8601322905_9e2948cf03_o.jpg"
+}

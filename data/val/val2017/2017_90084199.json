@@ -1,0 +1,13 @@
+{
+    "id": "2017_90084199", 
+    "image_path": "images/val2017/2017_90084199.jpg", 
+    "labels": [
+        "a16_race", 
+        "a17_color", 
+        "a4_gender", 
+        "a68_rel_spectators", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "c7217868b5e76ddb", 
+    "source_url": "https://c4.staticflickr.com/3/2577/3951439547_72d0413c31_o.jpg"
+}

@@ -1,0 +1,17 @@
+{
+    "id": "2017_50474760", 
+    "image_path": "images/val2017/2017_50474760.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a11_tattoo", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a57_culture", 
+        "a5_eye_color", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "daf624c6094d0761", 
+    "source_url": "https://farm2.staticflickr.com/3666/9051153963_70fd44a406_o.jpg"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "2017_33627761", 
+    "image_path": "images/val2017/2017_33627761.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a11_tattoo", 
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a61_opinion_general", 
+        "a69_rel_views", 
+        "a6_hair_color", 
+        "a73_landmark", 
+        "a75_address_current_partial", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "c7e181c9a3da5692", 
+    "source_url": "https://farm3.staticflickr.com/8533/8701810174_298a498267_o.jpg"
+}

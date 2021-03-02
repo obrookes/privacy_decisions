@@ -1,0 +1,22 @@
+{
+    "id": "2017_25057208", 
+    "image_path": "images/val2017/2017_25057208.jpg", 
+    "labels": [
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a49_phone", 
+        "a4_gender", 
+        "a57_culture", 
+        "a5_eye_color", 
+        "a64_rel_personal", 
+        "a68_rel_spectators", 
+        "a6_hair_color", 
+        "a73_landmark", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "0764364023e843e8", 
+    "source_url": "https://c1.staticflickr.com/5/4023/4680883544_c46ec55a27_o.jpg"
+}

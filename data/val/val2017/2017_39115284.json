@@ -1,0 +1,13 @@
+{
+    "id": "2017_39115284", 
+    "image_path": "images/val2017/2017_39115284.jpg", 
+    "labels": [
+        "a19_name_full", 
+        "a35_mail", 
+        "a4_gender", 
+        "a74_address_current_complete", 
+        "a82_date_time"
+    ], 
+    "openimages_id": "e5cf9ae9a53b6651", 
+    "source_url": "https://farm2.staticflickr.com/5097/5469006611_e2c5a4c652_o.jpg"
+}

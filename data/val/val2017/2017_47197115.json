@@ -1,0 +1,20 @@
+{
+    "id": "2017_47197115", 
+    "image_path": "images/val2017/2017_47197115.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a46_occupation", 
+        "a4_gender", 
+        "a59_sports", 
+        "a67_rel_competitors", 
+        "a6_hair_color", 
+        "a75_address_current_partial"
+    ], 
+    "openimages_id": "abad1d6583ce41a2", 
+    "source_url": "https://farm3.staticflickr.com/8739/16386772474_ca375997b7_o.jpg"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "2017_11265529", 
+    "image_path": "images/val2017/2017_11265529.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a19_name_full", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a48_occassion_work", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a66_rel_professional", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "fcfcb6f403a865e0", 
+    "source_url": "https://farm1.staticflickr.com/8034/7892548008_b29040fd7f_o.jpg"
+}

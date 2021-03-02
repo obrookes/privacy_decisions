@@ -1,0 +1,11 @@
+{
+    "id": "2017_50367027", 
+    "image_path": "images/val2017/2017_50367027.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a4_gender", 
+        "a65_rel_social"
+    ], 
+    "openimages_id": "ae3a83ddabdacfff", 
+    "source_url": "https://c8.staticflickr.com/3/2754/4054190654_61ce6bc01b_o.jpg"
+}

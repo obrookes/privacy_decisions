@@ -1,0 +1,23 @@
+{
+    "id": "2017_13439968", 
+    "image_path": "images/val2017/2017_13439968.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a21_name_last", 
+        "a2_weight_approx", 
+        "a39_disability_physical", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a59_sports", 
+        "a5_eye_color", 
+        "a68_rel_spectators", 
+        "a6_hair_color", 
+        "a75_address_current_partial", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "9452068064cf1dd6", 
+    "source_url": "https://farm7.staticflickr.com/3613/3549038537_cf0124773f_o.jpg"
+}

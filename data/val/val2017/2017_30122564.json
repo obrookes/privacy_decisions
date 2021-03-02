@@ -1,0 +1,17 @@
+{
+    "id": "2017_30122564", 
+    "image_path": "images/val2017/2017_30122564.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a4_gender", 
+        "a65_rel_social", 
+        "a68_rel_spectators", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "727bfa4093dc2327", 
+    "source_url": "https://farm8.staticflickr.com/8468/8120203436_a88f96a7fa_o.jpg"
+}

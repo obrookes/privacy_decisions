@@ -1,0 +1,10 @@
+{
+    "id": "2017_51326830", 
+    "image_path": "images/val2017/2017_51326830.jpg", 
+    "labels": [
+        "a19_name_full", 
+        "a79_address_home_partial"
+    ], 
+    "openimages_id": null, 
+    "source_url": null
+}

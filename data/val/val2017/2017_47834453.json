@@ -1,0 +1,12 @@
+{
+    "id": "2017_47834453", 
+    "image_path": "images/val2017/2017_47834453.jpg", 
+    "labels": [
+        "a19_name_full", 
+        "a26_handwriting", 
+        "a35_mail", 
+        "a73_landmark"
+    ], 
+    "openimages_id": "7492c13c8ce72968", 
+    "source_url": "https://c1.staticflickr.com/9/8513/8589767937_e79b721be6_o.jpg"
+}

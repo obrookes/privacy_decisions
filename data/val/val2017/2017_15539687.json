@@ -1,0 +1,11 @@
+{
+    "id": "2017_15539687", 
+    "image_path": "images/val2017/2017_15539687.jpg", 
+    "labels": [
+        "a38_ticket", 
+        "a75_address_current_partial", 
+        "a82_date_time"
+    ], 
+    "openimages_id": "00e87f4a4aaa8b59", 
+    "source_url": "https://c2.staticflickr.com/1/40/76361981_a6465b4279_o.jpg"
+}

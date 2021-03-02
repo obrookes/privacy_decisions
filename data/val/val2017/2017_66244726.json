@@ -1,0 +1,23 @@
+{
+    "id": "2017_66244726", 
+    "image_path": "images/val2017/2017_66244726.jpg", 
+    "labels": [
+        "a104_license_plate_partial", 
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a46_occupation", 
+        "a49_phone", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a65_rel_social", 
+        "a6_hair_color", 
+        "a73_landmark", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "92dd9812381f5648", 
+    "source_url": "https://c1.staticflickr.com/4/3710/11656225074_c1dbdb242d_o.jpg"
+}

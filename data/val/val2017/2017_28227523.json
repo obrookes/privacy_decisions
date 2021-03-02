@@ -1,0 +1,13 @@
+{
+    "id": "2017_28227523", 
+    "image_path": "images/val2017/2017_28227523.jpg", 
+    "labels": [
+        "a17_color", 
+        "a4_gender", 
+        "a57_culture", 
+        "a68_rel_spectators", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "5bd4df6a2d9a93e8", 
+    "source_url": "https://c1.staticflickr.com/4/3069/3067029702_4dd2a51013_o.jpg"
+}

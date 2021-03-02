@@ -1,0 +1,11 @@
+{
+    "id": "2017_56913729", 
+    "image_path": "images/val2017/2017_56913729.jpg", 
+    "labels": [
+        "a19_name_full", 
+        "a23_birth_city", 
+        "a24_birth_date"
+    ], 
+    "openimages_id": "8448c4fe58bab5a4", 
+    "source_url": "https://farm5.staticflickr.com/6073/6133879533_14247215b2_o.jpg"
+}

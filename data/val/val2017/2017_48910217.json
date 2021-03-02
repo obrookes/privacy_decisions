@@ -1,0 +1,11 @@
+{
+    "id": "2017_48910217", 
+    "image_path": "images/val2017/2017_48910217.jpg", 
+    "labels": [
+        "a19_name_full", 
+        "a26_handwriting", 
+        "a75_address_current_partial"
+    ], 
+    "openimages_id": "f5020d4d1eed3b4b", 
+    "source_url": "https://c4.staticflickr.com/6/5798/21285904849_670f136c64_o.jpg"
+}

@@ -1,0 +1,11 @@
+{
+    "id": "2017_26379693", 
+    "image_path": "images/val2017/2017_26379693.jpg", 
+    "labels": [
+        "a82_date_time", 
+        "a85_username", 
+        "a97_online_conversation"
+    ], 
+    "openimages_id": "67a861b04cc027be", 
+    "source_url": "https://c7.staticflickr.com/8/7201/6941130991_02fbb29dec_o.jpg"
+}

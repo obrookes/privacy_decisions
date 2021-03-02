@@ -1,0 +1,11 @@
+{
+    "id": "2017_38651846", 
+    "image_path": "images/val2017/2017_38651846.jpg", 
+    "labels": [
+        "a17_color", 
+        "a4_gender", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "c637a0642ca2cfee", 
+    "source_url": "https://c7.staticflickr.com/6/5525/12515557195_df2135e340_o.jpg"
+}

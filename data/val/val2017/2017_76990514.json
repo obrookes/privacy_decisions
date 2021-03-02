@@ -1,0 +1,11 @@
+{
+    "id": "2017_76990514", 
+    "image_path": "images/val2017/2017_76990514.jpg", 
+    "labels": [
+        "a21_name_last", 
+        "a75_address_current_partial", 
+        "a82_date_time"
+    ], 
+    "openimages_id": "dcf30e760b837fec", 
+    "source_url": "https://c5.staticflickr.com/2/1423/1003249771_0af4ebe45f_o.jpg"
+}

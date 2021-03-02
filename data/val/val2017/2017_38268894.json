@@ -1,0 +1,11 @@
+{
+    "id": "2017_38268894", 
+    "image_path": "images/val2017/2017_38268894.jpg", 
+    "labels": [
+        "a20_name_first", 
+        "a26_handwriting", 
+        "a43_medicine"
+    ], 
+    "openimages_id": "7f48714e31fa2536", 
+    "source_url": "https://farm7.staticflickr.com/3830/9662289070_839ebdccdd_o.jpg"
+}

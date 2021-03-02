@@ -1,0 +1,17 @@
+{
+    "id": "2017_21151144", 
+    "image_path": "images/val2017/2017_21151144.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a68_rel_spectators", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "926e2ce4c3fdc760", 
+    "source_url": "https://farm1.staticflickr.com/6085/6067926601_1a6f6a82a6_o.jpg"
+}

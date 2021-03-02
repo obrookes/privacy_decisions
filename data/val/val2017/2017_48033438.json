@@ -1,0 +1,10 @@
+{
+    "id": "2017_48033438", 
+    "image_path": "images/val2017/2017_48033438.jpg", 
+    "labels": [
+        "a30_credit_card", 
+        "a43_medicine"
+    ], 
+    "openimages_id": null, 
+    "source_url": null
+}

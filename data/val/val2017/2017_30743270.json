@@ -1,0 +1,17 @@
+{
+    "id": "2017_30743270", 
+    "image_path": "images/val2017/2017_30743270.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a46_occupation", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a66_rel_professional", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "bfe6cee8a66157fa", 
+    "source_url": "https://c3.staticflickr.com/4/3773/10727851106_34c3d3291f_o.jpg"
+}

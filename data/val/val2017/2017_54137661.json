@@ -1,0 +1,15 @@
+{
+    "id": "2017_54137661", 
+    "image_path": "images/val2017/2017_54137661.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a17_color", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a59_sports", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "c29031408d78b62a", 
+    "source_url": "https://c3.staticflickr.com/7/6064/6042379007_ee5501ec69_o.jpg"
+}

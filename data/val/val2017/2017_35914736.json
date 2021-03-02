@@ -1,0 +1,14 @@
+{
+    "id": "2017_35914736", 
+    "image_path": "images/val2017/2017_35914736.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender"
+    ], 
+    "openimages_id": "1b86f083e9b6d64a", 
+    "source_url": "https://c3.staticflickr.com/8/7675/16662714984_0a80304f59_o.jpg"
+}

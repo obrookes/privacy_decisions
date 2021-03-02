@@ -1,0 +1,17 @@
+{
+    "id": "2017_19919845", 
+    "image_path": "images/val2017/2017_19919845.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a68_rel_spectators", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "c306dac104d3eb16", 
+    "source_url": "https://farm7.staticflickr.com/3111/2355968742_1db6aacc04_o.jpg"
+}

@@ -1,0 +1,17 @@
+{
+    "id": "2017_20540809", 
+    "image_path": "images/val2017/2017_20540809.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a61_opinion_general", 
+        "a69_rel_views", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "efd1fc2d2f933be8", 
+    "source_url": "https://c1.staticflickr.com/7/6060/6242094486_57c5a9d2fd_o.jpg"
+}

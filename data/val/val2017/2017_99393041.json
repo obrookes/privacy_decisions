@@ -1,0 +1,23 @@
+{
+    "id": "2017_99393041", 
+    "image_path": "images/val2017/2017_99393041.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a11_tattoo", 
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a18_ethnic_clothing", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a57_culture", 
+        "a5_eye_color", 
+        "a64_rel_personal", 
+        "a68_rel_spectators", 
+        "a6_hair_color", 
+        "a73_landmark", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "9f91ee2bf6f8fccc", 
+    "source_url": "https://c5.staticflickr.com/4/3824/9190438261_5e2e77a500_o.jpg"
+}

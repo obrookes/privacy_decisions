@@ -1,0 +1,11 @@
+{
+    "id": "2017_44235222", 
+    "image_path": "images/val2017/2017_44235222.jpg", 
+    "labels": [
+        "a37_receipt", 
+        "a49_phone", 
+        "a82_date_time"
+    ], 
+    "openimages_id": "8e0f338e81534092", 
+    "source_url": "https://farm3.staticflickr.com/4062/4610113859_d8e59a5c37_o.jpg"
+}

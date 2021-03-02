@@ -1,0 +1,17 @@
+{
+    "id": "2017_39108192", 
+    "image_path": "images/val2017/2017_39108192.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a20_name_first", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a69_rel_views", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "d21a13f7bc8102e0", 
+    "source_url": "https://farm1.staticflickr.com/3430/3984150516_32c1e6ec48_o.jpg"
+}

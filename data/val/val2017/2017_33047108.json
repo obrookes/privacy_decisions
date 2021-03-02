@@ -1,0 +1,16 @@
+{
+    "id": "2017_33047108", 
+    "image_path": "images/val2017/2017_33047108.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a4_gender", 
+        "a64_rel_personal", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "fb728f904f94c0ee", 
+    "source_url": "https://c7.staticflickr.com/6/5451/6916611426_914f3b7c69_o.jpg"
+}

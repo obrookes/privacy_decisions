@@ -1,0 +1,17 @@
+{
+    "id": "2017_81204701", 
+    "image_path": "images/val2017/2017_81204701.jpg", 
+    "labels": [
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a6_hair_color", 
+        "a82_date_time", 
+        "a97_online_conversation", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "f2280bc0972d5cb4", 
+    "source_url": "https://farm5.staticflickr.com/4113/5024806909_13e24da7e0_o.jpg"
+}

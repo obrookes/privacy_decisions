@@ -1,0 +1,16 @@
+{
+    "id": "2017_48770807", 
+    "image_path": "images/val2017/2017_48770807.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a60_occassion_personal", 
+        "a68_rel_spectators", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "5566e84e5e6e984f", 
+    "source_url": "https://c8.staticflickr.com/3/2520/3757739583_729851cccf_o.jpg"
+}

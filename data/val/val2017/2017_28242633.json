@@ -1,0 +1,19 @@
+{
+    "id": "2017_28242633", 
+    "image_path": "images/val2017/2017_28242633.jpg", 
+    "labels": [
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a48_occassion_work", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a66_rel_professional", 
+        "a6_hair_color", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "f10b9d00c1b9165f", 
+    "source_url": "https://c8.staticflickr.com/2/1343/900927183_9d173b2d58_o.jpg"
+}

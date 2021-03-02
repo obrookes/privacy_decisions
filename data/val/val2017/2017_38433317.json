@@ -1,0 +1,18 @@
+{
+    "id": "2017_38433317", 
+    "image_path": "images/val2017/2017_38433317.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a4_gender", 
+        "a61_opinion_general", 
+        "a69_rel_views", 
+        "a6_hair_color", 
+        "a73_landmark", 
+        "a75_address_current_partial", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "2723d8410c190e21", 
+    "source_url": "https://farm2.staticflickr.com/3415/4614499513_ffa4b7bdf0_o.jpg"
+}

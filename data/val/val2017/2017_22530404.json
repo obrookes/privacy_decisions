@@ -1,0 +1,10 @@
+{
+    "id": "2017_22530404", 
+    "image_path": "images/val2017/2017_22530404.jpg", 
+    "labels": [
+        "a37_receipt", 
+        "a82_date_time"
+    ], 
+    "openimages_id": "f881d790202dee54", 
+    "source_url": "https://farm5.staticflickr.com/4043/4615378092_7362796dbf_o.jpg"
+}

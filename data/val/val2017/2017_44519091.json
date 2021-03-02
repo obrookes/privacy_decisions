@@ -1,0 +1,11 @@
+{
+    "id": "2017_44519091", 
+    "image_path": "images/val2017/2017_44519091.jpg", 
+    "labels": [
+        "a37_receipt", 
+        "a73_landmark", 
+        "a82_date_time"
+    ], 
+    "openimages_id": "7212ba7f102040aa", 
+    "source_url": "https://c3.staticflickr.com/8/7357/14131152156_8dbf4d83d5_o.jpg"
+}

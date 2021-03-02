@@ -1,0 +1,17 @@
+{
+    "id": "2017_52123945", 
+    "image_path": "images/val2017/2017_52123945.jpg", 
+    "labels": [
+        "a16_race", 
+        "a17_color", 
+        "a4_gender", 
+        "a56_sexual_orientation", 
+        "a57_culture", 
+        "a5_eye_color", 
+        "a68_rel_spectators", 
+        "a6_hair_color", 
+        "a73_landmark"
+    ], 
+    "openimages_id": "5f4ae3ffbb4671fa", 
+    "source_url": "https://c3.staticflickr.com/4/3880/14172547507_b79f9c1734_o.jpg"
+}

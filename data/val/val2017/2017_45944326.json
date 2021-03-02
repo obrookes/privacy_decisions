@@ -1,0 +1,19 @@
+{
+    "id": "2017_45944326", 
+    "image_path": "images/val2017/2017_45944326.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a4_gender", 
+        "a56_sexual_orientation", 
+        "a61_opinion_general", 
+        "a6_hair_color", 
+        "a73_landmark"
+    ], 
+    "openimages_id": "8b52dbe4cbda3475", 
+    "source_url": "https://farm6.staticflickr.com/169/392342517_535fca6a15_o.jpg"
+}

@@ -1,0 +1,12 @@
+{
+    "id": "2017_43802925", 
+    "image_path": "images/val2017/2017_43802925.jpg", 
+    "labels": [
+        "a17_color", 
+        "a2_weight_approx", 
+        "a4_gender", 
+        "a65_rel_social"
+    ], 
+    "openimages_id": "8054ac7b6d595f16", 
+    "source_url": "https://farm7.staticflickr.com/5443/9581890563_973b7223b3_o.jpg"
+}

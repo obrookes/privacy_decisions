@@ -1,0 +1,22 @@
+{
+    "id": "2017_62576864", 
+    "image_path": "images/val2017/2017_62576864.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a3_height_approx", 
+        "a48_occassion_work", 
+        "a4_gender", 
+        "a5_eye_color", 
+        "a62_opinion_political", 
+        "a66_rel_professional", 
+        "a6_hair_color", 
+        "a75_address_current_partial", 
+        "a9_face_complete"
+    ], 
+    "openimages_id": "af3989f439dc3b6d", 
+    "source_url": "https://c6.staticflickr.com/9/8599/15870475839_399067d68a_o.jpg"
+}

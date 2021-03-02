@@ -1,0 +1,16 @@
+{
+    "id": "2017_54343037", 
+    "image_path": "images/val2017/2017_54343037.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a13_full_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a4_gender", 
+        "a58_hobbies", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": null, 
+    "source_url": null
+}

@@ -1,0 +1,17 @@
+{
+    "id": "2017_42238963", 
+    "image_path": "images/val2017/2017_42238963.jpg", 
+    "labels": [
+        "a10_face_partial", 
+        "a12_semi_nudity", 
+        "a16_race", 
+        "a17_color", 
+        "a1_age_approx", 
+        "a2_weight_approx", 
+        "a46_occupation", 
+        "a4_gender", 
+        "a6_hair_color"
+    ], 
+    "openimages_id": "8da689baf5c5a408", 
+    "source_url": "https://c1.staticflickr.com/9/8454/8030650898_283acf2db4_o.jpg"
+}
