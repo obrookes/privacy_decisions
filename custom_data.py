@@ -15,11 +15,17 @@ class PrivacyDataset(Dataset):
         return len(self.labels)
     
     def __getitem__(self,index):
-        ext='.jpg'
-        img_id=self.img_ids.iloc[index]+ext
-        img_path=os.path.join(self.path,img_id)
-        img=io.imread(img_path)
-       
+        try:
+            ext='.jpg'
+            img_id=self.img_ids.iloc[index]+ext
+            img_path=os.path.join(self.path,img_id)
+            img=io.imread(img_path)
+        except:
+            ext='.png'
+            img_id=self.img_ids.iloc[index]+ext
+            img_path=os.path.join(self.path,img_id)
+            img=io.imread(img_path)
+        
         if self.transform:
             img = self.transform(img)
 
