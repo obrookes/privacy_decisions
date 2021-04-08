@@ -1,0 +1,5 @@
+jupyter
+pandas
+scikit-image
+torch
+torchvision
