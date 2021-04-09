@@ -1,5 +1,11 @@
+# Python & Jupyter
 .ipynb_checkpoints
-.venv
 __pycache__/
+.venv
 *__sandbox.ipynb
+
+# Data
 data/data_with_features.json
+
+# Misc
+.lvimrc
