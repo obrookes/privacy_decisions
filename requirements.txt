@@ -1,5 +1,6 @@
 jupyter
 pandas
+psutil
 scikit-image
 torch
 torchvision
