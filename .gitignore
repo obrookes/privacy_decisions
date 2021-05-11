@@ -8,7 +8,7 @@ __pycache__/
 ads-venv
 
 # Data
-data/data_with_features.json
+data/data_with_features.*
 images
 
 # Misc
