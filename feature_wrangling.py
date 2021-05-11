@@ -50,7 +50,6 @@ with open(file_name) as class_file:
 
 # Load the existing data
 main_data = pd.read_csv("data/data.csv")
-val_data = main_data[main_data.dataset == "validation"]
 
 # Wrangle the expression data
 dict_res = {}
@@ -79,7 +78,7 @@ expression_data.rename(columns=lambda x: f"expression_{x}", inplace=True)
 
 # Join the two dataframes
 data_with_expression = pd.merge(
-    val_data, expression_data, left_on="id", right_index=True, how="left"
+    main_data, expression_data, left_on="id", right_index=True, how="left"
 )
 
 # Drop the "N/A" objects
