@@ -5,16 +5,33 @@ import random
 import pandas as pd
 import torch
 
-with open("generated_features/val/val_expression.pt", "rb") as f:
-    buffer = io.BytesIO(f.read())
-expression_results = torch.load(buffer, map_location=torch.device("cpu"))
+expression_dict = {}
+for data_set in ["test", "train", "val"]:
+    with open(f"generated_features/{data_set}/{data_set}_expression.pt", "rb") as f:
+        buffer = io.BytesIO(f.read())
+        expression_dict[data_set] = torch.load(buffer, map_location=torch.device("cpu"))
+expression_results = [
+    pic for inner_list in expression_dict.values() for pic in inner_list
+]
 
-with open("generated_features/val/val_object_detection.pt", "rb") as f:
-    buffer = io.BytesIO(f.read())
-object_results = torch.load(buffer, map_location=torch.device("cpu"))
+object_dict = {}
+for data_set in ["test", "train", "val"]:
+    with open(
+        f"generated_features/{data_set}/{data_set}_object_detection.pt", "rb"
+    ) as f:
+        buffer = io.BytesIO(f.read())
+        object_dict[data_set] = torch.load(buffer, map_location=torch.device("cpu"))
+object_results = [obj for inner_list in object_dict.values() for obj in inner_list]
 
-with open("generated_features/val/val_places365.json", "r") as json_file:
-    places_result = json.load(json_file)
+places_dict = {}
+for data_set in ["test", "train", "val"]:
+    with open(
+        f"generated_features/{data_set}/{data_set}_places365.json", "r"
+    ) as json_file:
+        places_dict[data_set] = json.load(json_file)
+places_result = {
+    a: b for inner_dict in places_dict.values() for (a, b) in inner_dict.items()
+}
 
 # Get expression classes
 with open("class_files/expression_classes.txt", "r") as f:
