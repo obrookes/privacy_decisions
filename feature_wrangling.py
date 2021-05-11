@@ -111,4 +111,4 @@ all_data = pd.merge(
 
 # Write data to file
 all_data.to_json("data/data_with_features.json")
-all_data.to_json("data/data_with_features.csv", index=False)
+all_data.to_csv("data/data_with_features.csv", index=False)
