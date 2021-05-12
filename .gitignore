@@ -9,6 +9,7 @@ ads-venv
 
 # Data
 data/data_with_features.*
+data/augmented/
 images
 
 # Misc
